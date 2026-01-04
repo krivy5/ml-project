@@ -1,0 +1,5570 @@
+﻿column_name,normalized_label,map_id
+Cena byt vč. DPH m2,price,376
+layout,layout,136
+Celková podlahová pl.* m2,floor_area,146
+LOFT NO.,id,294
+cena-s-DPH,price,121
+VELIKOST_BYTU_m²,floor_area,347
+PARKOVACÍ MÍSTO m2,parking_place_number,349
+TERASA_/_BALKON,terrace_area,342
+budova,building,26
+Cena rezervovaného sklepa (Kč) *:,none,160
+STAV PRODEJE***,availability,232
+Čistá plocha bytu m2,floor_area,243
+PLOCHA BYTU M2*,floor_area,616
+sklep (m²).,cellar_area,548
+Celková podlahová pl. (m2),floor_area,43
+TYP BYTU,layout,227
+cena bytu* (vč. dph),price,176
+PARKOVÁNÍ:,none,344
+Karta bytu (m2),none,53
+Celková plocha (bez terasy) (m2),floor_area,385
+DISPOZICE (m2),layout,237
+Celková cena s DPH:,price,365
+Balkón / Terasa,exterior_area,286
+pozemek,total_area,41
+Typ_vlastnictví,none,629
+Cena vč. DPH a IS [m²],price,563
+Stav.,availability,9
+Rodinný dům,id,594
+Basement_storage,cellar_area,301
+title (m2),id,605
+cena * [m²],price,501
+balkon (m²) m2,balcony_area,547
+m² bytu.,floor_area,106
+B/T/Z-(m²)*,balcony_area,625
+Cena sklepa:,none,494
+Celková podlahová pl..,floor_area,43
+Užitná / Podlahová plocha [m²],floor_area,627
+OBLÍBENÉ m2,none,519
+Dům m2.,floor_area,418
+číslo domu,id,264
+B/T/L (m2),exterior_area,129
+PŘEDZAHRADA [m²],garden_area,529
+Výměra předzahrádky (v m2) [m²],garden_area,462
+Rooms Range.,none,571
+Dispozice m2,layout,3
+Cenikova cena,price,511
+Oblíbené.,none,163
+B/L/T (M²) m2,balcony_area,239
+building m2,building,604
+označení.,id,125
+Atrium.,none,492
+Terasa / lodžie (m2),exterior_area,313
+Balkón 2:,balcony_area,392
+CENA KČ **,price,38
+ZATRAVNĚNÁ TERASA/ TERASA (M2),terrace_area,402
+výběr-k-poptávce,none,362
+Celková_plocha_(užitná),floor_area2,383
+Balkon/terasa m2,balcony_area,229
+Označit k poptání.,none,403
+Plocha příslušenství [m²],exterior_area,282
+AMENITIES,none,201
+typ stání,none,541
+Jednotka č. m2,id,382
+balkon / terasa (m2),balcony_area,47
+Terasa/balkon (m2) m2,terrace_area,338
+Cena rezervovaného sklepa (Kč) * [m²],none,160
+název,id,214
+BALKON/TERASA M²,balcony_area,460
+CENA VČ. DPH.,price,355
+Cena s DPH,price,155
+Čistá-plocha,floor_area,513
+Plocha m² *:,floor_area,34
+Byt:,id,32
+Podlazi cislo,floor,447
+ČÍSLO JEDNOTKY,id,1
+2.NP,none,570
+VELIKOST BYTU m² [m²],floor_area,347
+Užitná_plocha_(m2)1),floor_area2,588
+Celková ceny bytu s DPH (m2),price,258
+rozloha celkem,floor_area,425
+Typ stání.,none,541
+title,id,605
+číslo jednotky [m²],id,283
+Availability:,availability,303
+Střešní zahrada m2,terrace_area,470
+Cena-bytu-bez-příslušenství-vč.-DPH,price,496
+cena celkem (m2),price,399
+Zastavěná plocha v m2 (m2),none,266
+Kód bytu (m2),id,490
+Plocha m²:,floor_area,4
+CENA VČETNĚ DPH,price,169
+Terasa předzahrádka,exterior_area,584
+Plocha-balkónu,balcony_area,306
+lodžie [m²],balcony_area,408
+Plocha (m²) [m²],floor_area,167
+VÝMĚRA-PARCELY,none,539
+PODLAHOVÁ PLOCHA (m2):,floor_area,312
+poptat.,none,401
+akční cena,price,512
+CELKOVÁ_UŽITNÁ_PLOCHA,floor_area2,538
+Balkon/Terasa,balcony_area,363
+Výměra pozemku (m2),total_area,439
+parkovaci stani,parking_place_number,410
+KOLAUDACE,none,145
+Počet pater [m²],none,446
+cena_*,price,501
+Balkon 2,balcony_area,392
+užitná plocha [m²],floor_area2,430
+Číslo j..,id,206
+Užitná plocha* [m²],floor_area2,147
+cena Kč (*) (m2),price,223
+Celkova plocha vc. prislusenstvi (m2),total_area,325
+Půdorys (PDF),none,31
+VELIKOST BYTU m² m2,floor_area,347
+Balkon m² m2,balcony_area,35
+Terasa/ Balkon/ Lodžie/ Zahrádka:,exterior_area,188
+TERASA / LODŽIE / ZAHRADA (M²),terrace_area,175
+Sklep (m2):,cellar_area,183
+parkovací stání [m²],parking_place_number,410
+dostupnost *,availability,502
+Galerie Pracovna (m2),none,585
+SOUBOR,none,291
+OZNAČIT K POPTÁNÍ,none,403
+cena (vč. DPH) [m²],price,590
+"AREA, M²",floor_area,138
+Cena (Kč) [m²],price,59
+OZNAČENÍ [m²],id,341
+Plocha-[m²],floor_area,327
+Premium / Smart,none,587
+Podlaží číslo m2,floor,447
+B/l/t (m²) 1),terrace_area,331
+cena od (kč),price,144
+Užitná plocha v m2:,floor_area2,265
+cena s DPH m2,price,121
+Podlahova plocha brutto [m²],floor_area,57
+rok dokončení,none,473
+Celková-plocha,floor_area,152
+celková plocha m²,total_area,37
+celková plocha (užitná),floor_area2,383
+Mám-Zájem,none,542
+Podlahová plocha* m2.,floor_area,228
+m² zimní zahrady.,garden_area,108
+Terasa v m2:,terrace_area,477
+Loggia / balcony (m2),balcony_area,299
+ČÍSLO BYTU [m²],id,311
+garaz,parking_place_number,549
+area,floor_area,572
+Balkon/terasa [m²] m2,exterior_area,58
+Parkovací_místo,none,204
+VÝMĚRA PARCELY,none,539
+Building m2,building,194
+Plocha příslušenství.,exterior_area,282
+Velikost pozemku m2,total_area,320
+Cena s DPH 12 % m2,price,582
+Plocha svislých konstrukcí:,none,384
+Cena vč. DPH * [m²],price,467
+Jednotka-č.,id,382
+Zahrada (m²) [m²],garden_area,250
+Cena Kc,price,285
+BYT (m2),id,273
+podrobnosti.,none,412
+"Užitná_plocha,_m²",floor_area2,245
+Cena garážového stání:,none,495
+terasa/balkon předzahrádka (m2).,exterior_area,449
+BALKÓN/ TERASA (m²) (m2),exterior_area,516
+PODLAŽÍ,floor,2
+Plocha predzahradky,garden_area,595
+Balkon / terasa [m²],exterior_area,377
+Terasa/lodžie,exterior_area,280
+parkovací_stání,parking_place_number,410
+Č. jednotky (m2),id,535
+Vizualizace domu [m²],none,441
+Ceníková-cena,price,511
+výběr k poptávce (m2),none,362
+PARKOVACÍ MÍSTO (m2),parking_place_number,349
+Zatravněná_terasa/_terasa_(m2),terrace_area,402
+CENA S DPH (Kč) [m²],price,518
+Číslo_bytu,id,10
+loft no.,id,294
+DOKUMENTACE,none,428
+CENA OD,price,459
+Celková plocha (m2):,total_area,340
+Cena celkem vč. DPH (Kč),price,253
+Zakladni cena,price,487
+lodžie (m2),balcony_area,408
+patro.,floor,503
+Dostupnost m2,availability,19
+Cena jednotky (kč) *,price,159
+podlahová plocha brutto [m²],floor_area,57
+Výměra celkem (v m2) (m2),total_area,464
+Price:,price,304
+Lodžie / terasa.,balcony_area,427
+Č. KN.,none,234
+Nadstandardní provedení,none,468
+Terasa / Lodžie / Zahrada (m²) (m2),terrace_area,175
+oblíbené,none,124
+cena_(vč._DPH),price,590
+Venkovni prostory,exterior_area,628
+Cena / Kč [m²],price,498
+Storage box (m2),none,278
+Plocha bytu (m2):,floor_area,622
+Plocha1:,floor_area,443
+užitná / podlahová plocha,floor_area,627
+VÝMĚRA,floor_area,46
+ZAHRÁDKA,garden_area,388
+1.NP.,none,569
+Cena celkem vč. DPH.,price,45
+Odh. nájem [m²],none,557
+Balkon-/-Terasa-/-Předzahrádka,exterior_area,358
+RODINNÝ DŮM,id,594
+Floor area [m²],floor_area,298
+Aktuální stav (m2),availability,263
+PŘEDZAHRADA m2,garden_area,529
+Plocha [m²] (m2),floor_area,327
+Detail:,none,40
+Velikost:,floor_area,424
+cena rezervované garáže (kč) *,none,161
+cena vč. DPH1),price,506
+Plocha_bytu_(m2),floor_area,622
+Balkon/​Lodžie/​Terasa/​Predzahrádka_(m²),balcony_area,272
+CENA S DPH 12 %,price,582
+Balcony/loggia/terrace,exterior_area,455
+celková podlahová pl.*,floor_area,146
+Balkon/Terasa m² (m2),balcony_area,460
+transakce (m2),none,398
+Parkovací-stání,none,15
+Lodžie [m²],balcony_area,50
+Celková cena.,price,596
+Stav,availability,9
+"Balkón, Lodžie, Terasa [m²]",exterior_area,164
+LOFT NO. [m²],id,294
+sklep/​sklepní kóje (m2),cellar_area,614
+PODLAHOVA PLOCHA (m2),floor_area,312
+Byt [m²],id,32
+Parkování_zdarma,none,527
+Výměra bytu,floor_area,150
+do katalogu [m²],none,400
+Patro (m2),floor,61
+Lodzie/terasa /predzahradka,balcony_area,586
+BALKÓN / PŘEDZAHRÁDKA / TERASA (M²),garden_area,168
+Balkon/Terasa m2.,balcony_area,229
+Stav-pouze-volné,availability,394
+Stav_inzerce,availability,556
+"CENA KOMPLET(BYT, LODŽIE/TERASA, SKLEP, GARÁŽOVÉ STÁNÍ) [m²]",price,318
+Zahrada (m2) [m²],garden_area,182
+č. bytu m2,id,413
+Terasa 1. NP m2,terrace_area,367
+Cena za byt s dph (bez příslušenství),price,191
+přísl. m2,exterior_area,617
+Dostupnost [m²],availability,19
+Byt_číslo,id,225
+Sklep/​Sklepní kóje (m2),cellar_area,614
+Dostupnost**:,availability,561
+Front-garden,garden_area,197
+cena (vč. DPH),price,590
+stav m2,availability,114
+Flats Count:,none,573
+Cena_celkem_vč._DPH,price,45
+Cena od (kč),price,144
+balkon/terasa (m2),exterior_area,500
+B/L/T m2,exterior_area,371
+Č. JEDNOTKY,id,219
+Sklep (m2),cellar_area,183
+Koupit online,none,480
+terasa/zahrada,exterior_area,172
+cena (m2),price,411
+CENA-S-DPH-(Kč),price,518
+Storage_box,none,278
+Typ vlastnictví,none,629
+Galerie Pracovna [m²],none,585
+konečná cena za byt vč. DPH:,price,113
+"Podlahova plocha, m²",floor_area,131
+PŘEDZAH. (M²) (m2),garden_area,240
+Plocha celkem (m2),floor_area,202
+Počet pokojů:,layout,322
+Příslušenství m2,none,62
+balkon/terasa m2,balcony_area,229
+terasa/ lodžie,terrace_area,30
+parkovací stání,none,15
+Front garden.,garden_area,197
+terasa/balkon (m2),terrace_area,338
+Cena s DPH 12 %:,price,582
+Lodžie / terasa (m²) (m2),balcony_area,158
+Typ domu [m²],none,419
+Parkování zdarma [m²],none,527
+Terasa/Lodžie m2,exterior_area,280
+* Cena 12% DPH,price,333
+BALKÓN m2,balcony_area,354
+"Balkón, Terasa, m²",exterior_area,246
+balkon/terasa-(m2),exterior_area,500
+Celková_cena_(vč._DPH),price,268
+B/L/T-m2,exterior_area,371
+Front_garden,garden_area,197
+karta domu,none,128
+cena-bez-DPH,none,112
+b/t/l (m2),exterior_area,293
+"Price-of-amenities,-inc.-VAT",price,200
+Orientace [m²],orientation,14
+Balkon m²:,balcony_area,35
+Terasa / Lodžie [m²],exterior_area,565
+bytová jednotka,id,149
+Unit No. m2,id,134
+B/T/L:,exterior_area,129
+Cena bytu bez příslušenství vč. dph,price,496
+B/T/Z (m2),exterior_area,63
+Zahrada m² [m²],garden_area,36
+"podlahová plocha, m²",floor_area,131
+Počet pokojů (m2),layout,322
+podlahová plocha.,floor_area,405
+CENA ZA PŘÍSLUŠENSTVÍ S DPH,price,192
+VILA.,id,612
+sklepní kóje (ks),none,252
+Lodžie/Balkon-Terasa/Zahrádka-(m²),balcony_area,466
+Cena s DPH v KČ* m2,price,603
+plocha-celkem-m2,total_area,372
+Příslušenství v ceně (m2),none,326
+building [m²],building,604
+Cena za byt s DPH (bez příslušenství) m2,price,191
+pozemek (m²):,garden_area,550
+lodžie / terasa / předzahrádka,exterior_area,598
+Podlahová plocha brutto [m²] m2,floor_area,57
+celková plocha vč. příslušenství (m2),total_area,325
+cena celkem:,price,399
+TERASA/LODŽIE,exterior_area,280
+BALKON / TERASA,balcony_area,27
+FINAL PC [Kč].,price,328
+B/T3),exterior_area,505
+terasa/balkon předzahrádka (m2):,exterior_area,449
+Byt č. [m²],id,254
+Premium / smart,none,587
+B/L/T (m2) m2,balcony_area,623
+Cena_vč._dph_1),price,581
+Balkon/terasa [m2],exterior_area,179
+Terasa / balkon (m²) m2,exterior_area,249
+JEDNOTKY,id,423
+Cena byt vč. DPH (m2),price,376
+PODLAZI,floor,236
+Parking m2,none,335
+Sekce (m2),building,525
+BUDOVA (m2),building,235
+Terasa_Předzahrádka,exterior_area,584
+kód:,id,448
+užit. plocha (m2),floor_area2,532
+Sklepní kóje m2,cellar_area,211
+PLOCHA (M2),floor_area,119
+Byt_m2,floor_area,178
+Umístění.,none,208
+virtualni prohlidka,none,554
+Terasa/lodžie (m2):,balcony_area,181
+Užitná plocha (m2) [m²],floor_area2,23
+Balkon_/_Terasa_/_Předzahrádka,exterior_area,358
+celková plocha**,total_area,212
+PODLAH. PLOCHA,floor_area,330
+Stav jednání (m2),availability,28
+"Price-excluding-amenities,-inc.-VAT",none,199
+speciální vybavení,none,64
+BALKÓN/_TERASA_(m²),exterior_area,516
+předzahrádka [m²],garden_area,409
+UŽITNÁ PLOCHA V M2,floor_area2,265
+Plocha-(m2)-2),floor_area,578
+TERASA / ZAHRADA m² (m2),exterior_area,348
+Investicni potencial,none,162
+m² balkonu (m2),balcony_area,109
+Výměra bytu:,floor_area,150
+Sklep-/-Komora-(m2),cellar_area,49
+cena vč. DPH,price,432
+min. vklad,none,130
+BUDOVA:,building,235
+NP (m2),floor,12
+Dostupnost** (m2),availability,561
+Cena bytu vč. DPH.,price,165
+Cena bytu bez prislusenstvi vc. DPH,price,496
+basement storage,cellar_area,301
+Celková plocha (užitná):,floor_area2,383
+NP.,floor,12
+Cena celkem vč. 12% DPH (m2),price,393
+Plocha_m²,floor_area,4
+Price inc. vat,price,456
+AKČNÍ CENA,price,512
+Pozemek (m²),garden_area,550
+Terasa/lodžie-(m2),balcony_area,181
+Balkon / Terasa.,balcony_area,27
+Celková cena,price,596
+BALKON / TERASA:,exterior_area,275
+Plocha (m2) [m²],floor_area,292
+strop (m),none,370
+Typ jednotky [m²],category,270
+B/L/T (m2).,balcony_area,623
+celková plocha:,none,111
+Cena (?) [m²],price,485
+KARTA-BYTU,none,319
+podl._plocha2),floor_area,504
+CAR LIFT,none,295
+č. bytu [m²],id,413
+LODŽIE,balcony_area,50
+Balkón / Předzahrádka / Terasa (m²) (m2),garden_area,168
+pl. podl.,floor_area,289
+Cena vč. DPH*:,price,171
+Podlahová plocha (m2):,floor_area,22
+budova:,building,499
+Front garden,garden_area,197
+kód bytu,id,490
+"Terasa, balkon (m2) (m2)",exterior_area,577
+"Terasa,_balkon_(m2)",exterior_area,577
+cena vč. DPH.,price,432
+Velikost pozemku (m2),total_area,320
+Balkon/​Lodzie/​Terasa/​Predzahradka (m²),balcony_area,272
+Balkon/Terasa [m²],balcony_area,363
+GPS m2,none,442
+PARKOVACÍ-MÍSTO,parking_place_number,349
+B/L/T M2,exterior_area,371
+parkovací stání.,parking_place_number,410
+"Balkón, Lodžie, Terasa",exterior_area,164
+Konečná cena.,price,507
+velikost zahrady v m2,garden_area,267
+pozemek (m2) [m²],total_area,589
+cena (vc. DPH),price,590
+Vymera bytu (v m2),floor_area,461
+STAV INZERCE,availability,556
+ETAPA,none,390
+Dům m2:,floor_area,418
+Výměra terasy (v m2):,terrace_area,463
+Info.,none,269
+Cena / Kc,price,498
+stav:,availability,114
+Užitná plocha * [m²],floor_area2,217
+Cena za příslušenství s dph,price,192
+Cena s DPH (Kc),price,491
+BYT,id,32
+Detail m2,none,40
+Podl. plocha1),floor_area,592
+Plocha_m2,floor_area,323
+Užitná-plocha*,floor_area2,147
+"Balcony,-terrace,-m²",exterior_area,139
+B/T/L.,exterior_area,129
+Kolaudace:,none,145
+Cena Kč/m2 (bez DPH).,none,66
+Uzitna plocha m2,floor_area2,18
+Detail bytu m2,none,7
+TERASA V M2,terrace_area,477
+Balkon / Terasa,balcony_area,27
+Price (CZK) (m2),price,141
+Status:,availability,39
+Užitná plocha v m2.,floor_area2,265
+Obytná-plocha,floor_area2,426
+do katalogu.,none,400
+celková plocha.,none,111
+Užitná plocha (m2)1) (m2),floor_area2,588
+B/L/T (m²) 1),terrace_area,331
+Cena s dph (kč),price,450
+užitná plocha m2.,floor_area2,220
+Front garden [m²],garden_area,197
+cena vč. DPH [m²],price,432
+Speciální vybavení [m²],none,64
+TERASA m2,terrace_area,458
+Flats count,none,573
+Available flats count,none,574
+"Predzahradka, terasa, balkon (m2)",exterior_area,600
+m² bytu,floor_area,106
+Ozeleněná terasa.,terrace_area,154
+Byt číslo.,id,225
+Užitná-plocha-(m²),floor_area2,248
+BALKON / TERASA m2,exterior_area,275
+PODLAŽÍ.,floor,236
+Podlahova plocha m2,floor_area,17
+TERASA / LODZIE (m2),exterior_area,313
+Floor space m2,floor_area,195
+Premium / Smart [m²],none,587
+Lodžie/Balkon Terasa/Zahrádka (m²) (m2),balcony_area,466
+Predzahradka,garden_area,48
+balkón 2,balcony_area,392
+Lodžie/terasa-/předzáhradka,balcony_area,586
+Usazení na pozemku.,none,440
+cena_s_DPH,price,121
+Velikost.,floor_area,424
+Loggia / balcony.,balcony_area,299
+ZAHRÁDKA V M2,garden_area,476
+Výměr (m2),floor_area,203
+TERASA/ BALKON/ LODŽIE/ ZAHRÁDKA,exterior_area,188
+Patro,floor,61
+Pl. zahrady,garden_area,290
+m² balkonu:,balcony_area,109
+PDF (m2),none,123
+Plocha bytu m2* m2,floor_area,616
+Cena Kc/m2 (bez DPH),none,66
+rooms:,layout,606
+Parkovací místo [m²],none,204
+Terasa 1. NP:,terrace_area,367
+Stav inzerce (m2),availability,556
+Balkon,balcony_area,44
+Termín k nastěhování.,none,52
+Celková_cena,price,596
+Stav inzerce:,availability,556
+kupní cena s dph,price,621
+stav **,availability,534
+Cena vč. DPH (m2),price,51
+Nazev,id,214
+Byt. zn. [m²],id,452
+Byt-č.,id,254
+cena jednotky vč. dph,price,387
+Prodejní cena [m²],price,213
+Garážové stání (ks).,none,251
+balkón / terasa.,balcony_area,417
+Vymera,floor_area,46
+Balkón/Terasa.,exterior_area,559
+Cena bytu vč. příslušenství (Kč s DPH)* [m²],price,262
+Balkon/Terasa m2 (m2),balcony_area,229
+Plocha m2.,floor_area,323
+B/L/T (M²):,balcony_area,239
+Umisteni,none,208
+Velikost_pozemku,total_area,320
+Stav jednani,availability,28
+Stav** m2,availability,626
+balkón / terasa:,balcony_area,417
+cena-s-DPH-(Kč),price,450
+Price_inc._VAT,price,456
+Užitná_plocha,floor_area2,25
+Sekce.,building,525
+plocha_celkem_m2,total_area,372
+Plocha teras (m2),terrace_area,210
+PODLAHOVÁ PLOCHA (m2) (m2),floor_area,312
+Speciální vybavení (m2),none,64
+Unit no.,id,134
+Cena Kč/m2 (bez DPH):,none,66
+Garážové stání (ks) [m²],none,251
+Kód_bytu,id,490
+Cena vc DPH,price,380
+Byt.,id,32
+terasa/balkon předzahrádka (m2) [m²],exterior_area,449
+Evidencni cislo,id,445
+CENA S DPH (Kč).,price,518
+Terasa-/-Balkon,terrace_area,469
+Exteriér.,exterior_area,190
+Cena_(Kč),price,59
+Výměra bytu.,floor_area,150
+Plocha (m²) m2,floor_area,167
+Lodžie/terasa /předzáhradka m2,balcony_area,586
+B/t/z (m²)*,balcony_area,625
+Balkon-/-terasa,exterior_area,377
+Dokonceni,none,65
+Price-(CZK),price,141
+Užitná plocha (m²).,floor_area2,248
+plocha předzahrádky m2,garden_area,230
+"Balkon, terasa, m²",terrace_area,132
+m² zimní zahrady [m²],garden_area,108
+cena_Kč_(*),price,223
+číslo jednotky:,id,283
+Akce [m²],none,103
+Dům číslo m2,id,436
+POPTAT-BYT,none,351
+OBJEKT,building,54
+parkování.,parking_place_number,416
+podlahova Plocha,floor_area,537
+Lodžie/Balkon Terasa/Zahrádka (m²).,balcony_area,466
+B/L/T (m²) 1).,terrace_area,331
+Cena* (m2),price,560
+Zahrada_s_terasou,garden_area,364
+NP [m²],floor,12
+CELKOVÁ UŽITNÁ PLOCHA (m2),floor_area2,538
+zahrada,garden_area,126
+transakce,none,398
+SKLEPNÍ KÓJE (KS),none,252
+plocha_(m2),floor_area,119
+Premium / Smart.,none,587
+Domy:,id,486
+b/t3),exterior_area,505
+Floor space (m2),floor_area,195
+Celková_podlahová_pl.*,floor_area,146
+PRICE INC. VAT,price,456
+Celková plocha bytu (m²) [m²],floor_area,174
+Stav **,availability,534
+Cena celkem vč. DPH [m²],price,45
+PLOCHA CELKEM,floor_area,202
+cena bytu bez příslušenství vč. dph,price,496
+PUDORYS,none,523
+Cena vč. DPH.,price,51
+Projekt.,none,281
+C.j.,id,20
+garáž:,parking_place_number,549
+UŽIT. PLOCHA (M2),floor_area2,532
+Typ vlastnictví:,none,629
+PDF bytu.,none,602
+Ozeleněná terasa (m2),terrace_area,154
+PARKOVANI,none,344
+"Podlahová plocha, m².",floor_area,131
+Cena-s-DPH-12-%-/-21-%,price,472
+Karta bytu.,none,53
+m² terasy [m²],terrace_area,110
+Loggia-/-balcony,balcony_area,299
+Blok,building,116
+podl. plocha,floor_area,414
+completion,none,198
+Cena vč. DPH [m²],price,51
+Typ domu (m2),none,419
+B/L/T m2 (m2),exterior_area,371
+virtuální prohlídka m2,none,554
+Plocha svislých konstrukcí,none,384
+Cena-vč.-DPH,price,51
+Plocha1 (m2),floor_area,443
+Podlahová plocha* m2 [m²],floor_area,228
+VÝMĚR,floor_area,203
+Cena rezervované garáže (kč) *,none,161
+Cista plocha,floor_area,513
+NEMOVITOST,id,395
+Terasa/ Lodžie,terrace_area,30
+Výnos,none,558
+Zahrada_m²,garden_area,36
+Zahrádka v m2,garden_area,476
+cena bez dph,none,112
+Plocha_pozemku,total_area,148
+Balkón / terasa,exterior_area,286
+Užitná plocha v m2 m2,floor_area2,265
+Cena příslušenství vč. DPH (m2),none,497
+PŮDORYSY,none,597
+Termín k nastěhování [m²],none,52
+TERASA / LODŽIE (m2) (m2),exterior_area,313
+Půdorys_(PDF),none,31
+Sekce m2,building,525
+POPTAT_BYT,none,351
+Cena vč. dph 1) (m2),price,581
+Stav_jednání,availability,28
+Cena jednotky vč. dph,price,387
+Cena garážového stání.,none,495
+Cena rezervovaného sklepa (Kč) *.,none,160
+PŮDORYS BYTU (m2),none,350
+Počet pokojů [m²],layout,322
+Stav inzerce,availability,556
+Zahrada střešní zahrada (m2) (m2),garden_area,580
+Typ stání m2,none,541
+Číslo /Kód jednotky [m²],id,379
+Aktualne,availability,259
+Availability m2,availability,303
+Cena bytu vč. DPH [m²],price,165
+Cena jednotky vč. DPH.,price,387
+výměra pozemku,total_area,439
+Balkón 2 (m2),balcony_area,392
+Balkon/Terasa/Lodžie/ Zahrada (předzahrádka) m2,balcony_area,186
+VÝBĚR K POPTÁVCE,none,362
+Balkón/Terasa (m2),exterior_area,559
+FINAL PC [Kc],price,328
+transakce.,none,398
+Byt číslo (m2),id,225
+plocha celkem,floor_area,202
+Cena s DPH (Kč):,price,491
+cena bytu vč. dph,price,165
+Terasa / Balkon m2,terrace_area,469
+terasa:,terrace_area,406
+poptat byt,none,351
+Completion [m²],none,198
+stav (m2),availability,114
+Atrium (m2),none,492
+Info:,none,269
+PROVEDENÍ,none,620
+dostupnost:,availability,451
+užitná plocha,floor_area2,25
+PARKOVACI MISTO,parking_place_number,349
+Cena* m2,price,560
+užitná_plocha,floor_area2,430
+CELKOVÁ PLOCHA (M²),none,216
+m² pozemku:,garden_area,107
+Podlaží [m²],floor,2
+STANDARD:,none,517
+CENA VČ. DPH1),price,506
+Lodžie/Terasa:,exterior_area,207
+Předzahrádka (m2),garden_area,48
+VELIKOST BYTU m²,floor_area,347
+Plocha m² (m2),floor_area,4
+Terasa/_Balkon/_Lodžie/_Zahrádka,exterior_area,188
+VELIKOST POZEMKU,total_area,320
+PLOCHA RD,floor_area,438
+Plocha bytu v m² (m2),floor_area,256
+sklep (m2),cellar_area,183
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m²) (m2),balcony_area,272
+Stav ** m2,availability,534
+Balkon/​lodžie/​terasa/​predzahrádka (m²),balcony_area,272
+Projekt m2,none,281
+TYP:,category,514
+FLATS COUNT,none,573
+Přísl. m2.,exterior_area,617
+Cena bez DPH:,none,324
+area size [m²],floor_area,607
+Aktuální stav m2,availability,263
+Balkón-2,balcony_area,392
+Kupní cena s DPH.,price,621
+Číslo bytu m2,id,10
+Půdorysy [m²],none,597
+Konečná cena m2,price,507
+PLOCHA-(m²),floor_area,515
+Podl. plocha (m2),floor_area,414
+podlaží (m2),floor,117
+Celkem:,none,566
+cena_vč._DPH1),price,506
+Velikost_bytu,layout,474
+Podlahova_plocha,floor_area,17
+Terasa_/_Lodžie,exterior_area,565
+Celková cena m2,price,596
+Balkón 2,balcony_area,392
+BALKON/LODŽIE.,balcony_area,528
+Jednotka č. (m2),id,382
+Sklep-(m2),cellar_area,183
+Strop (m) [m²],none,370
+Cena bytu s DPH,price,360
+Termín-k-nastěhování,none,52
+Celková plocha,none,111
+Byt číslo:,id,225
+Plocha (m2) 2),floor_area,578
+Car_lift,none,295
+NASTĚHOVÁNÍ,none,224
+PLOCHA PŘEDZAHRÁDKY,garden_area,595
+Ozeleněná terasa,terrace_area,154
+UŽITNÁ / PODLAHOVÁ PLOCHA,floor_area,627
+Cena příslušenství vč. DPH m2,none,497
+Cena od (Kc),price,144
+ATRIUM,none,492
+Kupní cena s DPH,price,621
+příslušenství (m2),none,120
+terasa/balkon předzahrádka (m2),exterior_area,449
+Popis m2,layout,509
+DOSTUPNOST**,availability,561
+Celková plocha (m²).,none,216
+Plocha:,floor_area,11
+Cena vč. DPH (Kč)* [m²],price,444
+Flats Count (m2),none,573
+Plocha-m2,floor_area,323
+Cena s DPH 12 % [m²],price,582
+dům číslo,id,436
+Prodejní cena.,price,213
+byt (m2),id,429
+bytová jednotka (m2),id,576
+Area size,floor_area,607
+Stav** (m2),availability,626
+umístění,none,208
+Cena_za_příslušenství_s_DPH,price,192
+typ,category,13
+BALKON/ TERASA (m²),exterior_area,516
+Soubor,none,291
+podlahová-Plocha,floor_area,537
+Zahrada (m²) m2,garden_area,250
+Cena Kč:,price,285
+Available_Flats_Count,none,574
+Číslo_j.,id,206
+Celková podlahová pl.*:,floor_area,146
+Cena_příslušenství_vč._DPH,none,497
+availability,availability,303
+Stav pouze volné m2,availability,394
+CENA V KČ (VČ. DPH),price,184
+title.,id,605
+B / T [m²],exterior_area,593
+Celková plocha * (m2),total_area,391
+KOUPIT ONLINE,none,480
+Terasa/lodžie (m2) [m²],balcony_area,181
+Podlahová plocha vč. garáže m2,floor_area,366
+sklepní kóje (m²),cellar_area,215
+č. bytu,id,413
+Bytova jednotka,id,149
+GPS.,none,442
+Typ stani,none,541
+Plocha m² * [m²],floor_area,34
+cena bez DPH (m2),none,112
+Kupní cena s DPH [m²],price,621
+projekt:,none,396
+typ nabídky,category,353
+Cena od (Kč) m2,price,144
+Základní cena (m2),price,487
+Total area,total_area,297
+1.NP (m2),none,569
+plocha1,floor_area,443
+Infolist,none,279
+Bytová jednotka.,id,149
+Celková plocha bytu (m²) m2,floor_area,174
+Budova:,building,26
+Stav pouze volné,availability,394
+B/T/L (m2):,exterior_area,293
+Označení_bytu,id,173
+Plan PDF,none,619
+Užit._plocha_(m2),floor_area2,532
+detail-bytu,none,166
+Cena v Kč (vč. DPH).,price,184
+BALKON/TERASA (M2),exterior_area,500
+Výměr [m²],floor_area,203
+"Výměra pozemku, m² [m²]",total_area,142
+sklep m²,cellar_area,5
+Prodejní cena:,price,213
+cena bez DPH:,none,112
+Available Flats Count [m²],none,574
+Balkon / terasa (m2),balcony_area,47
+Výměr:,floor_area,203
+Základní_cena,price,487
+virtuální-prohlídka,none,554
+Cena za bytovou jednotku s DPH.,price,378
+cena s DPH,price,121
+Terasa-v-m2,terrace_area,477
+Č. bytu m2,id,524
+Cena-bez-DPH,none,324
+PODLAHOVA PLOCHA,floor_area,17
+příslušenství,none,62
+podl. plocha1),floor_area,592
+Balkon / terasa (m2):,balcony_area,47
+LODŽIE/TERASA:,exterior_area,599
+Podlaží (m2),floor,2
+Plocha (m2),floor_area,11
+LODŽIE / TERASA / PŘEDZAHRÁDKA,exterior_area,598
+Pozemek-(m2),total_area,21
+Termín nastěhování [m²],none,189
+Dům (m2),id,102
+VÝMĚRA PARCELY.,none,539
+Zastavěná plocha v m2,none,266
+plocha pozemku,total_area,148
+"Balkón, Lodžie, Terasa (m2)",exterior_area,164
+ROOFTOP TERRACE,terrace_area,300
+Dům-číslo,id,436
+Číslo domu,id,264
+Označení bytu m2,id,173
+Terasa Předzahrádka [m²],exterior_area,584
+Sekce,building,525
+Podlah. plocha,floor_area,330
+Cena za byt s DPH (bez příslušenství).,price,191
+Cena bytu vč. sklepa (m2),price,310
+Cena vč. DPH** m2,price,231
+akce,none,103
+Výměra,floor_area,46
+cena *,price,501
+Cena jednotky (Kč) *:,price,159
+Celková_plocha**,total_area,212
+Cena rezervovaného sklepa (Kč) * m2,none,160
+balkón/ terasa (m²),exterior_area,516
+np.,floor,618
+"Předzahrádka, m²:",garden_area,133
+building,building,194
+Označení m2,id,29
+Detail bytu,none,7
+Sklep/​Sklepní kóje (m2).,cellar_area,614
+Balkón m2,balcony_area,334
+Cena bytu bez příslušenství vč. DPH.,price,496
+Balkón/Terasa m2,exterior_area,559
+dům:,id,433
+Sklepní-kóje-(ks),none,252
+Garážové-stání,parking_place_number,389
+Vymera predzahradky (v m2),garden_area,462
+Floor space [m²],floor_area,195
+Kód (m2),id,336
+Disp. [m²],layout,329
+m²_terasy,terrace_area,110
+M² POZEMKU,garden_area,107
+Investiční potenciál [m²],none,162
+b / t,exterior_area,593
+parkng,parking_place_number,564
+Půdorys (PDF) [m²],none,31
+výměra celkem (v m2),total_area,464
+Počet pater.,none,446
+Galerie Pracovna m2,none,585
+NP. (m2),floor,618
+Celková-plocha-(užitná),floor_area2,383
+Uzitna plocha *,floor_area2,217
+Plocha bytu [m²],floor_area,305
+Plán (m2),none,60
+soubor,none,291
+cena vč. dph 1),price,581
+Floor_space,floor_area,195
+C. bytu,id,524
+balcony area size.,balcony_area,609
+Katalogový list:,none,185
+"area, m²",floor_area,138
+Částečně vybaveno [m²],none,308
+PARKOVÁNÍ (m2),none,344
+Info [m²],none,269
+plocha balkónu,balcony_area,306
+Užitná-plocha-(m2),floor_area2,23
+Sklep m²,cellar_area,5
+terasa 1. np,terrace_area,367
+Celková ceny bytu s DPH m2,price,258
+"Balkon,_terasa,_m²",terrace_area,132
+Sklepní kóje (m²) [m²],cellar_area,215
+Cena_jednotky_(Kč)_*,price,159
+Příslušenství: Zahrada (m2) Lodžie (m2) Terasa (m2),exterior_area,261
+Parkování zdarma:,none,527
+Celková cena (vč. DPH).,price,268
+terasa,terrace_area,153
+B/L/T (m²) 1) (m2),terrace_area,331
+Cena_vč._DPH_*,price,467
+Cena / kč,price,498
+Celková plocha:,floor_area,152
+Parking [m²],none,335
+Garaz,none,218
+Vybaveni 2),none,332
+Podlahová_plocha*,floor_area,209
+Cena bytu vč. sklepa,price,310
+status m2,availability,611
+Cena_Kč_**,price,38
+PLOCHA BYTU,floor_area,305
+Plocha predzahradky m2,garden_area,230
+Unit No..,id,134
+Byt ***.,id,531
+TYP JEDNOTKY,category,270
+plán pdf,none,619
+"Balkón, Terasa, m²:",exterior_area,246
+B/L/T-(m2)-3),balcony_area,579
+Lodžie/Terasa.,exterior_area,207
+Cena celkem vč. DPH (m2),price,45
+Terasa/lodžie (m2) (m2),balcony_area,181
+VÝMĚRA PARCELY m2,none,539
+Karty (m2),none,373
+balkon/lodžie,balcony_area,528
+Termín dokončení [m²],none,420
+Dispozice bytu (m2),layout,255
+BALKON-/-TERASA,exterior_area,275
+Celková plocha (bez terasy).,floor_area,385
+Číslo a označení bytu m2,id,226
+"Balkon, Lodzie, Terasa",exterior_area,164
+PL. PODL.,floor_area,289
+Velikost-bytu,layout,474
+Stav jednání:,availability,28
+Dům_číslo,id,436
+Akce:,none,103
+Cena Kc **,price,38
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m2) (m2),balcony_area,615
+Předzahrada m2,garden_area,435
+Cena bytu vc. prislusenstvi (Kc s DPH)*,price,262
+cena-*,price,501
+Sklep / Komora (m2).,cellar_area,49
+Stav pouze volné [m²],availability,394
+"Balcony, terrace, m² m2",exterior_area,139
+Číslo-bytu,id,10
+plocha (m2):,floor_area,119
+Celková-plocha-(bez-terasy),floor_area,385
+cena s dph 12 %,price,582
+Aktuální stav domu m2,none,437
+Dispozice [m²],layout,3
+Type.,category,137
+CENA (KČ),price,59
+Označit k poptání [m²],none,403
+Termín nastěhování:,none,189
+Pozemek (m2) m2,total_area,21
+CENA VČ. DPH*,price,171
+Označení.,id,29
+B/L/T (m²) 1):,terrace_area,331
+PLOCHA [m²],floor_area,274
+Cena bytu vč. sklepa:,price,310
+stav-prodeje,availability,552
+Popis:,layout,509
+Orientation,orientation,302
+B/L/T m2 m2,exterior_area,371
+ČÍSLO-BYTU,id,311
+Terasa Predzahradka,exterior_area,584
+Terasy / Zahrady (?) [m²],exterior_area,483
+Price range,none,575
+Zahrada s terasou:,garden_area,364
+sklep-(m²),cellar_area,548
+Cena bytu s DPH [m²],price,360
+karta bytu [m²],none,553
+Cena celkem m2,price,421
+Typ prostoru,category,321
+užitná-plocha,floor_area2,430
+Premium / Smart m2,none,587
+SEKCE,building,525
+Apartment:,id,193
+Cena s DPH 12 % / 21 %.,price,472
+MEDIA.,none,242
+LOFT NO..,id,294
+TOTAL AREA,total_area,297
+Základní cena:,price,487
+Poptat,none,8
+Terasa / Balkon.,terrace_area,469
+terasa/balkon [m²],balcony_area,431
+M² BYTU,floor_area,106
+Plán pdf,none,619
+Provedeni,none,620
+Plocha předzahrádky m2:,garden_area,230
+Terasa/balkon (m2),terrace_area,338
+Užitná plocha (m2):,floor_area2,23
+PODL. PLOCHA,floor_area,414
+TERASA / LODŽIE (m2),exterior_area,313
+Celková plocha m² (m2),total_area,37
+podl. plocha2).,floor_area,504
+GS,none,471
+Dispozice bytu [m²],layout,255
+cena vč. dph,price,51
+Id,id,42
+"Plocha domu od, m²:",floor_area,143
+Cena příslušenství vč. DPH [m²],none,497
+Plocha bytu v m².,floor_area,256
+cena_s_DPH_(Kč),price,450
+NÁZEV,id,214
+Prodejní-plocha-bytu,floor_area,374
+Cena bytu* (vč. DPH) (m2),price,176
+Výměra-předzahrádky-(v-m2),garden_area,462
+Poptávka [m²],none,359
+B/l/t (m2),balcony_area,623
+Cena bytu s DPH.,price,360
+PARKNG,parking_place_number,564
+Plocha balkonu,balcony_area,306
+Aktuální-stav-domu,none,437
+Stav inzerce.,availability,556
+Cena celkem vč. DPH (Kč) (m2),price,253
+výměra předzahrádky (v m2),garden_area,462
+detail (m2),none,288
+Užitná plocha m2,floor_area2,25
+Price Range [m²],none,575
+m² bytu [m²],floor_area,106
+Podlahová plocha (m²):,floor_area,157
+Balkon/terasa [m2] m2,exterior_area,179
+Amenities m2,none,201
+prislusenstvi,none,120
+Detail bytu:,none,7
+Výměra bytu (m2),floor_area,150
+GPS [m²],none,442
+VÝMĚRA PŘEDZAHRÁDKY (V M2),garden_area,462
+Celková cena s DPH (m2),price,365
+Katalogový list (m2),none,185
+Lodžie/terasa,exterior_area,207
+Atrium m2,none,492
+podl. plocha2) (m2),floor_area,504
+Terasa Předzahrádka:,exterior_area,584
+Č.j. m2,id,20
+Plocha místností.,floor_area,510
+Pl. zahrady (m2),garden_area,290
+VILA,id,612
+Lodžie/Balkon_Terasa/Zahrádka_(m²),balcony_area,466
+Přísl. m2 m2,exterior_area,617
+Střešní-zahrada,terrace_area,470
+NP. [m²],floor,618
+PLOCHA (m²) m2,floor_area,515
+Total_area,total_area,297
+CELKOVÁ PLOCHA,none,111
+karty,none,373
+VÝMĚRA PARCELY (m2),none,539
+ORIENTACE:,orientation,314
+Standard,none,56
+Typ domu m2,none,419
+Balkon/Terasa-m2,balcony_area,229
+"Price of amenities, inc. VAT (m2)",price,200
+Cena v Kč (vč. DPH),price,184
+Stav prodeje,availability,552
+příslušenství:,none,120
+PARKNG m2,parking_place_number,564
+Zahrada (m2),none,151
+Cena celkem vč. DPH (Kč) m2,price,253
+B/T/L (m2) (m2),exterior_area,293
+Cena příslušenství vč. DPH,none,497
+Cena s DPH:,price,155
+Podlahová_plocha,floor_area,24
+Parkování zdarma,none,527
+Příslušenství.,none,62
+Pocet pokoju,layout,322
+SKLEP M²,cellar_area,5
+Cena jednotky (Kc) *,price,159
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m2) [m²],balcony_area,615
+cena s dph (kč),price,450
+Odh. nájem:,none,557
+m² terasy.,terrace_area,110
+Výměra terasy (v m2),terrace_area,463
+Počet místností,layout,105
+Celkova plocha *,total_area,391
+Karty,none,373
+Cena za prislusenstvi s DPH,price,192
+ZAHRADA.,garden_area,343
+Plocha,floor_area,11
+Garáž (m2),none,218
+oblíbené:,none,124
+Celková-plocha-bytu-(m²),floor_area,174
+Stav_**,availability,534
+PŘÍSLUŠENSTVÍ.,none,530
+B/T/L-(m2),exterior_area,293
+B/L/T (M²) [m²],balcony_area,239
+FLOOR:,floor,346
+STORAGE BOX,none,278
+Balkon-m²,balcony_area,35
+Výměra terasy (v m2) (m2),terrace_area,463
+Balkón/Terasa:,exterior_area,559
+bytová jednotka m2,id,576
+Zahrada m² m2,garden_area,36
+Parking (m2),none,335
+předzahrádka:,garden_area,409
+pdf,none,123
+Poptavka,none,359
+garáž.,parking_place_number,549
+balkon (m2),balcony_area,407
+Plocha (m2) m2,floor_area,292
+Terasa/balkon předzahrádka (m2),exterior_area,449
+celková plocha m2,none,111
+Půdorys (PDF):,none,31
+Pozemek (m2).,total_area,21
+Plocha příslušenství m2,exterior_area,282
+Cena-bytu-vč.-sklepa,price,310
+Zahrada-(m2),garden_area,182
+Podlahová_plocha_brutto_[m²],floor_area,57
+dostupnost.,availability,451
+Počet pater,none,446
+Amenities [m²],none,201
+VÝNOS,none,558
+číslo m2,id,104
+Č._jednotky,id,535
+půdorys bytu,none,350
+type [m²],none,608
+Velikost_zahrady_v_m2,garden_area,267
+"Podlahová plocha, m² (m2)",floor_area,131
+výměra,floor_area,46
+Odkaz na dum,none,422
+Příslušenství:_Zahrada_(m2)_Lodžie_(m2)_Terasa_(m2),exterior_area,261
+Termín nastěhování m2,none,189
+Sklepní-kóje,cellar_area,211
+Plocha_bytu_v_m²,floor_area,256
+užitná plocha m2,floor_area2,220
+Lodzie / terasa (m²),balcony_area,158
+Cena rezervované garáže (Kč) *.,none,161
+TERASA / BALKON.,terrace_area,342
+Loggia/terrace [m²],balcony_area,196
+Plocha bytu v m²:,floor_area,256
+Balkón / terasa:,none,489
+Pl.-podl.,floor_area,289
+Venkovní_prostory,exterior_area,628
+Užitná plocha bytu [m²],floor_area2,482
+Atrium:,none,492
+CENA m2,price,241
+VÝMĚRA BYTU (V M2),floor_area,461
+Balcony/loggia/terrace (m2),exterior_area,455
+Terasa / Balkon [m²],terrace_area,469
+Střešní zahrada:,terrace_area,470
+dostupnost**,availability,561
+Celková cena (vč. DPH):,price,268
+CELKOVÁ UŽITNÁ PLOCHA [m²],floor_area2,538
+Jednotky,id,423
+poptat,none,8
+Plocha mistnosti,floor_area,510
+Balkón_/_Terasa,exterior_area,286
+Částečně vybaveno.,none,308
+Cena včetně DPH (m2),price,169
+Balkon/Terasa/Lodžie/ Zahrada (předzahrádka) (m2),balcony_area,186
+PDF.,none,123
+Plocha (m2) 2) [m²],floor_area,578
+Plocha předzahrádky m2 m2,garden_area,230
+Číslo /kód jednotky,id,379
+Balkon / Terasa (m2),balcony_area,27
+balkon/​lodžie/​terasa/​predzahrádka (m2),balcony_area,615
+Balkon/Terasa/ Zahrádka (m²),balcony_area,555
+nemovitost:,id,395
+Užitná / Podlahová plocha:,floor_area,627
+cena vč. dph*,price,171
+PŮDORYS BYTU:,none,350
+"Výměra pozemku, m² (m2)",total_area,142
+Cena-za-příslušenství-s-DPH,price,192
+balkon/terasa (m2) m2,exterior_area,500
+cena celkem,price,399
+INFOLIST,none,279
+Type:,category,137
+Užitná plocha v m2 (m2),floor_area2,265
+Cena za m2:,none,493
+ZASTAVĚNÁ PLOCHA V M2,none,266
+Katalogovy list,none,185
+rooms m2,layout,606
+Balkon/Terasa m2:,balcony_area,229
+Sklepní kóje (ks) (m2),none,252
+PODLAHOVÁ PLOCHA (m2) [m²],floor_area,312
+poptat (m2),none,401
+Kolaudace.,none,145
+Cena (12% dph),price,544
+Unit No. [m²],id,134
+B/L/T (M2) 3),balcony_area,579
+Terasa/balkon_(m2),terrace_area,338
+Cena (vč. DPH),price,67
+Pl. zahrady [m²],garden_area,290
+KARTA BYTU,none,53
+Velikost parcely m2,total_area,562
+Cena celkem vc. DPH,price,45
+Garážové stání,none,316
+* CENA 12% DPH,price,333
+cena-vč.-DPH,price,432
+Cena v Kč (vč. DPH) (m2),price,184
+konečná cena za byt vč. DPH m2,price,113
+Cena rezervované garáže (Kč) *:,none,161
+Kolaudace m2,none,145
+č. jednotky,id,219
+Availability [m²],availability,303
+GARÁŽOVÉ_STÁNÍ,none,316
+AKTUÁLNĚ,availability,259
+Speciální vybavení.,none,64
+ČÍSLO m2,id,233
+Cena bez DPH m2,none,324
+FINAL PC [Kč]:,price,328
+Akce.,none,103
+Terasa Předzahrádka m2,exterior_area,584
+Stav bytu.,none,352
+číslo /kód jednotky,id,379
+Rok dokončení m2,none,473
+Zahrada (m2):,garden_area,182
+Výměr m2,floor_area,203
+Stav [m²],availability,9
+B/L/T-(M²),balcony_area,239
+CELKOVÁ PLOCHA (BEZ TERASY),floor_area,385
+Evidenční číslo m2,id,445
+area size m2,floor_area,607
+PLOCHA (m²),floor_area,515
+Cena Kč,price,285
+TERASA / ZAHRADA m² m2,exterior_area,348
+Aktuálně.,availability,259
+Cena bytu s DPH (m2),price,360
+"výměra pozemku, m²",total_area,142
+CENA OD (KČ),price,144
+celková plocha (m²),none,216
+PDF m2,none,123
+Cena bytu* (vč. DPH),price,176
+Plocha [m²],floor_area,11
+Vizualizace_domu,none,441
+KÓD BYTU,id,490
+velikost bytu m²,floor_area,347
+Cena rezervovane garaze (Kc) *,none,161
+Cena Kč/m2 (bez DPH) (m2),none,66
+Plán [m²],none,60
+BALKON/TERASA [M²],exterior_area,58
+Cena s dph 12 % / 21 %,price,472
+Cena.,price,6
+pozemek (m²) [m²],garden_area,550
+Typ nabídky (m2),category,353
+CENA BEZ DPH,none,112
+balcony/loggia/terrace,exterior_area,455
+termín nastěhování,none,189
+c.,id,601
+Podlahová plocha (m2),floor_area,22
+Basement storage:,cellar_area,301
+Terasa/zahrada.,exterior_area,172
+# (m2),availability,381
+příslušenství [m²],none,120
+terasa/balkon m2,balcony_area,431
+BYT ***,id,531
+CELKOVÁ PLOCHA BYTU (M²),floor_area,174
+Obytná plocha m2,floor_area2,426
+Základní cena m2,price,487
+Typ domu,none,419
+Parkovani zdarma,none,527
+Plocha bytu (m²) m2,floor_area,465
+Dům,id,102
+Exterier,exterior_area,190
+Koupit online [m²],none,480
+Podlahová plocha* m2:,floor_area,228
+Orientace.,orientation,14
+Akční cena:,price,512
+prodejní plocha bytu,floor_area,374
+"Balkón,_Terasa,_m²",exterior_area,246
+ceníková cena,price,511
+Cena bytu bez příslušenství vč. DPH,price,496
+name,id,454
+VELIKOST,floor_area,424
+Stav-bytu,none,352
+Virtuální prohlídka,none,554
+Disp..,layout,329
+Parkovací stání (m2),none,15
+Typ nabídky [m²],category,353
+ČÍSLO.,id,233
+transakce [m²],none,398
+orientace:,orientation,536
+"Price excluding amenities, inc. VAT m2",none,199
+užitná_plocha_m2,floor_area2,220
+Objekt:,building,54
+Detail bytu.,none,7
+cena vč. DPH m2,price,432
+Sklepní kóje (m2) [m²],cellar_area,337
+Zahrádka (m2),garden_area,388
+Karty.,none,373
+předzah. (m²),garden_area,240
+Orientace (m2),orientation,14
+Sklep/​Sklepní kóje (m²) m2,cellar_area,271
+podrobnosti m2,none,412
+karta bytu.,none,553
+TERASA /BALKON,exterior_area,540
+Investiční potenciál.,none,162
+PLÁN,none,60
+Jednotky (m2),id,423
+Price inc. VAT,price,456
+Karta domu:,none,128
+terasy na střeše (?),terrace_area,484
+cena s DPH (Kč) (m2),price,450
+Konečná cena [m²],price,507
+Sklepní kóje (m²) m2,cellar_area,215
+Částečně_vybaveno,none,308
+m²-terasy,terrace_area,110
+Celkem s terasou m2,total_area,386
+Lyout m2,layout,296
+m²-pozemku,garden_area,107
+Specialni vybaveni,none,64
+Balkón/terasa:,terrace_area,543
+užitná plocha *,floor_area2,217
+č. jednotky [m²],id,219
+Availability.,availability,303
+Aktuálně,availability,259
+Blok.,building,481
+Balkon m² (m2),balcony_area,35
+Celkem s terasou [m²],total_area,386
+Terasa/ Lodžie:,terrace_area,30
+SKLEP (M²),cellar_area,548
+Cena-garážového-stání,none,495
+Stav ** [m²],availability,534
+balkon/terasa (m2) [m²],exterior_area,500
+Cena_za_byt_s_DPH_(bez_příslušenství),price,191
+Byt číslo m2,id,225
+cena *.,price,501
+balcony-area-size,balcony_area,609
+Byt m2,id,32
+Cena za m2 m2,none,493
+GARÁŽOVÉ STÁNÍ [m²],none,316
+byt,id,32
+Poptat m2,none,8
+celková plocha (m2),none,111
+B/T/Z (m²)*.,balcony_area,625
+výběr_k_poptávce,none,362
+Loggia/terrace m2,balcony_area,196
+podlahova plocha,floor_area,17
+konečná_cena_za_byt_vč._DPH,price,113
+cena za byt s dph (bez příslušenství),price,191
+DOSTUPNOST (m2),availability,356
+FLAT [m²],id,345
+M²,floor_area,277
+TERASA / BALKON (M²),exterior_area,249
+DETAIL,none,40
+Cena za byt s DPH (bez příslušenství) (m2),price,191
+STAV:,availability,127
+Cena-bytu*-(vč.-DPH),price,176
+Cena (12% DPH),price,544
+Předzahrádka (m2) (m2),garden_area,339
+Pozemek [m²],total_area,41
+kód (m2),id,448
+Cena vč. DPH* (m2),price,171
+Balkon/terasa_[m2],exterior_area,179
+Příslušenství_v_ceně,none,326
+FINAL PC [Kč] (m2),price,328
+podlahová Plocha:,floor_area,537
+Cena bytu s DPH:,price,360
+oblíbené.,none,124
+balcony_area_size,balcony_area,609
+Půdorys:,none,247
+Č.j.:,id,20
+Nadstandardní provedení (m2),none,468
+unit no.,id,134
+Ev.č. [m²],id,357
+Sklep m² m2,cellar_area,5
+Balkón / Předzahrádka / Terasa (m²).,garden_area,168
+Zahrada.,none,151
+"CENA KOMPLET(BYT, LODŽIE/TERASA, SKLEP, GARÁŽOVÉ STÁNÍ) (m2)",price,318
+Cena vc. DPH**,price,231
+mám zájem,none,542
+Loggia / balcony,balcony_area,299
+Cena od (Kč):,price,144
+Podlahová plocha* m2 m2,floor_area,228
+Cena vc. DPH (Kc)*,price,444
+Cena_bytu_vč._příslušenství_(Kč_s_DPH)*,price,262
+půdorys (pdf),none,31
+celková podlahová plocha (m2),floor_area,260
+Odh. nájem (m2),none,557
+plocha celkem m2 [m²],total_area,372
+číslo bytu.,id,520
+Výměr,floor_area,203
+Np.,floor,618
+Výměra_terasy_(v_m2),terrace_area,463
+balkon/terasa [m2],exterior_area,179
+SKLAD:,none,315
+Balkón_/_terasa,none,489
+Byt_č.,id,254
+Stav prodeje*** m2,availability,232
+Celková cena (vč. DPH),price,268
+Plocha svislych konstrukci,none,384
+Cena (12% DPH):,price,544
+formulář,none,187
+PŮDORYS BYTU m2,none,350
+plocha (m2) 2),floor_area,578
+Stav-jednání,availability,28
+Objekt.,building,54
+výběr k poptávce [m²],none,362
+Plocha m2,floor_area,11
+TERASA / BALKON:,terrace_area,342
+Plocha terasy/balkonu,terrace_area,244
+VILA [m²],id,612
+BALKÓN/ TERASA (m²),exterior_area,516
+Aktuální stav:,availability,263
+Sklepní kóje (m²):,cellar_area,215
+KARTA_BYTU,none,319
+Velikost bytu,layout,474
+Plocha bytu (m²),floor_area,465
+BALKON m2,balcony_area,521
+Status m2,availability,39
+bytova jednotka,id,576
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m2),balcony_area,615
+CENA GARÁŽOVÉHO STÁNÍ,none,495
+Celková cena s DPH [m²],price,365
+Layout,layout,136
+PL. ZAHRADY,garden_area,290
+Podlaží.,floor,2
+Předzah. (m²),garden_area,240
+počet místností.,layout,105
+podlahová plocha,floor_area,24
+Stav**.,availability,626
+Lodžie/Terasa,exterior_area,207
+kód.,id,448
+Cena s DPH (Kč),price,491
+Příslušenství,none,62
+OBLIBENE,none,519
+Typ nabídky:,category,353
+Plocha m2 m2,floor_area,323
+blok:,building,116
+Plocha balkónu.,balcony_area,306
+"Plocha domu od, m² [m²]",floor_area,143
+CELKOVÁ PODLAHOVÁ PLOCHA (M2),floor_area,260
+Příslušenství v ceně m2,none,326
+building.,building,604
+Byt.-zn.,id,452
+KATALOGOVÝ LIST,none,185
+Cena_bytu_vč._sklepa,price,310
+KATEGORIE,category,55
+TITLE,id,605
+MEDIA (m2),none,242
+Plocha příslušenství,exterior_area,282
+Podlahová plocha [m²],floor_area,24
+Karta jednotky,none,309
+kompas [m²],none,591
+Plocha předzahrádky m2 [m²],garden_area,230
+předzahrádka (m2),garden_area,339
+Částečně vybaveno (m2),none,308
+Celková podlahová pl.* [m²],floor_area,146
+balcony area size (m2),balcony_area,609
+KONEČNÁ CENA ZA BYT VČ. DPH,price,113
+Cena vč dph,price,380
+poptat:,none,401
+PODLAHOVÁ PLOCHA,floor_area,24
+Amenities,none,201
+Plocha svislých konstrukcí [m²],none,384
+Podl. plocha1) [m²],floor_area,592
+Plocha_sklepa,cellar_area,307
+Dispozice bytu m2,layout,255
+Cena celkem vč. DPH (Kč) [m²],price,253
+Podlahová-plocha-(m2),floor_area,22
+loggia/terrace,balcony_area,196
+ČÍSLO_BYTU,id,311
+Plocha_bytu_m2*,floor_area,616
+Pdf bytu,none,602
+Uzitna plocha*,floor_area2,147
+VÝMĚRA PARCELY [m²],none,539
+Min. Vklad [m²],none,130
+Plocha terasy/balkónu [m²],terrace_area,244
+CENA S DPH (Kč):,price,518
+EV.Č.,id,357
+Plán m2,none,60
+lodžie/balkon terasa/zahrádka (m²),balcony_area,466
+Terasa 1. NP,terrace_area,367
+Termín nastěhování.,none,189
+B / T,exterior_area,593
+P/T/B*,exterior_area,16
+podl. plocha2):,floor_area,504
+CELKOVÁ PLOCHA M2,total_area,222
+Podlahová plocha (m²),floor_area,157
+Byt c.,id,254
+Celková podlahová plocha (m2) [m²],floor_area,260
+výměra-(m²),floor_area,546
+Lodžie (m2),balcony_area,50
+Kod,id,336
+GARÁŽOVÉ STÁNÍ:,none,316
+Byt-***,id,531
+B/t/z,exterior_area,63
+Popis (m2),layout,509
+Předzahrádka.,garden_area,48
+B/T/Z (M²)*,balcony_area,625
+Plocha-RD,floor_area,438
+Provedení:,none,620
+CENA VČ. DPH m2,price,355
+ČÍSLO:,id,233
+Číslo a označení bytu:,id,226
+price inc. vat,price,456
+Balkon/​Lodžie/​Terasa/​Predzahrádka-(m²),balcony_area,272
+Cena jednotky (Kč) * [m²],price,159
+1.NP,none,569
+sklep / komora (m2),cellar_area,49
+podlahová Plocha m2,floor_area,537
+Lodžie / terasa,balcony_area,427
+TYP DOMU,none,419
+Blok m2,building,481
+Balkon/Terasa (m2),balcony_area,363
+Balkón / Předzahrádka / Terasa (m²) m2,garden_area,168
+Kompas,none,591
+PRICE (CZK),price,141
+Cena vč DPH (m2),price,380
+předzahrada,garden_area,435
+kompas m2,none,591
+Terasa/ Balkon/ Lodžie/ Zahrádka.,exterior_area,188
+Podlahová plocha (m2) (m2),floor_area,22
+stav inzerce,availability,556
+AREA,floor_area,572
+Terasa /Balkon,exterior_area,540
+Název.,id,214
+Výměra parcely,none,539
+Užitná plocha (m2)1):,floor_area2,588
+Terasa / Lodzie / Zahrada (m²),terrace_area,175
+druh [m²],category,545
+Ceníková cena.,price,511
+Pl. podl..,floor_area,289
+Odh. nájem,none,557
+Cena vc. DPH*,price,171
+Užitná_plocha_bytu,floor_area2,482
+Stav **:,availability,534
+"Užitná plocha, m².",floor_area2,245
+Plocha-sklepa,cellar_area,307
+Číslo-/Kód-jednotky,id,379
+Rozloha celkem [m²],floor_area,425
+Status.,availability,39
+"Předzahrádka, terasa, balkon (m2) [m²]",exterior_area,600
+Podlahová plocha (m²) [m²],floor_area,157
+CELKOVÁ UŽITNÁ PLOCHA m2,floor_area2,538
+CENA KČ,price,285
+Plocha lodžie/zahrady/ balkónu v m²,exterior_area,257
+nastěhování m2,none,361
+provedení,none,620
+podlahová plocha (m2),floor_area,22
+karta-bytu,none,553
+NP m2,floor,12
+Cena s DPH 12 % (m2),price,582
+Celkova plocha (m2),total_area,340
+Celkem_s_terasou,total_area,386
+Cislo,id,177
+Garáž.,none,218
+virtuální_prohlídka,none,554
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m2):,balcony_area,615
+Soubor m2,none,291
+ČÍSLO DOMU,id,264
+Termín-dokončení,none,420
+Celková plocha (bez terasy):,floor_area,385
+Cena vč. DPH:,price,51
+Lodzie / terasa,balcony_area,427
+CENA S DPH (Kč),price,518
+cena s DPH (Kč) m2,price,450
+Plocha_m²_*,floor_area,34
+objekt,building,54
+Dostupnost,availability,19
+Garážové stání:,parking_place_number,389
+Rok dokončení (m2),none,473
+Sklep/​Sklepní-kóje-(m2),cellar_area,614
+Cena-od-(Kč),price,144
+"Balkón, Lodžie, Terasa.",exterior_area,164
+plocha celkem m2 (m2),total_area,372
+Ozeleněná_terasa,terrace_area,154
+Jednotky.,id,423
+Area:,floor_area,572
+cena celkem vč. dph (kč),price,253
+Celková plocha vč. příslušenství (m2) m2,total_area,325
+vila,id,612
+Zahrada_střešní_zahrada_(m2),garden_area,580
+BALKON/LODŽIE,balcony_area,528
+Můj výběr m2,none,567
+parkování (m2),parking_place_number,416
+Typ-bytu,layout,227
+"Price excluding amenities, inc. VAT.",none,199
+Velikost [m²],floor_area,424
+Podlahova plocha [m²],floor_area,17
+Velikost zahrady v m2 (m2),garden_area,267
+Zahrada s terasou (m2),garden_area,364
+Typ-vlastnictví,none,629
+B/T/L (m2) m2,exterior_area,293
+m² terasy,terrace_area,110
+Prodejni cena,price,213
+Cena za byt s DPH (bez příslušenství):,price,191
+Balkon / terasa / předzahrádka,exterior_area,358
+předzahrádka.,garden_area,409
+Aktuální_stav,availability,263
+type m2,none,608
+"Balkón, Terasa, m² [m²]",exterior_area,246
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m²),balcony_area,272
+plocha m²,floor_area,4
+"Balkón,-Lodžie,-Terasa",exterior_area,164
+Floor m2,floor,135
+podrobnosti,none,412
+konecna cena za byt vc. DPH,price,113
+Obytná_plocha,floor_area2,426
+PLOCHA M² *,floor_area,34
+pdf (m2),none,479
+Byt č..,id,254
+Počet_pater,none,446
+terasa/balkon:,balcony_area,431
+Plocha balkónu (m2),balcony_area,306
+Výměra předzahrádky (v m2):,garden_area,462
+Karta-bytu,none,53
+Zahrada_(m2),garden_area,182
+AKTUÁLNÍ STAV DOMU,none,437
+Užitná plocha (m2).,floor_area2,23
+Katalogový_list,none,185
+Cena s DPH.,price,155
+KARTA DOMU,none,128
+m² zimní zahrady:,garden_area,108
+price:,price,610
+KOLEKCE,none,33
+Terasy na střeše (?):,terrace_area,484
+Cena_rezervované_garáže_(Kč)_*,none,161
+dostupnost * m2,availability,502
+číslo_jednotky,id,283
+Building (m2),building,194
+Užitná plocha* (m2),floor_area2,147
+oblíbené (m2),none,124
+Cena jednotky vč. DPH:,price,387
+Prislusenstvi v cene,none,326
+Floor-space,floor_area,195
+Podlahová plocha.,floor_area,24
+Terasa / Lodžie / Zahrada (m²),terrace_area,175
+Celkova plocha,floor_area,152
+Cena prislusenstvi vc. DPH,none,497
+M² bytu,floor_area,106
+bytová-jednotka,id,576
+Typ-domu,none,419
+Plán,none,60
+Plocha-místností,floor_area,510
+Building,building,194
+Kód-bytu,id,490
+m² bytu m2,floor_area,106
+Č.j. [m²],id,20
+UŽITNÁ PLOCHA (M2)1),floor_area2,588
+Velikost zahrady v m2.,garden_area,267
+balkón,balcony_area,334
+celková cena,price,596
+TERASA/ LODŽIE,terrace_area,30
+Číslo j.,id,206
+rodinný dům,id,594
+Investiční-potenciál,none,162
+Cena vč. DPH** [m²],price,231
+Balkon / terasa (m2) m2,balcony_area,47
+Půdorys (PDF).,none,31
+Cena od (Kč),price,144
+Podlahová plocha brutto [m²],floor_area,57
+počet pokojů,layout,322
+Price (CZK).,price,141
+Cena rezervovaného sklepa (Kč) *,none,160
+POZEMEK (M2),total_area,21
+Domy (m2),id,486
+SKLEP/​SKLEPNÍ KÓJE (M2),cellar_area,614
+GS (m2),none,471
+Usazení na pozemku,none,440
+m²-zimní-zahrady,garden_area,108
+Cena_celkem_vč._DPH_(Kč),price,253
+Terasa/ Lodžie.,terrace_area,30
+Availability,availability,303
+číslo-bytu,id,520
+CENA-VČ.-DPH,price,355
+balkón / terasa,exterior_area,286
+Cena (12% DPH).,price,544
+Byt cislo,id,225
+Cena bytu bez příslušenství vč. DPH (m2),price,496
+Typ.,category,13
+CENA JEDNOTKY (KČ) *,price,159
+FINAL CP [Kč],price,180
+Cena bytu bez příslušenství vč. DPH [m²],price,496
+Užitná plocha.,floor_area2,25
+Umístění,none,208
+Cena-(vč.-DPH),price,67
+parkovací stání m2,parking_place_number,410
+FINAL-PC-[Kč],price,328
+Číslo bytu.,id,10
+výběr k poptávce.,none,362
+dispozice (m2),layout,118
+B/T/L_(m2),exterior_area,293
+Sklep / komora (m2),cellar_area,49
+Balkón/Terasa [m²],exterior_area,559
+Cena (kč),price,59
+Garážové_stání,parking_place_number,389
+Výměra celkem (v m2):,total_area,464
+podlahová_plocha,floor_area,405
+Podlahová plocha (m2) [m²],floor_area,22
+B/L/T m2:,exterior_area,371
+* Cena 12% DPH.,price,333
+Celková podlahová pl.:,floor_area,43
+Výměra_pozemku,total_area,439
+Popis.,layout,509
+"Předzahrádka, terasa, balkon (m2) (m2)",exterior_area,600
+Lyout,layout,296
+floor area,floor_area,298
+Celkem (m2),none,566
+Akce m2,none,103
+Plocha místností m2,floor_area,510
+m²-balkonu,balcony_area,109
+Cena_bytu_bez_příslušenství_vč._DPH,price,496
+Flats Count [m²],none,573
+Dostupnost** [m²],availability,561
+Plocha bytu:,floor_area,305
+INFO,none,269
+Cena v kč (vč. dph),price,184
+Oblíbené (m2),none,163
+cena (vč. DPH):,price,590
+Mám zájem,none,542
+Plocha m² * m2,floor_area,34
+Byt. zn. m2,id,452
+Konečná cena (m2),price,507
+Cena v Kc (vc. DPH),price,184
+č.-jednotky,id,219
+Terasa/Balkon m2,exterior_area,568
+Typ m2,category,13
+"Area, m²:",floor_area,138
+balkon-(m²),balcony_area,547
+Plocha [m²] [m²],floor_area,327
+TERASA,terrace_area,153
+Cena s DPH 12 % / 21 %:,price,472
+Typ vlastnictví.,none,629
+Dum cislo,id,436
+KÓD.,id,457
+dostupnost * (m2),availability,502
+Cena s DPH v Kč* m2,price,478
+Price-Range,none,575
+Název (m2),id,214
+Cena sklepa (m2),none,494
+celková plocha *,total_area,391
+Sklep,cellar_area,205
+nemovitost m2,id,395
+cena Kč (*) m2,price,223
+Celková_plocha_*,total_area,391
+GARÁŽOVÉ STÁNÍ m2,none,316
+VÝMĚRA TERASY (V M2),terrace_area,463
+Balkon m² [m²],balcony_area,35
+Speciální_vybavení,none,64
+Stav ** (m2),availability,534
+LODŽIE/BALKON TERASA/ZAHRÁDKA (M²),balcony_area,466
+podlahová_Plocha,floor_area,537
+Rodinný dům:,id,594
+č..,id,601
+cena zakladni (Kc),price,551
+Užitná plocha * m2,floor_area2,217
+Typ bytu:,layout,227
+Jednotka.,id,170
+Cena-(12%-DPH),price,544
+předzahrádka m2,garden_area,409
+Předzahrada (m2),garden_area,435
+Sklep/​sklepní kóje (m2),cellar_area,614
+m² (m2),floor_area,277
+Celková-plocha-m²,total_area,37
+Cena celkem vc. DPH (Kc),price,253
+Celková plocha (užitná).,floor_area2,383
+Velikost pozemku:,total_area,320
+dispozice:,layout,118
+Parkovací místo:,none,204
+Balkón (m2),balcony_area,334
+Podlahová_plocha*_m2,floor_area,228
+Podl._plocha,floor_area,414
+Balkon m².,balcony_area,35
+Karta_domu,none,128
+Dostupnost:,availability,19
+Rozloha,floor_area,453
+Total-area,total_area,297
+Basement storage,cellar_area,301
+pozemek (m²) m2,garden_area,550
+balkon/terasa (m2).,exterior_area,500
+"Terasa, balkon (m2) m2",exterior_area,577
+POPTAT,none,8
+Cena celkem vč. dph,price,45
+Sklepni koje (ks),none,252
+Plocha terasy/balkónu:,terrace_area,244
+dům.,id,433
+číslo bytu,id,10
+B/L/T (m2) 3),balcony_area,579
+Parkovací místo.,none,204
+Cena_vč._DPH**,price,231
+podl. plocha2),floor_area,504
+Celková_plocha_vč._příslušenství_(m2),total_area,325
+Galerie_Pracovna,none,585
+BYT m2,id,273
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m²):,balcony_area,272
+Rozloha [m²],floor_area,453
+karta bytu,none,53
+Balkon/terasa-[m2],exterior_area,179
+kód [m²],id,448
+SKLEP:,none,317
+výměra (m²),floor_area,546
+Lodžie / terasa (m²) m2,balcony_area,158
+Vymera terasy (v m2),terrace_area,463
+Balkón_/_Předzahrádka_/_Terasa_(m²),garden_area,168
+BALKON/​LODŽIE/​TERASA/​PREDZAHRÁDKA (M²),balcony_area,272
+Plocha lodžie/zahrady/ balkónu v m² m2,exterior_area,257
+Sklad,none,315
+Sklep/​Sklepní kóje (m²):,cellar_area,271
+Cena Kč/m2 (bez DPH),none,66
+výměra (m²).,floor_area,546
+ORIENTACE m2,orientation,314
+Orientace,orientation,14
+Plocha předzahrádky m2,garden_area,230
+TERASA / ZAHRADA M²,exterior_area,348
+Číslo domu [m²],id,264
+Velikost,floor_area,424
+Stav pouze volné.,availability,394
+PLOCHA (M2) 2),floor_area,578
+Parkng,parking_place_number,564
+Cena s DPH v Kč*,price,478
+Karta domu (m2),none,128
+Cena jednotky vč. DPH (m2),price,387
+Celková podlahová pl.*,floor_area,146
+"balkón, terasa, m²",exterior_area,246
+Rozloha celkem,floor_area,425
+Cena Kč ** (m2),price,38
+lodžie / terasa (m²),balcony_area,158
+Name (m2),id,454
+cena celkem vč. 12% dph,price,393
+Celková plocha (bez terasy),floor_area,385
+PARKING,none,335
+* Cena 12% DPH (m2),price,333
+Celková_podlahová_plocha_(m2),floor_area,260
+GALERIE PRACOVNA,none,585
+Koupit_online,none,480
+PŘÍSLUŠENSTVÍ,none,62
+Cena za m2 [m²],none,493
+Celková plocha vč. příslušenství (m2).,total_area,325
+Číslo-domu,id,264
+GS m2,none,471
+Sklepní kóje (m2),cellar_area,211
+Podlahová plocha* m2 (m2),floor_area,228
+CENA VČ. DPH *,price,467
+1.np,none,569
+Zahrada m².,garden_area,36
+Č. KN m2,none,234
+Sklepní-kóje-(m2),cellar_area,337
+Celková plocha (m²),none,216
+Etapa [m²],none,390
+Usazení na pozemku m2,none,440
+Plocha (m²),floor_area,167
+cena garážového stání,none,495
+Balkon/Terasa/Lodžie/_Zahrada_(předzahrádka),balcony_area,186
+Terasa/Zahrada m2,terrace_area,284
+Terasa [m²],terrace_area,153
+FLOOR SPACE,floor_area,195
+Typ domu:,none,419
+Základní cena [m²],price,487
+PLOCHA (M²).,floor_area,238
+Cena s DPH v KČ* [m²],price,603
+CENA VČ. DPH:,price,355
+Lodzie/Balkon Terasa/Zahradka (m²),balcony_area,466
+nastehovani,none,361
+PROJEKT,none,281
+předzahrádka,garden_area,48
+CELKOVÁ PLOCHA VČ. PŘÍSLUŠENSTVÍ (M2),total_area,325
+Balkon/lodžie,balcony_area,528
+Cena s DPH v Kč* (m2),price,478
+Sklep (m2).,cellar_area,183
+Sklep / Komora (m2) (m2),cellar_area,49
+BALCONY AREA SIZE,balcony_area,609
+Kód,id,336
+Cena vč. DPH a IS.,price,563
+Celkova plocha (uzitna),floor_area2,383
+jednotky,id,423
+podlaží,floor,2
+cena (12% dph),price,544
+Sklep / Komora [m²],cellar_area,375
+LAYOUT,layout,136
+PDF-bytu,none,602
+B/T/Z (m²)* m2,balcony_area,625
+Balkon / terasa,balcony_area,27
+Výměra_bytu_(v_m2),floor_area,461
+Cena kč **,price,38
+Title,id,605
+Výměra pozemku,total_area,439
+Užitná plocha (m2)1) m2,floor_area2,588
+č. jednotky (m2),id,219
+kod,id,448
+Cena s DPH v Kč*:,price,478
+Vybavení 2) [m²],none,332
+DETAIL (m2),none,488
+Rozloha.,floor_area,453
+GARÁŽOVÉ-STÁNÍ,none,316
+"Price_of_amenities,_inc._VAT",price,200
+Prodejní cena (m2),price,213
+sklep/​sklepní kóje (m²),cellar_area,271
+Premium-/-Smart,none,587
+kompas.,none,591
+Přísl. m2 [m²],exterior_area,617
+B/L/T (M²),balcony_area,239
+balkon m2,balcony_area,407
+Celková-cena,price,596
+Termín_k_nastěhování,none,52
+pdf m2,none,479
+STAV (m2),availability,127
+"Výměra-pozemku,-m²",total_area,142
+Základní cena,price,487
+FINAL-CP-[Kč],price,180
+Cena Kč (m2),price,285
+Podl. plocha [m²],floor_area,414
+Balkon/Terasa/ Zahrádka (m²):,balcony_area,555
+Užitná-plocha-v-m2,floor_area2,265
+Byt m2 (m2),floor_area,178
+velikost bytu,layout,474
+Objekt (m2),building,54
+Sklep (m2) m2,cellar_area,183
+Jednotka_č.,id,382
+dispozice,layout,3
+area-size,floor_area,607
+Etapa,none,390
+"BALKÓN, LODŽIE, TERASA",exterior_area,164
+Gps,none,442
+Terasa:,terrace_area,153
+PODLAHOVÁ-PLOCHA-(m2),floor_area,312
+Loggia/terrace.,balcony_area,196
+druh.,category,545
+Zahrada-střešní-zahrada-(m2),garden_area,580
+price,price,304
+Balkon/terasa:,exterior_area,415
+cena (vč. DPH) (m2),price,590
+Rozloha celkem m2,floor_area,425
+Balkon / terasa (m2) (m2),balcony_area,47
+Cena vč. dph 1) m2,price,581
+dostupnost m2,availability,451
+Užit. plocha (m2).,floor_area2,532
+CELKOVÁ CENA S DPH,price,365
+Oznacit k poptani,none,403
+Price [m²],price,304
+Balkon/​Lodžie/​Terasa/​Predzahrádka_(m2),balcony_area,615
+* Cena 12% DPH m2,price,333
+Byt. zn.,id,452
+karta jednotky,none,309
+cena s dph v kč*,price,478
+DŮM M2,floor_area,418
+Celková plocha.,floor_area,152
+byt č.,id,254
+Cena celkem vč. DPH m2,price,45
+Zatravněná terasa/ terasa (m2),terrace_area,402
+cena vč. dph1),price,506
+Uzitna plocha.,floor_area2,18
+Lodžie-/-terasa,balcony_area,427
+Podlahová_plocha_(m2),floor_area,22
+cena kč/m2 (bez dph),none,66
+Dům:,id,102
+Cena vč. DPH a IS,price,563
+Venkovní prostory (m2),exterior_area,628
+Plocha pozemku.,total_area,148
+sekce,building,525
+LODZIE/TERASA,exterior_area,599
+Čistá_plocha,floor_area,513
+Cena za bytovou jednotku s dph,price,378
+CENA (12% DPH),price,544
+CENA_S_DPH,price,522
+Zahrada-m²,garden_area,36
+SKLEP/​SKLEPNÍ KÓJE (M²),cellar_area,271
+cena za bytovou jednotku s dph,price,378
+CENA_VČ._DPH,price,355
+CENA KČ/M2 (BEZ DPH),none,66
+nastěhování [m²],none,361
+Podlahová plocha*,floor_area,209
+Parking.,none,335
+Termín k nastěhování (m2),none,52
+parkování:,parking_place_number,416
+SKLAD [m²],none,315
+balkon.,balcony_area,407
+Užitná plocha (m²) m2,floor_area2,248
+Plocha (m2) 2).,floor_area,578
+Cena vč. DPH (Kč)*,price,444
+Balkon/Terasa/-Zahrádka-(m²),balcony_area,555
+konečná cena za byt vč. DPH [m²],price,113
+kategorie,category,55
+Čistá plocha m2,floor_area,513
+Plocha m² m2,floor_area,4
+B/T3).,exterior_area,505
+dostupnost *:,availability,502
+vybavení,none,404
+Zahrada s terasou,garden_area,364
+Lodžie / terasa (m²).,balcony_area,158
+BALKON/TERASA/LODŽIE/ ZAHRADA (PŘEDZAHRÁDKA),balcony_area,186
+Sklepní kóje (ks) m2,none,252
+cena bez DPH m2,none,112
+Interiér,floor_area,583
+Č.j.,id,20
+Plocha bytu m2*,floor_area,616
+Celková-plocha**,total_area,212
+Terasa 1. NP.,terrace_area,367
+Terasa-/-balkon-(m²),exterior_area,249
+cena Kc (*),price,223
+cena vč. dph (kč)*,price,444
+kompas:,none,591
+NP:,floor,12
+B/L/T m2 [m²],exterior_area,371
+Byt v m2.,floor_area,475
+podlaží m2,floor,117
+Do katalogu,none,400
+Cena (?) m2,price,485
+pozemek (m²),garden_area,550
+Cena-/-Kč,price,498
+Budova.,building,26
+zahrada (m2),garden_area,126
+investiční potenciál,none,162
+Terasa/lodžie_(m2),balcony_area,181
+Předzahrádka (m2) m2,garden_area,339
+Balkon [m²],balcony_area,44
+dostupnost,availability,19
+Balkon/terasa-[m²],exterior_area,58
+Front garden m2,garden_area,197
+LODZIE / TERASA / PREDZAHRADKA,exterior_area,598
+Terasa/Balkon (m2),exterior_area,568
+celková plocha m2 [m²],total_area,222
+Terasa 2. np,terrace_area,368
+Dokončení:,none,65
+cena příslušenství vč. dph,none,497
+Podlaží číslo,floor,447
+Balkon (m²),balcony_area,547
+počet_místností,layout,105
+Lodžie / terasa (m²) [m²],balcony_area,158
+STAV**,availability,626
+Balcony/loggia/terrace m2,exterior_area,455
+Balkon/Terasa_m2,balcony_area,229
+Floor-area,floor_area,298
+cena kč (*),price,223
+Vybavení 2) m2,none,332
+sklepní kóje,cellar_area,211
+plocha celkem m2.,total_area,372
+Cislo domu,id,264
+Plocha celkem:,floor_area,202
+Storage box:,none,278
+Zahrada-s-terasou,garden_area,364
+KARTA BYTU (m2),none,319
+Plán.,none,60
+celková užitná plocha,floor_area2,538
+Ceníková cena:,price,511
+TYP STÁNÍ,none,541
+Terasa v m2 m2,terrace_area,477
+Price,price,304
+LOGGIA/TERRACE,balcony_area,196
+Sklep (m²),cellar_area,548
+patro m2,floor,503
+plocha bytu (m2),floor_area,622
+LODŽIE_/_TERASA_/_PŘEDZAHRÁDKA,exterior_area,598
+Cena Kč **,price,38
+Cena Kč m2,price,285
+Storage box.,none,278
+FLAT,id,345
+PŘÍSLUŠENSTVÍ (m2),none,530
+Cena vc. DPH a IS,price,563
+Cena-jednotky-(Kč)-*,price,159
+Podlaží číslo (m2),floor,447
+BALKON M²,balcony_area,35
+Celkova podlahova pl.*,floor_area,146
+Odkaz na dům:,none,422
+Terasa / Balkon:,terrace_area,469
+nastěhování (m2),none,361
+cena * (m2),price,501
+Terasa 1. np,terrace_area,367
+Celková plocha (m²) [m²],none,216
+Car lift m2,none,295
+Plocha lodžie/zahrady/ balkónu v m²:,exterior_area,257
+garáž,none,218
+Cena rezervované garáže (Kč) * (m2),none,161
+Balkon/Terasa m2 m2,balcony_area,229
+Cena-Kč/m2-(bez-DPH),none,66
+Kód.,id,336
+"Uzitna plocha, m²",floor_area2,245
+Plocha-terasy/balkónu,terrace_area,244
+PODROBNOSTI,none,412
+Available Flats Count (m2),none,574
+Termin nastehovani,none,189
+Cena rezervovaného sklepa (Kč) * (m2),none,160
+Zahrada m² (m2),garden_area,36
+Akce (m2),none,103
+Jednotky:,id,423
+"Podlahová plocha, m² m2",floor_area,131
+Plocha m².,floor_area,4
+Ozeleněná terasa m2,terrace_area,154
+BALKÓN / TERASA,exterior_area,286
+Akční cena (m2),price,512
+Typ_domu,none,419
+detail [m²],none,288
+Č. jednotky [m²],id,535
+PLOCHA (M²),floor_area,167
+Balkon/Terasa-(m2),balcony_area,533
+VELIKOST BYTU M²,floor_area,347
+Storage box m2,none,278
+Cena za příslušenství s DPH,price,192
+Balkon/terasa [m2] [m²],exterior_area,179
+cena vč. dph *,price,467
+Cena od (Kč) [m²],price,144
+Lyout (m2),layout,296
+počet pater,none,446
+Garážové stání (ks) (m2),none,251
+"Balkon,-terasa,-m²",terrace_area,132
+terasa [m²],terrace_area,406
+podlahová plocha*,floor_area,209
+Celková plocha (m²) m2,none,216
+Plocha_bytu,floor_area,305
+Sklepní kóje (m²) (m2),cellar_area,215
+Parkovací-místo,none,204
+Celková plocha (užitná) m2,floor_area2,383
+Výměra (m2),floor_area,46
+celková plocha m2:,total_area,222
+balkon / terasa / předzahrádka,exterior_area,358
+B/L/T_(m2)_3),balcony_area,579
+"Terasa, balkon (m2).",exterior_area,577
+Typ nabídky.,category,353
+Poptat byt,none,351
+LODŽIE / TERASA,balcony_area,427
+Cena-byt-vč.-DPH,price,376
+Celkem.,none,566
+typ:,category,369
+PARKNG:,parking_place_number,564
+Čistá plocha bytu.,floor_area,243
+Cena bez DPH.,none,324
+Celková plocha (m2),floor_area,152
+CENA S DPH,price,121
+Podrobnosti,none,412
+B / t,exterior_area,593
+Sklepní kóje,cellar_area,211
+Vizualizace domu:,none,441
+P/T/B* [m²],exterior_area,16
+disp.,layout,329
+Rooftop terrace [m²],terrace_area,300
+Available Flats Count.,none,574
+Cena rezervovaného sklepa (kč) *,none,160
+Byt. zn. (m2),id,452
+Min. vklad,none,130
+Číslo domu:,id,264
+Cena byt vč. DPH [m²],price,376
+cena s DPH.,price,121
+Cena vč. DPH *:,price,467
+Velikost bytu (m2),layout,474
+interiér,floor_area,583
+Balkón / předzahrádka / terasa (m²),garden_area,168
+Price (CZK),price,141
+Cena bytu s DPH m2,price,360
+Sklepní_kóje_(m²),cellar_area,215
+Cena (12% DPH) m2,price,544
+Cena Kč **:,price,38
+ZÁKLADNÍ CENA,price,487
+Plocha lodžie/zahrady/ balkónu v m².,exterior_area,257
+pozemek_(m2),total_area,589
+exteriér,exterior_area,190
+stav pouze volné,availability,394
+"balkón, lodžie, terasa",exterior_area,164
+Podlaží-číslo,floor,447
+Lodžie / terasa / předzahrádka,exterior_area,598
+Cena m2,price,6
+pozemek [m²],total_area,434
+projekt [m²],none,396
+Sklepní kóje (m2):,cellar_area,337
+Strop-(m),none,370
+"PRICE OF AMENITIES, INC. VAT",price,200
+Termín nastěhování (m2),none,189
+Terasa/ Balkon/ Lodžie/ Zahrádka (m2),exterior_area,188
+Balkón / Terasa m2,exterior_area,286
+Garážové stání (ks):,none,251
+Č. bytu,id,413
+Kupní cena s DPH (m2),price,621
+POPTAT BYT m2,none,351
+Balkon / terasa (m2) [m²],balcony_area,47
+Total area:,total_area,297
+"price of amenities, inc. vat",price,200
+budova m2,building,499
+"Price of amenities, inc. VAT:",price,200
+Podlah._plocha,floor_area,330
+"BALCONY, TERRACE, M²",exterior_area,139
+Cena bytu vč. DPH (m2),price,165
+Celkova ceny bytu s DPH,price,258
+Zahrada s terasou [m²],garden_area,364
+Cena*:,price,560
+Cena za byt s DPH (bez příslušenství),price,191
+Předzahrádka:,garden_area,48
+PLOCHA_(m²),floor_area,515
+Rooms-Range,none,571
+Plocha sklepa [m²],cellar_area,307
+Loggia/terrace,balcony_area,196
+PARKNG (m2),parking_place_number,564
+Podlahova plocha (m²),floor_area,157
+Cena_za_bytovou_jednotku_s_DPH,price,378
+Sklepní kóje (ks),none,252
+Označení-bytu,id,173
+"Užitná plocha, m² [m²]",floor_area2,245
+Vybavení 2).,none,332
+projekt,none,281
+Částečně vybaveno m2,none,308
+dům [m²],id,433
+Podlah.-plocha,floor_area,330
+CENA CELKEM VČ. DPH,price,45
+Floor,floor,135
+plocha (m2).,floor_area,119
+podl. plocha2) [m²],floor_area,504
+STAV JEDNÁNÍ,availability,28
+Plán PDF.,none,619
+dům,id,102
+Garáž,none,218
+druh (m2),category,545
+Velikost bytu [m²],layout,474
+Plocha balkónu m2,balcony_area,306
+Typ_jednotky,category,270
+Dispozice.,layout,3
+Výměra-bytu,floor_area,150
+garáž [m²],parking_place_number,549
+Sklep/​Sklepní-kóje-(m²),cellar_area,271
+Typ [m²],category,13
+Cena-Kč,price,285
+Detail bytu (m2),none,7
+Označení bytu (m2),id,173
+m² pozemku (m2),garden_area,107
+"Balkón, Lodžie, Terasa:",exterior_area,164
+byt:,id,429
+Terasa/ Lodžie (m2),terrace_area,30
+BYT [m²],id,273
+Byt-číslo,id,225
+m² bytu:,floor_area,106
+Sekce:,building,525
+Balkon/Terasa m² [m²],balcony_area,460
+kontakt,none,156
+lodžie / terasa,balcony_area,427
+Částečně vybaveno:,none,308
+TERASA / ZAHRADA m²,exterior_area,348
+Cena bytu* (vč. DPH) m2,price,176
+Číslo domu.,id,264
+Plocha předzahrádky:,garden_area,595
+Pl._podl.,floor_area,289
+STAV POUZE VOLNÉ,availability,394
+Výměra pozemku:,total_area,439
+Cena byt vč. DPH,price,376
+plocha bytu (m²),floor_area,465
+B/L/T (m²) 1) m2,terrace_area,331
+Terasa 2. NP,terrace_area,368
+Soubor.,none,291
+Celková cena:,price,596
+Č.-bytu,id,524
+Stav m2,availability,9
+PŘEDZAH._(M²),garden_area,240
+Prodejní cena m2,price,213
+CENA VČ. DPH 1),price,581
+Cena příslušenství vč. dph,none,497
+DISPOZICE [m²],layout,237
+stav prodeje,availability,552
+Aktuální stav domu.,none,437
+Plocha-celkem,floor_area,202
+DISP.,layout,329
+Total area m2,total_area,297
+CELKOVA UZITNA PLOCHA,floor_area2,538
+Přísl. m2:,exterior_area,617
+Cena-za-m2,none,493
+POČET MÍSTNOSTÍ,layout,105
+Příslušenství: Zahrada (m2) Lodžie (m2) Terasa (m2):,exterior_area,261
+Balkon / terasa:,exterior_area,377
+Mám_Zájem,none,542
+"Plocha domu od, m²",floor_area,143
+Cena (Kč):,price,59
+Jednotka č. [m²],id,382
+Flat,id,345
+Investiční potenciál m2,none,162
+Podlahová-plocha-vč.-garáže,floor_area,366
+Karta jednotky m2,none,309
+Cena za příslušenství s DPH [m²],price,192
+balkon/terasa (m2) (m2),exterior_area,500
+Available Flats Count:,none,574
+Označení (m2),id,29
+Storage box [m²],none,278
+Celková-plocha-(m2),total_area,340
+Byt č.:,id,254
+BALKÓN 2,balcony_area,392
+Stav prodeje***.,availability,232
+SKLEP (m2),none,317
+Balkón_2,balcony_area,392
+Vizualizace domu (m2),none,441
+poptat [m²],none,401
+balkon (m²) [m²],balcony_area,547
+Č. jednotky,id,219
+Cena bytu vc. DPH,price,165
+Užit. plocha (m2),floor_area2,532
+Plocha bytu (m2) m2,floor_area,622
+Příslušenství: zahrada (m2) lodžie (m2) terasa (m2),exterior_area,261
+Balkón_/_Terasa_[m²],exterior_area,526
+"Balkon, terasa, m² (m2)",terrace_area,132
+TERASA/ZAHRADA,exterior_area,172
+terasy / zahrady (?),exterior_area,483
+PARKOVACÍ MÍSTO,none,204
+Apartment.,id,193
+PDF,none,123
+cena kč **,price,38
+P/T/B*:,exterior_area,16
+Byt (m2),id,32
+Front garden (m2),garden_area,197
+"Výměra pozemku, m²",total_area,142
+Pozemek:,total_area,41
+cena základní (Kč) m2,price,551
+stav [m²],availability,114
+Podlahová plocha vč. garáže:,floor_area,366
+Provedení [m²],none,620
+Cena celkem vč. 12% DPH:,price,393
+TYP m2,category,514
+Terasa/lodžie (m2),balcony_area,181
+PŘEDZAHRADA (m2),garden_area,529
+balkon (m²):,balcony_area,547
+Č._KN,none,234
+Floor area,floor_area,298
+Terasa/Bal.,exterior_area,508
+Druh,category,545
+Soubor:,none,291
+Garážové stání (m2),parking_place_number,389
+DETAIL BYTU,none,7
+stav,availability,9
+plocha-(m2),floor_area,119
+Terasa/bal.,exterior_area,508
+PLOCHA BYTU (M²),floor_area,465
+podlaží [m²],floor,117
+Floor area.,floor_area,298
+Parkování zdarma m2,none,527
+aktuální stav,availability,263
+Dokumentace,none,428
+Galerie Pracovna:,none,585
+Rok-dokončení,none,473
+CELKOVÁ PLOCHA (M2),total_area,340
+CENA ZA M2,none,493
+"Balkon, terasa, m².",terrace_area,132
+Celková podlahová plocha (m2) m2,floor_area,260
+B/T3) [m²],exterior_area,505
+Podl. plocha1):,floor_area,592
+Plocha (m²).,floor_area,167
+Cena (12% DPH) [m²],price,544
+balkon/terasa_(m2),exterior_area,500
+cena rezervovaného sklepa (kč) *,none,160
+Užitná plocha bytu,floor_area2,482
+LODŽIE / TERASA / PŘEDZAHRÁDKA:,exterior_area,598
+PŘEDZAHRÁDKA,garden_area,48
+cena:,price,411
+TERASA / ZAHRADA m².,exterior_area,348
+Mám Zájem (m2),none,542
+Č.,id,601
+Užitná plocha* m2,floor_area2,147
+PLOCHA.,floor_area,274
+Cena garážového stání [m²],none,495
+Rodinný-dům,id,594
+Cena vč. DPH *.,price,467
+BALKÓN/TERASA,terrace_area,543
+plocha bytu,floor_area,305
+Balkón / Terasa.,exterior_area,286
+Cena vč. DPH *,price,467
+Cena za byt s DPH (bez prislusenstvi),price,191
+Balkón/terasa,terrace_area,543
+výměra (m²) m2,floor_area,546
+PLOCHA TERASY/BALKÓNU,terrace_area,244
+Cena_(?),price,485
+TERASA / LODŽIE (m2) [m²],exterior_area,313
+ČISTÁ PLOCHA,floor_area,513
+Terasy / zahrady (?),exterior_area,483
+Číslo-jednotky,id,1
+m²_bytu,floor_area,106
+PODLAŽÍ (m2),floor,236
+Cena byt vč. DPH:,price,376
+Interiér (m2),floor_area,583
+PLOCHA MÍSTNOSTÍ,floor_area,510
+Cena s DPH (Kč) (m2),price,491
+vyber k poptavce,none,362
+Cena s DPH 12 %.,price,582
+Plocha pozemku,total_area,148
+Balkon / terasa m2,exterior_area,377
+Zastavěná-plocha-v-m2,none,266
+Terasa/ Balkon/ Lodžie/ Zahrádka [m²],exterior_area,188
+stav prodeje:,availability,552
+Plocha-předzahrádky-m2,garden_area,230
+Terasa v m2,terrace_area,477
+"Užitná-plocha,-m²",floor_area2,245
+DOSTUPNOST *,availability,502
+UŽITNÁ PLOCHA BYTU,floor_area2,482
+Cena za bytovou jednotku s DPH (m2),price,378
+Cena_s_DPH,price,155
+Formulář (m2),none,187
+Typ-prostoru,category,321
+Price Range:,none,575
+kód,id,336
+Vybavení-2),none,332
+Užitná plocha [m²],floor_area2,25
+Lodžie/terasa /předzáhradka:,balcony_area,586
+Cena (m2),price,6
+PATRO,floor,61
+Cena bytu vč. dph,price,165
+DOMY,id,486
+POZEMEK m2,total_area,613
+Rooms Range (m2),none,571
+Typ jednotky m2,category,270
+Oznaceni,id,29
+Celková_plocha,floor_area,152
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m²) [m²],balcony_area,272
+type (m2),none,608
+BUDOVA [m²],building,235
+ID [m²],id,42
+gs,none,471
+Plocha1 m2,floor_area,443
+Available-Flats-Count,none,574
+Stav-inzerce,availability,556
+Front garden:,garden_area,197
+CENA S DPH (Kč) m2,price,518
+Užitná plocha (m2),floor_area2,23
+"Balkon, terasa, m²:",terrace_area,132
+Cena-vč.-DPH*,price,171
+TERASY / ZAHRADY (?),exterior_area,483
+Termín dokončení.,none,420
+číslo a označení bytu,id,226
+BALKON [m²],balcony_area,521
+DETAIL.,none,488
+Type m2,category,137
+užitná-plocha-m2,floor_area2,220
+Sklepní kóje (ks).,none,252
+Zahrada m²:,garden_area,36
+Terasa/balkon (m2) (m2),terrace_area,338
+Cena / Kč,price,498
+Plocha sklepa.,cellar_area,307
+GARÁŽ,none,218
+parkovací stání (m2),parking_place_number,410
+Výměra-celkem-(v-m2),total_area,464
+BALKÓN/ TERASA (m²) m2,exterior_area,516
+Car lift.,none,295
+cena vč dph,price,380
+do_katalogu,none,400
+Celkova plocha**,total_area,212
+Balkón / terasa m2,none,489
+Byt m2.,floor_area,178
+Č.j..,id,20
+Cena garážového stání (m2),none,495
+cena s dph 12 % / 21 %,price,472
+Floor area (m2),floor_area,298
+BALKON/TERASA/ ZAHRÁDKA (M²),balcony_area,555
+PLOCHA-(M²),floor_area,238
+Celková plocha (m2).,total_area,340
+Půdorys (m2),none,247
+etapa,none,390
+Střešní zahrada,terrace_area,470
+podlahová Plocha (m2),floor_area,537
+Číslo jednotky,id,1
+Celková-podlahová-plocha-(m2),floor_area,260
+Číslo m2,id,177
+terasa v m2,terrace_area,477
+Cena_bez_DPH,none,324
+Počet_pokojů,layout,322
+Celková_podlahová_pl.,floor_area,43
+Uzitna plocha bytu,floor_area2,482
+Předzahrádka (m2) [m²],garden_area,339
+cena-Kč-(*),price,223
+Podlahová_plocha_vč._garáže,floor_area,366
+B_/_T,exterior_area,593
+cena s dph,price,121
+Completion:,none,198
+Rozloha celkem:,floor_area,425
+celková_plocha_m2,total_area,222
+Info m2,none,269
+Sklep/​Sklepní kóje (m2):,cellar_area,614
+Terasy na střeše (?) (m2),terrace_area,484
+* cena 12% dph,price,333
+pozemek (m²) (m2),garden_area,550
+Zahrádka.,garden_area,388
+PUDORYS BYTU,none,350
+plocha rd,floor_area,438
+Předzahrada:,garden_area,435
+Rozloha:,floor_area,453
+cena (kč),price,59
+Lodžie-/-terasa-(m²),balcony_area,158
+Oblíbené:,none,163
+výnos,none,558
+Celková plocha bytu (m²):,floor_area,174
+* Cena 12% DPH [m²],price,333
+Celková plocha (m2) [m²],total_area,340
+M² zimní zahrady,garden_area,108
+Byt. zn.:,id,452
+Č._bytu,id,524
+Gs,none,471
+Balkon/Terasa/Lodžie/ Zahrada (předzahrádka),balcony_area,186
+Stav **.,availability,534
+Balkon/Terasa:,balcony_area,363
+Uzitna plocha (m2)1),floor_area2,588
+Karta domu,none,128
+Číslo j. (m2),id,206
+Name m2,id,454
+podlahová Plocha [m²],floor_area,537
+Podlahová plocha vč. garáže [m²],floor_area,366
+Exteriér (m2),exterior_area,190
+SKLAD m2,none,315
+celková_plocha,none,111
+Cena jednotky vc. DPH,price,387
+Užitná plocha (m2)1),floor_area2,588
+BUDOVA.,building,235
+Vybavení.,none,404
+Terasa m2,terrace_area,153
+STANDARD m2,none,517
+Muj vyber,none,567
+Terasa/Zahrada [m²],terrace_area,284
+Cena rezervovaneho sklepa (Kc) *,none,160
+Plocha terasy/balkónu.,terrace_area,244
+PODLAHOVÁ PLOCHA (M2),floor_area,22
+cena za příslušenství s dph,price,192
+Příslušenství (m2),none,62
+Dispozice bytu.,layout,255
+cena v kč (vč. dph),price,184
+JEDNOTKA,id,115
+Terasa/Zahrada:,terrace_area,284
+cena vč. dph.,price,624
+Číslo_a_označení_bytu,id,226
+Parkovaci stani,none,15
+Č.J.,id,20
+Můj výběr.,none,567
+Zatravněná-terasa/-terasa-(m2),terrace_area,402
+Terasy / Zahrady (?) m2,exterior_area,483
+Terasa 1. NP [m²],terrace_area,367
+Typ stání [m²],none,541
+poptat m2,none,401
+Zahrada_(m²),garden_area,250
+cislo,id,104
+Cena vč. DPH**:,price,231
+Cena_s_DPH_12_%_/_21_%,price,472
+Číslo_domu,id,264
+Půdorysy,none,597
+Plocha-příslušenství,exterior_area,282
+Cena_vč._DPH_(Kč)*,price,444
+Celková_plocha_m²,total_area,37
+available flats count,none,574
+celkova plocha,none,111
+dostupnost-*,availability,502
+"balcony, terrace, m²",exterior_area,139
+ROOMS,layout,606
+Obytná plocha.,floor_area2,426
+Č. KN:,none,234
+Prodejní_plocha_bytu,floor_area,374
+výměra terasy (v m2),terrace_area,463
+Cena vč. DPH* m2,price,171
+Popis [m²],layout,509
+Cena-s-DPH-12-%,price,582
+číslo [m²],id,104
+UŽITNÁ PLOCHA M2,floor_area2,220
+č. bytu (m2),id,413
+Nemovitost,id,395
+Obytná plocha (m2),floor_area2,426
+"CENA KOMPLET(BYT, LODŽIE/TERASA, SKLEP, GARÁŽOVÉ STÁNÍ):",price,318
+CENA VČ. DPH (KČ)*,price,444
+"CENA KOMPLET(BYT, LODZIE/TERASA, SKLEP, GARAZOVE STANI)",price,318
+Odkaz na dům.,none,422
+Interier,floor_area,583
+Výměra bytu [m²],floor_area,150
+Price inc. VAT (m2),price,456
+Cena-včetně-DPH,price,169
+Usazení na pozemku [m²],none,440
+Vymer,floor_area,203
+Mám Zájem [m²],none,542
+Zahrada střešní zahrada (m2) [m²],garden_area,580
+Poptat [m²],none,8
+Strop (m) m2,none,370
+částečně vybaveno,none,308
+CELKOVÁ CENA (VČ. DPH),price,268
+"Terasa, balkon (m2):",exterior_area,577
+Dostupnost *,availability,502
+poptavka,none,122
+"Balkón, Lodžie, Terasa m2",exterior_area,164
+byt [m²],id,429
+STAV **,availability,534
+Projekt (m2),none,281
+ČÍSLO BYTU (m2),id,311
+Č. jednotky.,id,535
+Total area.,total_area,297
+CELKEM,none,566
+Balkón/terasa (m2),terrace_area,543
+Cena_sklepa,none,494
+Kontakt [m²],none,156
+CELKOVÁ PODLAHOVÁ PL.,floor_area,43
+Cena-vč.-DPH-a-IS,price,563
+výměra (m²) (m2),floor_area,546
+Cena celkem vč. 12% dph,price,393
+Terasa/lodžie (m2).,balcony_area,181
+LODŽIE/TERASA,exterior_area,207
+Číslo domu (m2),id,264
+"Balcony,_terrace,_m²",exterior_area,139
+BALKON / TERASA (m2),exterior_area,275
+Cena vč. DPH*.,price,171
+Final pc [kč],price,328
+ČÍSLO BYTU,id,10
+cena celkem [m²],price,399
+Cena vč DPH,price,380
+CENA / KČ,price,498
+dostupnost_*,availability,502
+TERMÍN DOKONČENÍ,none,420
+Výměra [m²],floor_area,46
+cena základní (kč),price,551
+CENA VČ. DPH**,price,231
+Price Range m2,none,575
+Building:,building,194
+Evidenční číslo,id,445
+Completion m2,none,198
+VELIKOST BYTU,layout,474
+oblíbené m2,none,124
+Karta_bytu,none,53
+P/T/B* m2,exterior_area,16
+Balkon/terasa [m2] (m2),exterior_area,179
+Cena bytu bez příslušenství vč. DPH m2,price,496
+Plán PDF m2,none,619
+celková cena (vč. dph),price,268
+Cena bytu vc. sklepa,price,310
+Kontakt.,none,156
+Velikost zahrady v m2:,garden_area,267
+Celková cena s DPH m2,price,365
+užitná plocha m2 m2,floor_area2,220
+Terasa 2. NP:,terrace_area,368
+Cena (Kč) (m2),price,59
+Cena vč. DPH (Kč)*:,price,444
+"UŽITNÁ PLOCHA, M²",floor_area2,245
+Layout.,layout,136
+Balkon/terasa (m2),exterior_area,415
+"CENA KOMPLET(BYT, LODŽIE/TERASA, SKLEP, GARÁŽOVÉ STÁNÍ)",price,318
+Podlahová plocha brutto [m²] (m2),floor_area,57
+Kupní cena s DPH m2,price,621
+Nastěhování [m²],none,224
+Dum m2,floor_area,418
+Dostupnost** m2,availability,561
+Konečná cena:,price,507
+TERASA / BALKON,terrace_area,342
+Amenities.,none,201
+Užitná_plocha_v_m2,floor_area2,265
+Dům m2,id,102
+balcony area size,balcony_area,609
+"Area, m².",floor_area,138
+Terasa /Balkon.,exterior_area,540
+Podl. plocha1) (m2),floor_area,592
+Plocha teras m2,terrace_area,210
+Zastavěná_plocha_v_m2,none,266
+Cena celkem:,price,421
+Můj výběr,none,567
+Sklepní kóje (m2) m2,cellar_area,337
+uzitna plocha,floor_area2,18
+Sklep/​Sklepní kóje (m²) (m2),cellar_area,271
+Balkon / Terasa / Předzahrádka (m2),exterior_area,358
+BALKON (m2),balcony_area,521
+VÝMĚRA BYTU,floor_area,150
+Číslo /Kód jednotky.,id,379
+BYT.,id,273
+balkon/terasa/ zahrádka (m²),balcony_area,555
+Půdorys (PDF) (m2),none,31
+Unit No. (m2),id,134
+ZAHRADA S TERASOU,garden_area,364
+ZAHRADA m2,garden_area,343
+Balkón-/-terasa,none,489
+bytová jednotka:,id,576
+Byt_v_m2,floor_area,475
+2.NP:,none,570
+Nadstandardní provedení [m²],none,468
+FLOOR,floor,135
+Infolist m2,none,279
+sklep (m²),cellar_area,548
+pozemek_(m²),garden_area,550
+pozemek (m2) m2,total_area,589
+Sklepní_kóje,cellar_area,211
+Rodinny dum,id,594
+Jednotky m2,id,423
+Typ vlastnictví (m2),none,629
+do katalogu m2,none,400
+Usazení-na-pozemku,none,440
+Orientation of windows.,orientation,140
+KÓD [m²],id,457
+SKLEP [m²],none,317
+Plocha m2:,floor_area,323
+PDF bytu m2,none,602
+ORIENTATION OF WINDOWS,orientation,140
+Balkon / Terasa / Predzahradka,exterior_area,358
+"TERASA, BALKON (M2)",exterior_area,577
+PŮDORYS BYTU [m²],none,350
+byt. zn.,id,452
+Cena_celkem,price,421
+cena (?),price,485
+OZNAČENÍ m2,id,341
+typ vlastnictví,none,629
+FORMULÁŘ,none,187
+terasa/lodžie (m2),balcony_area,181
+Označení,id,29
+terasa/balkon předzahrádka (m2) (m2),exterior_area,449
+Unit No.:,id,134
+VÝMĚRA POZEMKU,total_area,439
+TERASA-/-BALKON,terrace_area,342
+cena kč,price,285
+Celková podlahová plocha (m2).,floor_area,260
+PLOCHA SVISLÝCH KONSTRUKCÍ,none,384
+balkon / terasa,balcony_area,27
+"Price of amenities, inc. VAT",price,200
+Užitná_plocha_*,floor_area2,217
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m2) m2,balcony_area,615
+B/T3) m2,exterior_area,505
+"Předzahrádka,-m²",garden_area,133
+bytová jednotka.,id,576
+Terasa/_Lodžie,terrace_area,30
+počet místností m2,layout,105
+Etapa m2,none,390
+Stav prodeje*** [m²],availability,232
+Ceníková_cena,price,511
+Podlahová plocha (m²) m2,floor_area,157
+area size,floor_area,607
+cena základní (Kč),price,551
+Plocha-bytu,floor_area,305
+sklep (m²) m2,cellar_area,548
+č. jednotky m2,id,219
+Balkón / Terasa:,exterior_area,286
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m²).,balcony_area,272
+ORIENTACE.,orientation,314
+Lodžie / terasa (m2),balcony_area,427
+Stav prodeje*** (m2),availability,232
+Dokončení,none,65
+B/T3):,exterior_area,505
+Celková cena (vč. dph),price,268
+Loggia_/_balcony,balcony_area,299
+Sklep m² (m2),cellar_area,5
+Cena vč. DPH**.,price,231
+Číslo-j.,id,206
+Stav bytu:,none,352
+stav jednání,availability,28
+detail.,none,288
+označení:,id,125
+střešní zahrada,terrace_area,470
+Typ_stání,none,541
+Obytna plocha,floor_area2,426
+Cena_bytu_vč._DPH,price,165
+Ozelenena terasa,terrace_area,154
+BALKÓN [m²],balcony_area,354
+PŘEDZAH.-(M²),garden_area,240
+Cena (Kč) m2,price,59
+"BALKON, TERASA, M²",terrace_area,132
+Plocha sklepa (m2),cellar_area,307
+Termín k nastěhování,none,52
+Aktuální stav.,availability,263
+Celková plocha bytu (m²),floor_area,174
+Plocha bytu m2*.,floor_area,616
+Basement storage [m²],cellar_area,301
+Číslo jednotky [m²],id,1
+BYT:,id,273
+Typ stání (m2),none,541
+Cena vč. DPH * (m2),price,467
+Price-inc.-VAT,price,456
+Balkon/Terasa/Lodžie/ Zahrada (předzahrádka) [m²],balcony_area,186
+Cena rezervované garáže (Kč) * m2,none,161
+Parkování m2,none,287
+ČÍSLO BYTU m2,id,311
+cena Kč (*):,price,223
+jednotka (m2),id,115
+Info (m2),none,269
+"Výměra pozemku, m².",total_area,142
+Zatravněná terasa/ terasa (m2) (m2),terrace_area,402
+termín dokončení,none,420
+Čistá plocha bytu,floor_area,243
+Cena včetně DPH:,price,169
+c. jednotky,id,219
+Balkón / terasa [m²],none,489
+Předzahrádka m2,garden_area,48
+B/t/l,exterior_area,129
+celkem,none,566
+BLOK,building,116
+CISLO BYTU,id,311
+Sklep/​Sklepni koje (m2),cellar_area,614
+Celkova plocha (m²),none,216
+Dispozice_bytu,layout,255
+PARKOVÁNÍ ZDARMA,none,527
+Parkování (m2),none,287
+Plocha bytu m2*:,floor_area,616
+Výnos.,none,558
+Min. Vklad,none,130
+CENA PŘÍSLUŠENSTVÍ VČ. DPH,none,497
+výměra bytu,floor_area,150
+Výměra bytu (v m2):,floor_area,461
+Cena celkem (m2),price,421
+Podlahová plocha brutto [m²].,floor_area,57
+podlahová-plocha,floor_area,405
+Pl. podl.,floor_area,289
+BALKÓN/ TERASA (m²).,exterior_area,516
+Cena s DPH 12 % / 21 % (m2),price,472
+Obytná plocha,floor_area2,426
+CENA-S-DPH,price,522
+Typ jednotky.,category,270
+Název m2,id,214
+Dokončení (m2),none,65
+Patro [m²],floor,61
+Cena celkem [m²],price,421
+DŮM ČÍSLO,id,436
+CELKOVÁ PLOCHA M²,total_area,37
+Terasa/balkon,balcony_area,431
+Cena* [m²],price,560
+Balkon-/-terasa-(m2),balcony_area,47
+Cena vč. DPH** (m2),price,231
+plocha,floor_area,11
+Cena základní (kč),price,551
+ZAHRADA (M²),garden_area,250
+Floor space.,floor_area,195
+Příslušenství-v-ceně,none,326
+Konečná cena,price,507
+Sklepní kóje (m2).,cellar_area,337
+Cena za příslušenství s DPH (m2),price,192
+"Area, m² (m2)",floor_area,138
+LODŽIE/TERASA (m2),exterior_area,599
+Podlahová plocha brutto [m²] [m²],floor_area,57
+č.j.,id,20
+Plocha_(m2),floor_area,292
+Terasy-/-Zahrady-(?),exterior_area,483
+Celková cena s dph,price,365
+odh. nájem,none,557
+patro,floor,61
+Vybavení 2):,none,332
+B/T/Z [m²],exterior_area,63
+PŘÍSLUŠENSTVÍ [m²],none,530
+Provedení.,none,620
+Projekt:,none,281
+Podl.-plocha1),floor_area,592
+Balkon/Terasa m²,balcony_area,460
+popis,layout,509
+Aktualni stav,availability,263
+Terasa 2. NP (m2),terrace_area,368
+Car-lift,none,295
+Balkón 2 [m²],balcony_area,392
+POZEMEK,total_area,41
+ZAHRADA,garden_area,126
+Balkon/Terasa m2,balcony_area,229
+Detail,none,40
+Cena s DPH 12 % / 21 %,price,472
+Usazení na pozemku (m2),none,440
+garáž (m2),parking_place_number,549
+Celková plocha [m²],floor_area,152
+Vymera celkem (v m2),total_area,464
+Terasa/Lodžie (m2),exterior_area,280
+Akční-cena,price,512
+Terasa / Lodžie / Zahrada (m²) [m²],terrace_area,175
+Příslušenství: Zahrada (m2) Lodžie (m2) Terasa (m2).,exterior_area,261
+Přísl. m2 (m2),exterior_area,617
+Area m2,floor_area,572
+Balkón:,balcony_area,334
+Zastavěná plocha v m2.,none,266
+Termín dokončení (m2),none,420
+Vila,id,612
+Cena jednotky (Kč) * (m2),price,159
+balkon/terasa m²,balcony_area,460
+Velikost parcely:,total_area,562
+Cena v Kč (vč. DPH):,price,184
+SKLAD,none,315
+Sklepní_kóje_(m2),cellar_area,337
+Cena za bytovou jednotku s DPH [m²],price,378
+Terasa-/Balkon,exterior_area,540
+Formulář.,none,187
+B/T/L [m²],exterior_area,129
+Sklep/​Sklepní kóje (m²) [m²],cellar_area,271
+CENA BYTU VČ. SKLEPA,price,310
+Čistá plocha [m²],floor_area,513
+cena základní (Kč) (m2),price,551
+Plocha-(m²),floor_area,167
+Terasa/balkon (m2):,terrace_area,338
+oblibene,none,124
+KONEČNÁ CENA,price,507
+Příslušenství:,none,62
+Užitná plocha (m2) (m2),floor_area2,23
+číslo j.,id,206
+"užitná plocha, m²",floor_area2,245
+"Balkon, terasa, m² m2",terrace_area,132
+Cena (vč. DPH) m2,price,67
+Cena vč. DPH (Kč)* (m2),price,444
+PŘEDZAH. (M²):,garden_area,240
+UZITNA PLOCHA,floor_area2,18
+Name [m²],id,454
+predzahradka,garden_area,409
+Rooms Range:,none,571
+Ev.c.,id,357
+Cena Kč/m2 (bez DPH) m2,none,66
+b/t/l,exterior_area,129
+Cena v Kč (vč. DPH) m2,price,184
+budova (m2),building,499
+Balkon/terasa [m²],exterior_area,58
+ROK DOKONČENÍ,none,473
+"Terasa, balkon (m2)",exterior_area,577
+Celková užitná plocha,floor_area2,538
+ZAHRADA [m²],garden_area,343
+terasa / lodžie,exterior_area,565
+Interiér m2,floor_area,583
+INTERIÉR,floor_area,583
+Typ_bytu,layout,227
+PODLAHOVÁ PLOCHA (m2),floor_area,312
+Cena vč. dph 1).,price,581
+Dum,id,102
+Dokumentace (m2),none,428
+Prisl. m2,exterior_area,617
+Cena (vc. DPH),price,67
+cislo bytu,id,520
+Blok (m2),building,481
+balkon/​lodžie/​terasa/​predzahrádka (m²),balcony_area,272
+status:,availability,611
+Sklepní_kóje_(ks),none,252
+Cena s DPH v KČ*.,price,603
+vizualizace domu,none,441
+Balkon/terasa [m2]:,exterior_area,179
+Balcony area size,balcony_area,609
+"Předzahrádka, m² (m2)",garden_area,133
+Balkon/terasa [m²] [m²],exterior_area,58
+Balkon/Terasa/Lodžie/-Zahrada-(předzahrádka),balcony_area,186
+FINAL PC [KČ],price,328
+Plocha sklepa,cellar_area,307
+Cena-vč.-DPH**,price,231
+PLOCHA M2,floor_area,323
+"Balkón, Terasa, m².",exterior_area,246
+Sklep/​Sklepní kóje (m²).,cellar_area,271
+PLOCHA PŘEDZAHRÁDKY M2,garden_area,230
+Číslo j.:,id,206
+"Balcony, terrace, m² [m²]",exterior_area,139
+rooms,layout,606
+Cena-celkem-vč.-DPH-(Kč),price,253
+karta bytu (m2),none,553
+DETAIL m2,none,488
+rooms range,none,571
+Stav**,availability,626
+Oblíbené,none,124
+Speciální vybavení m2,none,64
+Příslušenství: Zahrada (m2) Lodžie (m2) Terasa (m2) (m2),exterior_area,261
+Konecna cena,price,507
+Ev.č. (m2),id,357
+BALKON (M²),balcony_area,547
+"Price_excluding_amenities,_inc._VAT",none,199
+Mám Zájem m2,none,542
+Zahrada s terasou.,garden_area,364
+Č. bytu (m2),id,524
+Plocha pozemku (m2),total_area,148
+č. jednotky.,id,219
+rooms.,layout,606
+Cena včetně dph,price,169
+"Předzahrádka,_terasa,_balkon_(m2)",exterior_area,600
+Cena vc. DPH *,price,467
+LODŽIE/TERASA m2,exterior_area,599
+Byt číslo,id,225
+B / T.,exterior_area,593
+"PLOCHA DOMU OD, M²",floor_area,143
+CENA OD [m²],price,459
+Celková plocha bytu (m²) (m2),floor_area,174
+ev.č.,id,357
+Cena vč. DPH m2,price,51
+FINAL PC [Kč] m2,price,328
+Koupit online (m2),none,480
+lodžie/terasa,exterior_area,207
+premium / smart,none,587
+druh,category,545
+FLOOR AREA,floor_area,298
+byt.,id,429
+area size:,floor_area,607
+Strop (m):,none,370
+BALKON/TERASA [M2],exterior_area,179
+cena_bez_DPH,none,112
+PLOCHA (m²) (m2),floor_area,515
+POPTAT BYT (m2),none,351
+Karta domu.,none,128
+Kontakt (m2),none,156
+Price (CZK) [m²],price,141
+Terasa / Lodžie / Zahrada (m²).,terrace_area,175
+Balkon/terasa [m²]:,exterior_area,58
+Zahrada:,none,151
+Cena s DPH [m²],price,155
+POZEMEK.,total_area,613
+Cena jednotky vč. DPH,price,387
+Velikost zahrady v m2 [m²],garden_area,267
+TYP.,category,514
+Detail_bytu,none,7
+Kód bytu [m²],id,490
+PODLAŽÍ [m²],floor,236
+Konečná_cena,price,507
+Plocha bytu (m2).,floor_area,622
+FLAT (m2),id,345
+final pc [kč],price,328
+Flats-Count,none,573
+Bytová-jednotka,id,149
+Terasy na střeše (?) m2,terrace_area,484
+Dům m2 [m²],floor_area,418
+PODLAŽÍ ČÍSLO,floor,447
+Mám Zájem,none,542
+Karta jednotky.,none,309
+užitná plocha.,floor_area2,430
+Floor:,floor,135
+Bytová jednotka m2,id,149
+pozemek (m2),total_area,21
+Cena byt vc. DPH,price,376
+GARÁŽOVÉ STÁNÍ (KS),none,251
+Zastavěná plocha v m2 [m²],none,266
+status.,availability,611
+PŘÍSL. M2,exterior_area,617
+"Balkón, terasa, m²",exterior_area,246
+stav prodeje m2,availability,552
+EXTERIÉR,exterior_area,190
+Cena s DPH (Kč) [m²],price,491
+UŽITNÁ PLOCHA,floor_area2,25
+STŘEŠNÍ ZAHRADA,terrace_area,470
+Price.,price,304
+Č.-KN,none,234
+Výměra pozemku m2,total_area,439
+2.NP [m²],none,570
+Zahrada (m2) (m2),garden_area,182
+Celková podlahová plocha (m2):,floor_area,260
+m² zimni zahrady,garden_area,108
+OZELENĚNÁ TERASA,terrace_area,154
+status (m2),availability,611
+Dům m2 (m2),floor_area,418
+č._jednotky,id,219
+KARTA JEDNOTKY,none,309
+Č. bytu [m²],id,524
+Kolaudace (m2),none,145
+Užit. plocha (m2) (m2),floor_area2,532
+Velikost zahrady v m2 m2,garden_area,267
+B/L/T (m2):,balcony_area,623
+Plocha m² *.,floor_area,34
+ČÍSLO BYTU.,id,311
+Typ-jednotky,category,270
+Prodejní plocha bytu,floor_area,374
+cena s DPH (Kc),price,450
+rooftop terrace,terrace_area,300
+Sklep_(m2),cellar_area,183
+Kolaudace,none,145
+Celková ceny bytu s dph,price,258
+TERASA-/-ZAHRADA-m²,exterior_area,348
+Byt ***:,id,531
+Celková plocha (m²) (m2),none,216
+POČET PATER,none,446
+do katalogu:,none,400
+Plocha svislých konstrukcí (m2),none,384
+Floor_area,floor_area,298
+Balkon/Terasa_m²,balcony_area,460
+CENA *,price,501
+Vynos,none,558
+CENA ZA BYT S DPH (BEZ PŘÍSLUŠENSTVÍ),price,191
+Č. KN [m²],none,234
+Předzahrádka,garden_area,48
+velikost parcely,total_area,562
+terasa předzahrádka,exterior_area,584
+Stav**:,availability,626
+Terasa_2._NP,terrace_area,368
+Status [m²],availability,39
+Prislusenstvi: Zahrada (m2) Lodzie (m2) Terasa (m2),exterior_area,261
+Cena-s-DPH,price,155
+Terasa/Bal.:,exterior_area,508
+celková ceny bytu s dph,price,258
+Byt číslo [m²],id,225
+užitná plocha*,floor_area2,147
+Soubor [m²],none,291
+Dispozice:,layout,3
+Zahrada (m²) (m2),garden_area,250
+Lodžie/Terasa [m²],exterior_area,207
+Cena s DPH v Kč*.,price,478
+Balkon/Terasa m².,balcony_area,460
+POČET POKOJŮ,layout,322
+Cena celkem,price,399
+ODH. NÁJEM,none,557
+Plocha (m2) (m2),floor_area,292
+BALKON / TERASA [m²],exterior_area,275
+Sklep_/_Komora_(m2),cellar_area,49
+Plocha-pozemku,total_area,148
+Číslo bytu [m²],id,10
+Cena-v-Kč-(vč.-DPH),price,184
+pozemek-(m2),total_area,589
+Půdorys-(PDF),none,31
+LOFT_NO.,id,294
+Lodžie:,balcony_area,50
+Podlahová plocha,floor_area,24
+Plocha bytu (m2),floor_area,305
+plocha celkem m2 m2,total_area,372
+TERASA/BALKON (M2),terrace_area,338
+PRICE,price,304
+Byt m2 [m²],floor_area,178
+Budova,building,26
+Stav pouze volné:,availability,394
+SPECIÁLNÍ VYBAVENÍ,none,64
+Velikost parcely (m2),total_area,562
+Zastavena plocha v m2,none,266
+Balkon/Terasa/ Zahrádka (m²).,balcony_area,555
+Typ jednotky,category,270
+ČÍSLO,id,104
+B/T/Z (m²)*,balcony_area,625
+Typ jednotky:,category,270
+Plocha předzahrádky [m²],garden_area,595
+KÓD:,id,457
+Cena sklepa.,none,494
+evidenční číslo,id,445
+PARKOVACÍ MÍSTO.,parking_place_number,349
+Terasa / lodžie,exterior_area,565
+blok [m²],building,116
+Rooftop_terrace,terrace_area,300
+Zahrádka_v_m2,garden_area,476
+Cena_s_DPH_v_Kč*,price,478
+"Předzahrádka, terasa, balkon (m2) m2",exterior_area,600
+TERASA [m²],terrace_area,458
+Sekce [m²],building,525
+price.,price,610
+m²-bytu,floor_area,106
+č. (m2),id,601
+Celková plocha *,total_area,391
+Rooms_Range,none,571
+b/l/t (m²) 1),terrace_area,331
+Typ nabidky,category,353
+Aktuálně m2,availability,259
+Celková plocha (bez terasy) [m²],floor_area,385
+Číslo-a-označení-bytu,id,226
+TERMÍN K NASTĚHOVÁNÍ,none,52
+Plocha teras:,terrace_area,210
+užitná plocha v m2,floor_area2,265
+Lodžie/Balkon Terasa/Zahrádka (m²):,balcony_area,466
+PLOCHA:,floor_area,274
+podlaží:,floor,117
+Standard (m2),none,56
+Standard.,none,56
+Vybavení [m²],none,404
+TERASA / BALKON m2,terrace_area,342
+Přísl. m2,exterior_area,617
+Terasa/Zahrada,terrace_area,284
+Aktuální stav [m²],availability,263
+Užitná-plocha-bytu,floor_area2,482
+blok,building,116
+Cena / Kč (m2),price,498
+Zatravnena terasa/ terasa (m2),terrace_area,402
+Cena za příslušenství s DPH.,price,192
+Balkon/Terasa m2 [m²],balcony_area,229
+AKCE,none,103
+LODŽIE / TERASA / PŘEDZAHRÁDKA [m²],exterior_area,598
+PLOCHA1,floor_area,443
+detail,none,40
+Balkon/Terasa/ Zahradka (m²),balcony_area,555
+Balkon / terasa.,exterior_area,377
+orientace,orientation,14
+Pozemek.,total_area,41
+Aktuální stav domu,none,437
+Aktuální-stav,availability,263
+Ceníková cena m2,price,511
+Výměr.,floor_area,203
+Kód m2,id,336
+dům m2,floor_area,418
+"Area, m² [m²]",floor_area,138
+Area,floor_area,572
+Total area [m²],total_area,297
+B-/-T,exterior_area,593
+Základní-cena,price,487
+zatravněná terasa/ terasa (m2),terrace_area,402
+Cena-Kč-**,price,38
+Dům číslo [m²],id,436
+Balkón-/-Terasa,exterior_area,286
+Užitná plocha (m2)1).,floor_area2,588
+VYMERA PARCELY,none,539
+PŘÍSLUŠENSTVÍ: ZAHRADA (M2) LODŽIE (M2) TERASA (M2),exterior_area,261
+Terasa / Lodžie:,exterior_area,565
+Orientation m2,orientation,302
+PŮDORYS,none,247
+Mám Zájem:,none,542
+jednotka,id,115
+Jednotka (m2),id,170
+Cena_s_DPH_12_%,price,582
+Půdorysy.,none,597
+Plocha bytu.,floor_area,305
+B/L/T (m2) 3):,balcony_area,579
+Sklep (m2) [m²],cellar_area,183
+Cena bytu vč. DPH m2,price,165
+celková plocha (bez terasy),floor_area,385
+Balkon / terasa (m2).,balcony_area,47
+Podlahova plocha*,floor_area,209
+STATUS,availability,39
+CENA ZA BYTOVOU JEDNOTKU S DPH,price,378
+Budova m2,building,26
+galerie pracovna,none,585
+Podlahova plocha (m2),floor_area,17
+Výnos:,none,558
+Cena_bytu_s_DPH,price,360
+Cena garážového stání,none,495
+Balkon (m2),balcony_area,44
+Sklepní kóje (ks) [m²],none,252
+Cislo bytu,id,10
+OBLÍBENÉ,none,124
+Cena od (Kč) (m2),price,144
+plocha bytu m2*,floor_area,616
+CENA_OD,price,459
+zahrádka,garden_area,388
+Terasa / zahrada m²,exterior_area,348
+Výměra_předzahrádky_(v_m2),garden_area,462
+Karta jednotky [m²],none,309
+Číslo_/Kód_jednotky,id,379
+zahrada m2,garden_area,126
+balkon/terasa (m2):,exterior_area,500
+STAV,availability,9
+PARKOVACÍ MÍSTO:,parking_place_number,349
+zastavěná plocha v m2,none,266
+parkovací-stání,parking_place_number,410
+B/L/T (m2) 3) [m²],balcony_area,579
+Cena s DPH 12 %,price,582
+Konečná cena za byt vč. dph,price,113
+číslo_bytu,id,520
+Balkon/Terasa_(m2),balcony_area,533
+Info,none,269
+plocha celkem m2,total_area,372
+Cena vč. dph (kč)*,price,444
+PRISLUSENSTVI,none,530
+Konečná-cena,price,507
+Terasa / Lodžie m2,exterior_area,565
+Celková podlahová plocha (m2),floor_area,260
+Výměra:,floor_area,46
+Celková podlahová pl. m2,floor_area,43
+Celková cena [m²],price,596
+Užitná plocha v m2,floor_area2,265
+NP,floor,12
+TERASA / LODŽIE (m2):,exterior_area,313
+dokumentace,none,428
+Celková plocha * m2,total_area,391
+terasa/balkon předzahrádka (m2) m2,exterior_area,449
+do katalogu (m2),none,400
+DISPOZICE:,layout,237
+Formulář m2,none,187
+Plocha bytu (m²) [m²],floor_area,465
+"Terasa, balkon (m2) [m²]",exterior_area,577
+Galerie-Pracovna,none,585
+Cena s DPH v KČ*:,price,603
+"Price of amenities, inc. vat",price,200
+Cena-sklepa,none,494
+Název:,id,214
+č. m2,id,601
+virtuální prohlídka [m²],none,554
+Pozemek_(m2),total_area,21
+užitná plocha m2 (m2),floor_area2,220
+Infolist:,none,279
+PODLAŽÍ:,floor,236
+M² ZIMNÍ ZAHRADY,garden_area,108
+Pl. podl. [m²],floor_area,289
+PŮDORYS [m²],none,523
+Karta bytu:,none,53
+CENA BYTU BEZ PŘÍSLUŠENSTVÍ VČ. DPH,price,496
+Lodžie,balcony_area,50
+CELKOVÁ PLOCHA (UŽITNÁ),floor_area2,383
+CENA ZÁKLADNÍ (KČ),price,551
+Č.j. (m2),id,20
+KÓD m2,id,457
+title:,id,605
+Rooftop terrace (m2),terrace_area,300
+Lodžie/Balkon Terasa/Zahrádka (m²),balcony_area,466
+Odkaz na dům m2,none,422
+Velikost-zahrady-v-m2,garden_area,267
+Poptávka m2,none,359
+BYT Č.,id,254
+"Podlahová-plocha,-m²",floor_area,131
+balkon/terasa/lodžie/ zahrada (předzahrádka),balcony_area,186
+Stav-prodeje***,availability,232
+GARÁŽOVÉ STÁNÍ (m2),none,316
+CENA S DPH (m2),price,522
+cena bez DPH,none,112
+Sklep/​sklepní kóje (m²),cellar_area,271
+Pl.-zahrady,garden_area,290
+Lodžie / terasa:,balcony_area,427
+číslo bytu [m²],id,520
+Investiční potenciál,none,162
+Objekt,building,54
+PŘÍSLUŠENSTVÍ:,none,530
+Přísl._m2,exterior_area,617
+cena celkem.,price,399
+Price Range.,none,575
+Loggia/terrace:,balcony_area,196
+Typ-nabídky,category,353
+Lodžie/Balkon Terasa/Zahrádka (m²) m2,balcony_area,466
+cena bytu vč. příslušenství (kč s dph)*,price,262
+Orientation (m2),orientation,302
+Jednotka č..,id,382
+Užitná plocha (m²),floor_area2,248
+Jednotka,id,115
+Balkon/​Lodžie/​Terasa/​Predzahrádka-(m2),balcony_area,615
+Cena-za-byt-s-DPH-(bez-příslušenství),price,191
+Celková cena s DPH.,price,365
+Cena celkem vč. DPH:,price,45
+Orientace:,orientation,14
+byt ***,id,531
+Terasy / Zahrady (?),exterior_area,483
+poptávka m2,none,122
+Zahrada (m2).,garden_area,182
+FINAL CP [KČ],price,180
+Plocha lodžie/zahrady/ balkónu v m² (m2),exterior_area,257
+CELKOVÁ UŽITNÁ PLOCHA.,floor_area2,538
+"Price excluding amenities, inc. VAT",none,199
+SKLEP,cellar_area,205
+uzitna plocha m2,floor_area2,220
+area size.,floor_area,607
+TERASA / LODŽIE,exterior_area,565
+Celková-podlahová-pl.,floor_area,43
+PODLAHOVÁ PLOCHA VČ. GARÁŽE,floor_area,366
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m²) m2,balcony_area,272
+Min.-Vklad,none,130
+Užitná-/-Podlahová-plocha,floor_area,627
+Terasa / Lodžie.,exterior_area,565
+Cena bytu* (vč. DPH).,price,176
+Celková plocha *:,total_area,391
+"terasa, balkon (m2)",exterior_area,577
+plocha bytu v m²,floor_area,256
+Orientation-of-windows,orientation,140
+Sklep / Komora (m2):,cellar_area,49
+Termín-nastěhování,none,189
+Bytová jednotka [m²],id,149
+PLOCHA (M²) m2,floor_area,238
+sklep (m²) [m²],cellar_area,548
+m² pozemku.,garden_area,107
+Parkování.,none,287
+DŮM,id,102
+cislo jednotky,id,283
+Podlah. plocha:,floor_area,330
+PLOCHA (M²) (m2),floor_area,238
+Celková plocha * [m²],total_area,391
+Ev.č.,id,357
+Plocha-předzahrádky,garden_area,595
+Koupit online m2,none,480
+"CENA KOMPLET(BYT, LODŽIE/TERASA, SKLEP, GARÁŽOVÉ STÁNÍ) m2",price,318
+Bytová jednotka (m2),id,149
+Byt-v-m2,floor_area,475
+venkovní prostory,exterior_area,628
+Termin dokonceni,none,420
+Plocha předzahrádky m2.,garden_area,230
+Užitná plocha bytu m2,floor_area2,482
+ID.,id,42
+car lift,none,295
+Terasa_/_Balkon,terrace_area,469
+Typ nabídky m2,category,353
+Plocha místností:,floor_area,510
+označení m2,id,125
+balkon/terasa [m²],exterior_area,58
+Číslo bytu:,id,10
+Rodinný dům m2,id,594
+Balkón 2 m2,balcony_area,392
+CENA.,price,241
+cena byt vč. dph,price,376
+balcony area size:,balcony_area,609
+Podlahová plocha vč. garáže,floor_area,366
+číslo bytu:,id,520
+parkování m2,parking_place_number,416
+VÝMĚRA CELKEM (V M2),total_area,464
+FLOOR [m²],floor,346
+Floor area:,floor_area,298
+Dům m2 m2,floor_area,418
+Podlahová-plocha*,floor_area,209
+Celková podlahová pl.* (m2),floor_area,146
+PARKOVÁNÍ.,none,344
+b/l/t (m²),balcony_area,239
+Loggia / balcony m2,balcony_area,299
+Cena s DPH 12 % / 21 % m2,price,472
+nemovitost [m²],id,395
+Balkon_/_Terasa,balcony_area,27
+ROZLOHA CELKEM,floor_area,425
+Terasy / Zahrady (?).,exterior_area,483
+Cena s DPH m2,price,155
+Kód:,id,336
+celková plocha m2.,total_area,222
+Balkón/Terasa,exterior_area,559
+Uzitna plocha (m2),floor_area2,18
+BALKON:,balcony_area,521
+"Předzahrádka, terasa, balkon (m2).",exterior_area,600
+Provedení m2,none,620
+Rok dokončení:,none,473
+1.NP [m²],none,569
+CENA-OD,price,459
+Označení:,id,29
+Plocha_terasy/balkónu,terrace_area,244
+Cena kč (*),price,223
+Číslo /Kód jednotky:,id,379
+VELIKOST BYTU m².,floor_area,347
+Pocet pater,none,446
+Terasa/balkon-(m2),terrace_area,338
+cena s DPH (Kč):,price,450
+Cena v Kč (vč. DPH) [m²],price,184
+Celková podlahová pl.,floor_area,43
+Balkon/Terasa-m²,balcony_area,460
+Layout [m²],layout,136
+Balkon / Terasa / Předzahrádka [m²],exterior_area,358
+celková cena s dph,price,365
+"Předzahrádka, terasa, balkon (m2)",exterior_area,600
+Premium / Smart:,none,587
+balkon (m²),balcony_area,547
+PRODEJNÍ PLOCHA BYTU,floor_area,374
+cena vc. DPH,price,432
+Balkon/Terasa/Lodžie/ Zahrada (předzahrádka):,balcony_area,186
+B/T/Z:,exterior_area,63
+Velikost pozemku.,total_area,320
+Sklep_m²,cellar_area,5
+Cena (Kč),price,59
+LODŽIE/TERASA.,exterior_area,599
+Termín dokončení m2,none,420
+aktuální stav domu,none,437
+Balkon / Terasa [m²],balcony_area,27
+TERASA 2. NP,terrace_area,368
+terasa / lodžie / zahrada (m²),terrace_area,175
+Cena-s-DPH-v-KČ*,price,603
+Velikost m2,floor_area,424
+Balkon.,balcony_area,44
+Katalogový list,none,185
+OZNAČENÍ,id,29
+PŮDORYS m2,none,523
+Plocha (m2) 2) (m2),floor_area,578
+Plocha_teras,terrace_area,210
+Název [m²],id,214
+Investiční potenciál (m2),none,162
+PDF:,none,123
+Podlahová-plocha*-m2,floor_area,228
+Car lift (m2),none,295
+POPTAT BYT.,none,351
+č.,id,601
+Plocha terasy/balkónu,terrace_area,244
+Plocha1.,floor_area,443
+Celková plocha m² m2,total_area,37
+Dokumentace m2,none,428
+amenities,none,201
+Plocha [m²]:,floor_area,327
+cena_vč._DPH,price,432
+VILA m2,id,612
+CENA VČ. DPH,price,51
+Zatravněná terasa/ terasa (m2):,terrace_area,402
+příslušenství v ceně,none,326
+Apartment [m²],id,193
+POZEMEK (M²),garden_area,550
+PARKNG.,parking_place_number,564
+Lodžie/terasa /předzáhradka,balcony_area,586
+Plocha RD,floor_area,438
+plocha (m2) (m2),floor_area,119
+Garáž:,none,218
+Terasa/Balkon,exterior_area,568
+CENA OD:,price,459
+Pl. zahrady m2,garden_area,290
+stav**,availability,626
+Čistá plocha,floor_area,513
+PLOCHA (m²).,floor_area,515
+kompas (m2),none,591
+status,availability,39
+Balkón / Předzahrádka / Terasa (m²),garden_area,168
+CENA SKLEPA,none,494
+Rooms Range m2,none,571
+Cena vč. DPH (Kč)*.,price,444
+B/L/T (M2),balcony_area,623
+PREDZAHRADA,garden_area,529
+Celková plocha m².,total_area,37
+Rozloha-celkem,floor_area,425
+TERASA/BAL.,exterior_area,508
+Terasa Předzahrádka,exterior_area,584
+orientation,orientation,302
+stav bytu,none,352
+Cena vč. dph 1) [m²],price,581
+Cena_v_Kč_(vč._DPH),price,184
+Číslo,id,104
+CENA OD.,price,459
+Interiér.,floor_area,583
+CENA CELKEM VČ. DPH (KČ),price,253
+cena (vč. dph),price,67
+Podl. plocha,floor_area,414
+Car lift [m²],none,295
+TERASA / LODŽIE (m2) m2,exterior_area,313
+Výměra-bytu-(v-m2),floor_area,461
+Cena sklepa m2,none,494
+Střešní zahrada [m²],terrace_area,470
+Cena-vč.-DPH-(Kč)*,price,444
+Cena vč. DPH (Kč)* m2,price,444
+Kód bytu.,id,490
+Car lift:,none,295
+terasa/ balkon/ lodžie/ zahrádka,exterior_area,188
+Označit k poptání,none,403
+TYP [m²],category,514
+Typ,category,13
+Nastěhování.,none,224
+Exteriér m2,exterior_area,190
+Cena_Kč,price,285
+Cena bytu vč. DPH:,price,165
+PODLAHOVÁ_PLOCHA_(m2),floor_area,312
+Disp.,layout,329
+cena.,price,411
+b/l/t (m2) 3),balcony_area,579
+Podlahová plocha (m²) (m2),floor_area,157
+č.:,id,601
+PARKNG [m²],parking_place_number,564
+Detail bytu [m²],none,7
+Terasa v m2 (m2),terrace_area,477
+ZAHRADA STŘEŠNÍ ZAHRADA (M2),garden_area,580
+druh m2,category,545
+b/l/t (m2),balcony_area,623
+Sklepni koje (m²),cellar_area,215
+Area.,floor_area,572
+Podlah. plocha (m2),floor_area,330
+Cena-bytu-vč.-příslušenství-(Kč-s-DPH)*,price,262
+Uzitna plocha,floor_area2,18
+B/t/l (m2),exterior_area,293
+Orientation [m²],orientation,302
+Výměra předzahrádky (v m2).,garden_area,462
+Velikost (m2),floor_area,424
+Plocha sklepa:,cellar_area,307
+cena sklepa,none,494
+m² balkonu [m²],balcony_area,109
+CENA VC. DPH,price,355
+Cena_(12%_DPH),price,544
+Výměra bytu m2,floor_area,150
+DETAIL [m²],none,488
+Balkon/terasa [m2].,exterior_area,179
+Provedení,none,620
+Poptat.,none,8
+č. kn,none,234
+Name.,id,454
+Užitná-plocha-*,floor_area2,217
+Cena bez dph,none,112
+podrobnosti:,none,412
+"VÝMĚRA POZEMKU, M²",total_area,142
+terasa / lodžie (m2),exterior_area,313
+Cena rezervované garáže (Kč) *,none,161
+Price inc. VAT m2,price,456
+Plocha balkónu,balcony_area,306
+Ozeleněná terasa:,terrace_area,154
+Cena-bytu-vč.-DPH,price,165
+terasa m2,terrace_area,406
+Parkování zdarma.,none,527
+Plocha předzahrádky,garden_area,595
+Celkem s terasou.,total_area,386
+price (czk),price,141
+patro (m2),floor,503
+podlahová plocha:,floor_area,405
+SKLAD.,none,315
+stav prodeje (m2),availability,552
+"Price excluding amenities, inc. VAT:",none,199
+building (m2),building,604
+Nastěhování m2,none,224
+Terasa / Balkon,terrace_area,469
+Venkovní prostory,exterior_area,628
+Cena_za_m2,none,493
+Parkování zdarma (m2),none,527
+Balkon_/_terasa_(m2),balcony_area,47
+cena-vč.-dph,price,624
+Zahrada m2,none,151
+Cena bytu vč. sklepa [m²],price,310
+Výměra pozemku.,total_area,439
+Akce,none,103
+Floor space,floor_area,195
+sklep / komora,cellar_area,375
+Domy m2,id,486
+Základní cena.,price,487
+Rozloha (m2),floor_area,453
+B/L/T_(m2),balcony_area,623
+Cena / Kč:,price,498
+Cena (vč. DPH).,price,67
+počet místností,layout,105
+detail bytu (m2),none,166
+Č. BYTU,id,413
+Cena vč. DPH,price,51
+"Price of amenities, inc. VAT.",price,200
+Vizualizace domu.,none,441
+Galerie Pracovna.,none,585
+Aktuální stav domu:,none,437
+Formulář:,none,187
+BALKÓN:,balcony_area,354
+CENÍKOVÁ CENA,price,511
+atrium,none,492
+Užitná / Podlahová plocha m2,floor_area,627
+Číslo /Kód jednotky,id,379
+Sklep / Komora,cellar_area,375
+Celková-cena-s-DPH,price,365
+Price (m2),price,304
+patro:,floor,503
+Cena:,price,6
+DRUH,category,545
+Vymera pozemku,total_area,439
+zahrada.,garden_area,126
+Prodejni plocha bytu,floor_area,374
+Plocha pozemku:,total_area,148
+M² TERASY,terrace_area,110
+Byt._zn.,id,452
+Karta-jednotky,none,309
+Balkon/​Lodžie/​Terasa/​Predzahrádka (m2).,balcony_area,615
+Lodžie/Terasa m2,exterior_area,207
+Lodžie/Terasa (m2),exterior_area,207
+PARKOVÁNÍ,none,287
+CENA (?),price,485
+VÝMĚRA PARCELY:,none,539
+Užitná / Podlahová plocha,floor_area,627
+GS.,none,471
+nastěhování.,none,361
+Terasa/Balkon:,exterior_area,568
+Střešní_zahrada,terrace_area,470
+LODŽIE/TERASA [m²],exterior_area,599
+Strop (m) (m2),none,370
+TERASA / BALKON [m²],terrace_area,342
+Balkón / Terasa [m²] [m²],exterior_area,526
+Evidenční_číslo,id,445
+plocha sklepa,cellar_area,307
+FINAL CP [Kč] m2,price,180
+cena vč. DPH1) [m²],price,506
+Terasa/lodzie (m2),balcony_area,181
+Cena-rezervované-garáže-(Kč)-*,none,161
+Zahrada (m2) m2,garden_area,182
+Číslo a označení bytu.,id,226
+sklep [m²],cellar_area,221
+Terasa/ balkon/ lodžie/ zahrádka,exterior_area,188
+výměra bytu (v m2),floor_area,461
+Plocha m²,floor_area,4
+BALKÓN/ TERASA (m²) [m²],exterior_area,516
+Storage-box,none,278
+Name:,id,454
+Celková plocha (užitná) [m²],floor_area2,383
+terasa/lodžie,exterior_area,280
+PŮDORYS_BYTU,none,350
+CENA BYTU VČ. PŘÍSLUŠENSTVÍ (KČ S DPH)*,price,262
+price [m²],price,610
+Výměra (m²),floor_area,546
+typ m2,category,369
+Cena celkem vč. 12% DPH,price,393
+Jednotka:,id,170
+1.NP:,none,569
+Cena Kč **.,price,38
+Cena celkem vc. 12% DPH,price,393
+PLOCHA BYTU V M²,floor_area,256
+GARÁŽOVÉ STÁNÍ,none,316
+dostupnost (m2),availability,451
+Podlaží_číslo,floor,447
+Plocha teras,terrace_area,210
+Balkón/ terasa (m²),exterior_area,516
+Katalogový list.,none,185
+Výměra-terasy-(v-m2),terrace_area,463
+KARTY,none,373
+PODLAHOVÁ PLOCHA*,floor_area,209
+Jednotky [m²],id,423
+CENA REZERVOVANÉHO SKLEPA (KČ) *,none,160
+PLOCHA [M²],floor_area,327
+Sklepni koje,cellar_area,211
+Terasa/Bal. (m2),exterior_area,508
+Detail [m²],none,40
+DOSTUPNOST:,availability,356
+Cena s DPH (Kč) m2,price,491
+ČÍSLO [m²],id,233
+Číslo (m2),id,177
+Nastěhování,none,224
+podlazi,floor,117
+lodžie,balcony_area,50
+P/t/b*,exterior_area,16
+dispozice.,layout,118
+Balkon_m²,balcony_area,35
+Cena [m²],price,6
+m² balkonu,balcony_area,109
+2.np,none,570
+B/L/T_(m²)_1),terrace_area,331
+Pl. podl. m2,floor_area,289
+area size (m2),floor_area,607
+Střešní zahrada (m2),terrace_area,470
+Velikost parcely.,total_area,562
+Cena-vč.-dph-1),price,581
+pozemek (m2) (m2),total_area,589
+TERASA / LODŽIE (m2).,exterior_area,313
+BALKON,balcony_area,44
+Dispozice,layout,3
+"Vymera pozemku, m²",total_area,142
+Cena_s_DPH_v_KČ*,price,603
+MIN. VKLAD,none,130
+Cena Kč [m²],price,285
+Rooftop terrace m2,terrace_area,300
+Cena bytu* (vč. dph),price,176
+číslo jednotky (m2),id,283
+Ceníková cena (m2),price,511
+Sklep m².,cellar_area,5
+Podlah. plocha.,floor_area,330
+GS [m²],none,471
+Zahrádka m2,garden_area,388
+STAV BYTU,none,352
+Cena_jednotky_vč._DPH,price,387
+Kolekce [m²],none,33
+Flats Count.,none,573
+Podlaží:,floor,2
+číslo:,id,104
+Cena jednotky (Kč) *.,price,159
+CENA VČ DPH,price,380
+ORIENTACE [m²],orientation,314
+DISPOZICE m2,layout,237
+Car lift,none,295
+Terasa/ Balkon/ Lodžie/ Zahrádka m2,exterior_area,188
+*_Cena_12%_DPH,price,333
+Plocha prislusenstvi,exterior_area,282
+Plocha bytu v m² m2,floor_area,256
+Cena od (Kč).,price,144
+TERASA / ZAHRADA m²:,exterior_area,348
+"Area, m²",floor_area,138
+Sklepní kóje (m2) (m2),cellar_area,337
+Stav bytu,none,352
+POPTAT BYT,none,351
+terasa/balkon predzahradka (m2),exterior_area,449
+Celková_plocha_(bez_terasy),floor_area,385
+Plocha terasy/balkónu m2,terrace_area,244
+Plocha lodzie/zahrady/ balkonu v m²,exterior_area,257
+B/L/T_(M²),balcony_area,239
+m²:,floor_area,277
+Usazení_na_pozemku,none,440
+celková plocha [m²],none,111
+Kolekce.,none,33
+Katalogový-list,none,185
+Exteriér,exterior_area,190
+ČÍSLO BYTU:,id,311
+Parking:,none,335
+"PŘEDZAHRÁDKA, M²",garden_area,133
+Balkon/Terasa (m2) (m2),balcony_area,533
+M² BALKONU,balcony_area,109
+Galerie Pracovna,none,585
+Dostupnost**,availability,561
+Celková plocha vč. příslušenství (m2),total_area,325
+Parkovací místo m2,none,204
+cena vč. DPH1) (m2),price,506
+Poptávka,none,122
+Stresni zahrada,terrace_area,470
+Cena bytu* (vč. DPH) [m²],price,176
+Rooms Range,none,571
+oznaceni,id,125
+Celkem-s-terasou,total_area,386
+Price (CZK):,price,141
+Zahrada střešní zahrada (m2) m2,garden_area,580
+Price inc. VAT [m²],price,456
+Zahrádka v m2 (m2),garden_area,476
+balkon [m²],balcony_area,407
+Podlazi,floor,2
+Sklep [m²],cellar_area,205
+Umístění:,none,208
+Termín k nastěhování:,none,52
+terasa 2. np,terrace_area,368
+PLÁN PDF,none,619
+Domy,id,486
+Cena bytu* (vč. DPH):,price,176
+POPTAT BYT [m²],none,351
+Cena_/_Kč,price,498
+Sklep / Komora.,cellar_area,375
+Sklep/​Sklepní kóje (m2) [m²],cellar_area,614
+Cena_s_DPH_(Kč),price,491
+podlah. plocha,floor_area,330
+M² pozemku,garden_area,107
+Terasa,terrace_area,153
+Sklep-/-Komora,cellar_area,375
+Plocha celkem [m²],floor_area,202
+BALKON.,balcony_area,521
+m²_zimní_zahrady,garden_area,108
+"Výměra_pozemku,_m²",total_area,142
+Cena_vč_DPH,price,380
+Rozloha_celkem,floor_area,425
+Cena kč,price,285
+Výměra_bytu,floor_area,150
+Celková_plocha_bytu_(m²),floor_area,174
+Užitná plocha (m2)1) [m²],floor_area2,588
+Podlahová plocha* [m²],floor_area,209
+Cista plocha bytu,floor_area,243
+OZNAČENÍ BYTU,id,173
+TERASA.,terrace_area,458
+Výměra pozemku [m²],total_area,439
+Terasa/Bal. m2,exterior_area,508
+media,none,242
+Cena sklepa,none,494
+Celková plocha m²,total_area,37
+VILA:,id,612
+orientation of windows,orientation,140
+B/T/Z,exterior_area,63
+Příslušenství v ceně,none,326
+B/L/T-(m2),balcony_area,623
+Zahrádka v m2 [m²],garden_area,476
+Evidenční číslo.,id,445
+PLOCHA (m²) [m²],floor_area,515
+Zatravněná terasa/ terasa (m2).,terrace_area,402
+Plocha1 [m²],floor_area,443
+Dům číslo,id,436
+Cena-vč-DPH,price,380
+Kontakt m2,none,156
+Terasa/Lodžie.,exterior_area,280
+Cena za bytovou jednotku s DPH m2,price,378
+CENA REZERVOVANÉ GARÁŽE (KČ) *,none,161
+Číslo bytu (m2),id,10
+Cena za příslušenství s DPH:,price,192
+Kategorie m2,category,55
+FINAL CP [Kc],price,180
+Price inc. VAT.,price,456
+KARTA BYTU m2,none,319
+GPS,none,442
+"plocha domu od, m²",floor_area,143
+Parkovací stání [m²],none,15
+byt m2,floor_area,178
+Atrium [m²],none,492
+PDF bytu [m²],none,602
+podlaží číslo,floor,447
+Min. Vklad m2,none,130
+Plocha [m²].,floor_area,327
+podlahová Plocha.,floor_area,537
+Číslo [m²],id,177
+Kolekce (m2),none,33
+Umístění (m2),none,208
+Parkování:,none,287
+Ceníková cena [m²],price,511
+Označení bytu,id,173
+Označit k poptání:,none,403
+balkon (m²).,balcony_area,547
+Cena byt vč. dph,price,376
+B/T/L (m2) [m²],exterior_area,293
+Rooftop terrace.,terrace_area,300
+type.,none,608
+detail bytu m2,none,166
+Užit.-plocha-(m2),floor_area2,532
+Investiční potenciál:,none,162
+Garážové stání [m²],parking_place_number,389
+Podlahová-plocha,floor_area,24
+výměra (m²) [m²],floor_area,546
+"Předzahrádka,-terasa,-balkon-(m2)",exterior_area,600
+CENA BYTU VČ. DPH,price,165
+Typ jednotky (m2),category,270
+Typ prostoru m2,category,321
+Terasa/ Lodžie m2,terrace_area,30
+termín k nastěhování,none,52
+Kolaudace [m²],none,145
+"Balkón,_Lodžie,_Terasa",exterior_area,164
+Zahrada střešní zahrada (m2).,garden_area,580
+"Výměra pozemku, m²:",total_area,142
+Rodinný_dům,id,594
+Podlaží číslo [m²],floor,447
+Balcony/loggia/terrace [m²],exterior_area,455
+Loggia / balcony [m²],balcony_area,299
+Byt ***,id,531
+Užitná_plocha*,floor_area2,147
+Aktuálně:,availability,259
+CENA S DPH.,price,522
+Byt v m2 [m²],floor_area,475
+Půdorys (pdf),none,31
+CELKOVÁ PODLAHOVÁ PL.*,floor_area,146
+označení bytu,id,173
+Uzitna / Podlahova plocha,floor_area,627
+"Area, m² m2",floor_area,138
+pozemek (m²).,garden_area,550
+Podlaží číslo.,floor,447
+PODLAŽÍ m2,floor,236
+dostupnost * [m²],availability,502
+cena včetně dph,price,169
+Cena Kč/m2 (bez DPH) [m²],none,66
+Cena (12% DPH) (m2),price,544
+Sklepní-kóje-(m²),cellar_area,215
+final cp [kč],price,180
+CENA S DPH (Kc),price,518
+Číslo a označení bytu [m²],id,226
+"PRICE EXCLUDING AMENITIES, INC. VAT",none,199
+Lodzie/Terasa,exterior_area,207
+č._bytu,id,413
+Infolist [m²],none,279
+Aktuální stav,availability,263
+Číslo /Kód jednotky m2,id,379
+"Užitná plocha, m²:",floor_area2,245
+Užitná_/_Podlahová_plocha,floor_area,627
+B/L/T (M²) (m2),balcony_area,239
+typ (m2),category,369
+B/L/T m2.,exterior_area,371
+Terasa/zahrada:,exterior_area,172
+plocha terasy/balkónu,terrace_area,244
+Terasa / Lodžie (m2),exterior_area,565
+Patro:,floor,61
+Terasa/Lodzie,exterior_area,280
+Č. jednotky:,id,535
+Cena vč. dph a is,price,563
+Celková plocha**,total_area,212
+sklep m2,cellar_area,221
+celkem s terasou,total_area,386
+Terasa/Balkon.,exterior_area,568
+Cena vcetne DPH,price,169
+CENA_S_DPH_(Kč),price,518
+STAV.,availability,127
+BALKON/LODZIE,balcony_area,528
+celkova plocha m2,total_area,222
+Parkovací místo,none,204
+Čistá plocha bytu (m2),floor_area,243
+cena bytu vč. sklepa,price,310
+Terasa/-Lodžie,terrace_area,30
+Cena_(vč._DPH),price,67
+Cena-(?),price,485
+Poptávka (m2),none,359
+cena celkem m2,price,399
+m²,floor_area,277
+Balkon/Terasa/_Zahrádka_(m²),balcony_area,555
+FLOOR m2,floor,346
+Kolekce m2,none,33
+Terasa_v_m2,terrace_area,477
+Sklep / Komora (m2) m2,cellar_area,49
+Balkon/terasa/lodžie/ zahrada (předzahrádka),balcony_area,186
+Terasa/-Balkon/-Lodžie/-Zahrádka,exterior_area,188
+UŽITNÁ PLOCHA (M²),floor_area2,248
+výměra parcely,none,539
+cena *:,price,501
+"předzahrádka, terasa, balkon (m2)",exterior_area,600
+Byt č.,id,254
+Dispozice (m2),layout,3
+Půdorys.,none,247
+Available Flats Count m2,none,574
+Karty m2,none,373
+oblíbené [m²],none,124
+GPS (m2),none,442
+Parkovací stání:,none,15
+Cena vč. DPH a IS (m2),price,563
+Plocha terasy/balkónu (m2),terrace_area,244
+Plán-PDF,none,619
+Karta bytu m2,none,53
+Cena (?),price,485
+balkon_(m²),balcony_area,547
+Pozemek m2,total_area,41
+ČÍSLO A OZNAČENÍ BYTU,id,226
+APARTMENT,id,193
+Terasa/Lodžie:,exterior_area,280
+Plocha-bytu-(m²),floor_area,465
+CENA VČ. DPH (m2),price,355
+Kód [m²],id,336
+Storage box,none,278
+Detail.,none,40
+Plocha_bytu_(m²),floor_area,465
+PLOCHA PŘÍSLUŠENSTVÍ,exterior_area,282
+balkon (m²) (m2),balcony_area,547
+Floor [m²],floor,135
+building:,building,604
+cena vč. DPH1).,price,506
+VIRTUÁLNÍ PROHLÍDKA,none,554
+plocha [m²],floor_area,327
+plocha lodžie/zahrady/ balkónu v m²,exterior_area,257
+parkování [m²],parking_place_number,416
+parkování zdarma,none,527
+bytová_jednotka,id,576
+VIZUALIZACE DOMU,none,441
+podlahová Plocha,floor_area,537
+Zahrada-(m²),garden_area,250
+Termín dokončení,none,420
+PODLAHOVÁ PLOCHA BRUTTO [M²],floor_area,57
+Jednotka č.,id,382
+Balcony/loggia/terrace.,exterior_area,455
+B/T/Z (m²)*:,balcony_area,625
+Cena (vč. DPH) (m2),price,67
+Balkón / Předzahrádka / Terasa (m²):,garden_area,168
+Pozemek (m2) [m²],total_area,21
+TERASA/LODŽIE (M2),balcony_area,181
+Balcony/loggia/terrace:,exterior_area,455
+Koupit online:,none,480
+sklep:,cellar_area,221
+TERASA / ZAHRADA m² [m²],exterior_area,348
+Katalogový list [m²],none,185
+CENA S DPH V KČ*,price,478
+BALKON/​LODŽIE/​TERASA/​PREDZAHRÁDKA (M2),balcony_area,615
+Vizualizace domu,none,441
+BUILDING,building,194
+Předzahrádka-(m2),garden_area,339
+Strop (m),none,370
+Cena včetně DPH.,price,169
+Plocha (m2).,floor_area,292
+Lodžie_/_terasa,balcony_area,427
+Dokončení [m²],none,65
+zahrádka v m2,garden_area,476
+Celková plocha** [m²],total_area,212
+Parkování-zdarma,none,527
+Cena bytu vč. příslušenství (Kč s DPH)* m2,price,262
+Type (m2),category,137
+Price m2,price,304
+KOMPAS,none,591
+Popis,layout,509
+Velikost-parcely,total_area,562
+Zahrádka v m2 m2,garden_area,476
+Vybavení 2) (m2),none,332
+Balkon:,balcony_area,44
+Zahrada (m²):,garden_area,250
+"Předzahrádka, terasa, balkon (m2):",exterior_area,600
+CENA:,price,241
+Uzitna plocha:,floor_area2,18
+Celková plocha (m²):,none,216
+Předzahrádka_(m2),garden_area,339
+terasa/balkon_předzahrádka_(m2),exterior_area,449
+Domy [m²],id,486
+"PODLAHOVÁ PLOCHA, M²",floor_area,131
+Cena Kč ** [m²],price,38
+"Balkón, lodžie, terasa",exterior_area,164
+cena-(vč.-DPH),price,590
+Plocha lodžie/zahrady/ balkónu v m² [m²],exterior_area,257
+Předzahrádka [m²],garden_area,48
+cena vč. dph [m²],price,624
+konečná cena za byt vč. DPH (m2),price,113
+Sklepní kóje (m²).,cellar_area,215
+VELIKOST BYTU m² (m2),floor_area,347
+terasa/balkon,balcony_area,431
+Užitná / podlahová plocha,floor_area,627
+Celková plocha (m2) (m2),total_area,340
+Plocha m² * (m2),floor_area,34
+Cena-celkem-vč.-12%-DPH,price,393
+Balkon/terasa [m²] (m2),exterior_area,58
+číslo.,id,104
+Usazeni na pozemku,none,440
+"PŘEDZAHRÁDKA, TERASA, BALKON (M2)",exterior_area,600
+Media,none,242
+Rozloha celkem (m2),floor_area,425
+terasa/balkon-předzahrádka-(m2),exterior_area,449
+kolekce,none,33
+m² m2,floor_area,277
+m² pozemku,garden_area,107
+Infolist.,none,279
+Dokumentace:,none,428
+Vizualizace-domu,none,441
+Č. KN (m2),none,234
+m² bytu (m2),floor_area,106
+Stav pouze volné (m2),availability,394
+konečná-cena-za-byt-vč.-DPH,price,113
+Odkaz na dům [m²],none,422
+Karty:,none,373
+Výměra celkem (v m2).,total_area,464
+Balkon / Predzahradka / Terasa (m²),garden_area,168
+Nadstandardní-provedení,none,468
+Cena (?) (m2),price,485
+VELIKOST PARCELY,total_area,562
+balkón / terasa m2,balcony_area,417
+Plocha-bytu-v-m²,floor_area,256
+Poptávka.,none,359
+Ev.č.:,id,357
+Stav_bytu,none,352
+"Balcony, terrace, m²",exterior_area,139
+Podlaží m2,floor,2
+Karta-domu,none,128
+Plocha RD.,floor_area,438
+cena s DPH:,price,121
+B/l/t m2,exterior_area,371
+Kategorie.,category,55
+Můj výběr (m2),none,567
+Balkon m2,balcony_area,44
+Užitná / Podlahová plocha.,floor_area,627
+Venkovní prostory [m²],exterior_area,628
+B/L/T (m2),balcony_area,623
+cena základní (Kč) [m²],price,551
+Užitná_plocha_(m2),floor_area2,23
+Výměra bytu (v m2) m2,floor_area,461
+Sklep / Komora (m2) [m²],cellar_area,49
+Uzitna plocha (m²),floor_area2,248
+Parkování [m²],none,287
+Stav jednání [m²],availability,28
+Typ:,category,13
+budova.,building,499
+Celková plocha m2,floor_area,152
+BALKÓN/ TERASA (M²),exterior_area,516
+Plocha_předzahrádky_m2,garden_area,230
+Prodejní cena,price,213
+Byt. zn..,id,452
+Jednotka [m²],id,170
+M² balkonu,balcony_area,109
+nemovitost,id,395
+Cena-(Kč),price,59
+katalogový list,none,185
+Celková cena (vč. DPH) (m2),price,268
+Terasa / Lodžie,exterior_area,565
+Podlahová plocha vč. garáže (m2),floor_area,366
+Disp. (m2),layout,329
+PDF bytu,none,602
+Č. KN,none,234
+Cena (vč. dph),price,67
+rooms [m²],layout,606
+plocha m² *,floor_area,34
+CELKOVÁ-UŽITNÁ-PLOCHA,floor_area2,538
+B / T:,exterior_area,593
+Celkova plocha bytu (m²),floor_area,174
+Výměra m2,floor_area,46
+Premium / Smart (m2),none,587
+Np,floor,12
+BALKÓN.,balcony_area,354
+P/T/B* (m2),exterior_area,16
+Aktuálně (m2),availability,259
+CELKOVÁ PLOCHA**,total_area,212
+Číslo bytu,id,10
+Predzahradka (m2),garden_area,339
+Sklep / Komora m2,cellar_area,375
+Zastavěná plocha v m2:,none,266
+Terasa-2.-NP,terrace_area,368
+Cena s DPH v Kč* [m²],price,478
+pozemek:,total_area,434
+Aktuálně [m²],availability,259
+Cena bytu vč. sklepa m2,price,310
+Cena*.,price,560
+PLOCHA (M²) [m²],floor_area,238
+Garáž m2,none,218
+Nadstandardní_provedení,none,468
+Celková cena (vč. DPH) [m²],price,268
+Číslo jednotky:,id,1
+BALCONY/LOGGIA/TERRACE,exterior_area,455
+cena / kč,price,498
+b/t/z (m²)*,balcony_area,625
+PLOCHA (M²):,floor_area,238
+Unit_No.,id,134
+POZEMEK:,total_area,613
+KARTA BYTU:,none,319
+dum,id,433
+Terasa /Balkon:,exterior_area,540
+Terasa.,terrace_area,153
+patro [m²],floor,503
+B/T/Z.,exterior_area,63
+lodžie:,balcony_area,408
+Sklepní kóje [m²],cellar_area,211
+Cena_vč._DPH_a_IS,price,563
+terasa / balkon,terrace_area,342
+orientace.,orientation,536
+Pl. zahrady:,garden_area,290
+"Price excluding amenities, inc. VAT (m2)",none,199
+Terasa (m2),terrace_area,153
+Balkon/Terasa (m2) [m²],balcony_area,533
+Podlahová plocha m2,floor_area,24
+blok.,building,116
+Sklep (m2) (m2),cellar_area,183
+Označit k poptání (m2),none,403
+np,floor,12
+Půdorys m2,none,247
+Vybavení_2),none,332
+PRICE RANGE,none,575
+Terasy na střeše (?).,terrace_area,484
+Podl. plocha2),floor_area,504
+COMPLETION,none,198
+Dostupnost.,availability,19
+LODŽIE / TERASA / PŘEDZAHRÁDKA m2,exterior_area,598
+č. bytu:,id,413
+Kód bytu:,id,490
+Kupni cena s DPH,price,621
+Cena_bytu*_(vč._DPH),price,176
+"Užitná plocha, m²",floor_area2,245
+Terasa/ Lodžie [m²],terrace_area,30
+Počet pater m2,none,446
+Poptat:,none,8
+cena_základní_(Kč),price,551
+Výměra-pozemku,total_area,439
+Vymera bytu,floor_area,150
+Celkova podlahova pl.,floor_area,43
+Prislusenstvi,none,62
+Byt-m2,floor_area,178
+Venkovní prostory m2,exterior_area,628
+balcony area size m2,balcony_area,609
+Rooftop-terrace,terrace_area,300
+"Plocha domu od, m² (m2)",floor_area,143
+NP..,floor,618
+Plocha místností [m²],floor_area,510
+PŮDORYS BYTU.,none,350
+Cena s DPH v KČ* (m2),price,603
+Výměra terasy (v m2) [m²],terrace_area,463
+Sklepní kóje:,cellar_area,211
+STANDARD,none,56
+Užitná plocha * (m2),floor_area2,217
+BALKON/TERASA M2,balcony_area,229
+Cena od,price,459
+CELKEM S TERASOU,total_area,386
+Velikost zahrady v m2,garden_area,267
+Prodejní plocha bytu [m²],floor_area,374
+Standard m2,none,56
+ZAHRADA (m2),garden_area,343
+cena s DPH (Kč).,price,450
+m²_pozemku,garden_area,107
+půdorysy,none,597
+Cena-celkem,price,421
+Celková-podlahová-pl.*,floor_area,146
+B/T/Z m2,exterior_area,63
+Kategorie (m2),category,55
+Garážové stání m2,parking_place_number,389
+Obytná plocha [m²],floor_area2,426
+Balkón / Terasa [m²].,exterior_area,526
+Plocha celkem.,floor_area,202
+typ domu,none,419
+pdf bytu,none,602
+cena Kč (*),price,223
+dispozice m2,layout,118
+dispozice [m²],layout,118
+Balkon/​Lodzie/​Terasa/​Predzahradka (m2),balcony_area,615
+Typ bytu,layout,227
+CENA [m²],price,241
+Sklep_/_Komora,cellar_area,375
+balkón / terasa [m²],balcony_area,417
+Unit No.,id,134
+CENA OD m2,price,459
+Premium_/_Smart,none,587
+Výměra_celkem_(v_m2),total_area,464
+Rok_dokončení,none,473
+Orientation_of_windows,orientation,140
+Cena za m2.,none,493
+transakce:,none,398
+B/L/T (m2) 3).,balcony_area,579
+Plocha RD [m²],floor_area,438
+orientace m2,orientation,536
+cena bytu s dph,price,360
+TERASA 1. NP,terrace_area,367
+b/l/t m2,exterior_area,371
+Čistá plocha.,floor_area,513
+Zahrada [m²],none,151
+Byt *** [m²],id,531
+vybavení 2),none,332
+Min. Vklad (m2),none,130
+PLOCHA BYTU (M2),floor_area,622
+Cena_garážového_stání,none,495
+Kategorie,category,55
+Terasa Předzahrádka (m2),exterior_area,584
+Balkon/Terasa/Lodžie/ Zahrada (předzahrádka).,balcony_area,186
+cena m2,price,411
+Typ domu.,none,419
+Lyout.,layout,296
+PARKOVACÍ MÍSTO [m²],parking_place_number,349
+Výměra předzahrádky (v m2) m2,garden_area,462
+LODŽIE / TERASA / PŘEDZAHRÁDKA.,exterior_area,598
+"Balkon, terasa, m² [m²]",terrace_area,132
+PLOCHA M²,floor_area,4
+lyout,layout,296
+Parkovani,none,287
+stav.,availability,114
+Dům číslo:,id,436
+PŮDORYS (PDF),none,31
+m² pozemku m2,garden_area,107
+infolist,none,279
+Akční cena,price,512
+DISPOZICE,layout,3
+Počet pokojů m2,layout,322
+Min. Vklad:,none,130
+"předzahrádka, m²",garden_area,133
+kolaudace,none,145
+Balkón / Předzahrádka / Terasa (m²) [m²],garden_area,168
+cena-základní-(Kč),price,551
+Terasa/ Lodzie,terrace_area,30
+Garazove stani (ks),none,251
+detail bytu [m²],none,166
+plocha příslušenství,exterior_area,282
+Patro m2,floor,61
+Katalogový list m2,none,185
+dostupnost [m²],availability,451
+detail bytu:,none,166
+balkon:,balcony_area,407
+Total area (m2),total_area,297
+"Výměra pozemku, m² m2",total_area,142
+Terasa / balkon (m²):,exterior_area,249
+PODL. PLOCHA2),floor_area,504
+Plocha teras.,terrace_area,210
+pozemek-(m²),garden_area,550
+MEDIA,none,242
+Byt,id,32
+Loggia/terrace (m2),balcony_area,196
+"Užitná plocha, m² (m2)",floor_area2,245
+b/t/z,exterior_area,63
+plocha svislých konstrukcí,none,384
+Cena Kč.,price,285
+DISPOZICE BYTU,layout,255
+Výměra předzahrádky (v m2) (m2),garden_area,462
+cena vč. dph m2,price,624
+Predzahrada,garden_area,435
+Vybavení,none,404
+KARTA BYTU [m²],none,319
+Plocha (m2) 2) m2,floor_area,578
+Plocha (m2) 2):,floor_area,578
+Cena (Kč).,price,59
+Plocha (m2):,floor_area,292
+Předzahrada [m²],garden_area,435
+PRODEJNÍ CENA,price,213
+PLOCHA BALKÓNU,balcony_area,306
+BALKÓN / TERASA [M²],exterior_area,526
+Celková plocha**:,total_area,212
+Plocha bytu v m² [m²],floor_area,256
+SKLEP / KOMORA,cellar_area,375
+Plocha příslušenství (m2),exterior_area,282
+Jednotka m2,id,170
+Balkón/terasa m2,terrace_area,543
+MŮJ VÝBĚR,none,567
+Name,id,454
+Terasy na střeše (?) [m²],terrace_area,484
+"Price of amenities, inc. VAT [m²]",price,200
+Cena vč. DPH a IS m2,price,563
+Celková ceny bytu s DPH [m²],price,258
+Terasa/Zahrada.,terrace_area,284
+Plocha-m²-*,floor_area,34
+2.NP m2,none,570
+Výběr k poptávce,none,362
+Plocha bytu (m²).,floor_area,465
+plocha (m2) [m²],floor_area,119
+Stav bytu (m2),none,352
+Celková plocha** (m2),total_area,212
+Etapa (m2),none,390
+Plocha m² [m²],floor_area,4
+"balkon, terasa, m²",terrace_area,132
+cena od,price,459
+Byt v m2 m2,floor_area,475
+"Balcony, terrace, m² (m2)",exterior_area,139
+Orientation of windows,orientation,140
+OBLÍBENÉ (m2),none,519
+SKLEP (M2),cellar_area,183
+FRONT GARDEN,garden_area,197
+byt v m2,floor_area,475
+Číslo.,id,177
+LODŽIE-/-TERASA-/-PŘEDZAHRÁDKA,exterior_area,598
+Orientation of windows m2,orientation,140
+sklad,none,315
+Cislo j.,id,206
+Cena vč. DPH* [m²],price,171
+OBYTNÁ PLOCHA,floor_area2,426
+FINAL CP [Kč] (m2),price,180
+BUDOVA m2,building,235
+CELKOVÁ UŽITNÁ PLOCHA,floor_area2,538
+Terasa-1.-NP,terrace_area,367
+"Balkon, Terasa, m²",exterior_area,246
+Min. Vklad.,none,130
+NADSTANDARDNÍ PROVEDENÍ,none,468
+číslo jednotky,id,1
+Byt č. (m2),id,254
+označení (m2),id,125
+Typ prostoru (m2),category,321
+Plocha-(m2),floor_area,292
+Stav prodeje***:,availability,232
+Amenities:,none,201
+stav prodeje***,availability,232
+Plocha_předzahrádky,garden_area,595
+Typ prostoru.,category,321
+m² terasy (m2),terrace_area,110
+Cena,price,6
+sklep.,cellar_area,221
+Evidenční číslo (m2),id,445
+Basement storage.,cellar_area,301
+Plocha_[m²],floor_area,327
+Floor.,floor,135
+Balkón / Terasa [m²]:,exterior_area,526
+poptávka.,none,122
+Balkón 2.,balcony_area,392
+FINAL CP [Kč].,price,180
+č. bytu.,id,413
+Min._Vklad,none,130
+podlahová plocha* m2,floor_area,228
+Číslo jednotky.,id,1
+Cena celkem vč. 12% DPH m2,price,393
+Formulář [m²],none,187
+příslušenství m2,none,120
+Cena *,price,501
+Nadstandardni provedeni,none,468
+Cena celkem vč. DPH (Kč):,price,253
+VÝMĚRA_PARCELY,none,539
+B/T/Z_(m²)*,balcony_area,625
+Užitná plocha v m2 [m²],floor_area2,265
+"Area,_m²",floor_area,138
+Karta_jednotky,none,309
+m² zimní zahrady,garden_area,108
+Výměra.,floor_area,46
+Podlahova plocha:,floor_area,17
+"Balkón, Terasa, m² (m2)",exterior_area,246
+orientace (m2),orientation,536
+LODŽIE / TERASA (M²),balcony_area,158
+Označit_k_poptání,none,403
+užitná plocha (m²),floor_area2,248
+Aktuální stav domu (m2),none,437
+Částečně-vybaveno,none,308
+Terasa/Bal. [m²],exterior_area,508
+Cena garazoveho stani,none,495
+Parkování,none,287
+Balkón-/-Předzahrádka-/-Terasa-(m²),garden_area,168
+Garáž [m²],none,218
+Vybaveni,none,404
+Terasa/ lodžie,terrace_area,30
+Balkon / Terasa:,balcony_area,27
+"Balkón, Terasa, m² m2",exterior_area,246
+podl.-plocha2),floor_area,504
+Cena s dph,price,121
+Vizualizace domu m2,none,441
+BALKÓN/ TERASA (m²):,exterior_area,516
+celková plocha m2 m2,total_area,222
+Soubor (m2),none,291
+Balkon/terasa [m²].,exterior_area,58
+Cena byt vč. DPH.,price,376
+cena bez DPH [m²],none,112
+Plocha m² *,floor_area,34
+terasa.,terrace_area,406
+Cena s DPH (m2),price,155
+Kupní cena s dph,price,621
+Rok dokonceni,none,473
+Cena bez DPH [m²],none,324
+"Předzahrádka, m² m2",garden_area,133
+parkovani,parking_place_number,416
+TERASA:,terrace_area,458
+Sklep-m²,cellar_area,5
+Kód bytu m2,id,490
+terasa / zahrada m²,exterior_area,348
+VENKOVNÍ PROSTORY,exterior_area,628
+TERASA / LODŽIE (M2),exterior_area,313
+Prodejní plocha bytu.,floor_area,374
+Cena-rezervovaného-sklepa-(Kč)-*,none,160
+dokončení,none,65
+Plán PDF (m2),none,619
+Terasa/ Balkon/ Lodzie/ Zahradka,exterior_area,188
+BALKÓN (m2),balcony_area,354
+Unit-No.,id,134
+Balkón / Terasa [m²],exterior_area,286
+Flats Count m2,none,573
+BALKÓN/-TERASA-(m²),exterior_area,516
+POPTÁVKA,none,122
+Apartment m2,id,193
+OZNAČENÍ.,id,341
+Cena (?):,price,485
+Cena (vč. DPH):,price,67
+Počet-pater,none,446
+ID,id,42
+Cena-příslušenství-vč.-DPH,none,497
+Plocha bytu m2* [m²],floor_area,616
+Výměra bytu (v m2).,floor_area,461
+celková podlahová pl.,floor_area,43
+Cena-jednotky-vč.-DPH,price,387
+Sklep m²:,cellar_area,5
+title [m²],id,605
+Kupní cena s DPH:,price,621
+Odkaz na dům,none,422
+cena vč. DPH (m2),price,432
+Sklep/​Sklepní kóje (m2) m2,cellar_area,614
+Balkón / Terasa (m2),exterior_area,286
+Celková-plocha-(m²),none,216
+price (m2),price,610
+CENA S DPH [m²],price,522
+Nadstandardní provedení:,none,468
+Celková plocha m² [m²],total_area,37
+Podlahová plocha:,floor_area,24
+velikost,floor_area,424
+Terasa / lodžie / zahrada (m²),terrace_area,175
+Zahrada střešní zahrada (m2),garden_area,580
+cena s DPH (Kč) [m²],price,450
+ODKAZ NA DŮM,none,422
+zahrada m²,garden_area,36
+PŮDORYS BYTU,none,350
+PDF bytu:,none,602
+balkon/terasa,balcony_area,363
+Typ vlastnictví m2,none,629
+PLOCHA (m2),floor_area,274
+užitná plocha bytu,floor_area2,482
+cena [m²],price,411
+Formulář,none,187
+DOSTUPNOST,availability,19
+Užitná plocha bytu:,floor_area2,482
+Č. jednotky m2,id,535
+č.-bytu,id,413
+Terasy na strese (?),terrace_area,484
+OBLÍBENÉ [m²],none,519
+Cena vč. dph 1),price,581
+Floor (m2),floor,135
+detail bytu,none,7
+Cena bytu vč. DPH,price,165
+Stav-**,availability,534
+dispozice bytu,layout,255
+apartment,id,193
+Podlahova plocha.,floor_area,17
+Cena vc. DPH,price,51
+Rozloha m2,floor_area,453
+Užitná plocha *,floor_area2,217
+konečná cena za byt vč. DPH.,price,113
+č. jednotky:,id,219
+"CENA KOMPLET(BYT, LODŽIE/TERASA, SKLEP, GARÁŽOVÉ STÁNÍ).",price,318
+TYP (m2),category,514
+Blok:,building,481
+Terasa / Lodžie / Zahrada (m²) m2,terrace_area,175
+Terasa-/-Lodžie,exterior_area,565
+*-Cena-12%-DPH,price,333
+Pozemek (m2) (m2),total_area,21
+Kontakt,none,156
+Terasa / balkon (m²).,exterior_area,249
+Č.-jednotky,id,535
+Podlahova plocha,floor_area,17
+Velikost bytu:,layout,474
+CENA JEDNOTKY VČ. DPH,price,387
+Balkón [m²],balcony_area,334
+Plocha RD m2,floor_area,438
+FINAL CP [Kč] [m²],price,180
+CELKOVÁ CENA,price,596
+BALKON/LODŽIE:,balcony_area,528
+Termín_dokončení,none,420
+Area [m²],floor_area,572
+Stav bytu [m²],none,352
+Velikost bytu m²,floor_area,347
+karta_bytu,none,553
+Celková plocha**.,total_area,212
+PARKOVÁNÍ m2,none,344
+SKLEP / KOMORA (M2),cellar_area,49
+Dokončení.,none,65
+Balkón / terasa (m2),none,489
+Typ stání,none,541
+Zahrada (m²).,garden_area,250
+Cena-vč.-DPH-*,price,467
+STANDARD [m²],none,517
+parkovací místo,none,204
+Odh. nájem.,none,557
+Sklep m² [m²],cellar_area,5
+Sklepní kóje (ks):,none,252
+ROZLOHA,floor_area,453
+Celkova podlahova plocha (m2),floor_area,260
+Stav (m2),availability,9
+Plocha místností,floor_area,510
+Plocha-bytu-(m2),floor_area,622
+PODLAHOVÁ PLOCHA (m2) m2,floor_area,312
+typ.,category,369
+Garážové_stání_(ks),none,251
+BALKON / TERASA (M2),balcony_area,47
+Užitná plocha (m²) [m²],floor_area2,248
+Rooftop terrace:,terrace_area,300
+Terasa/zahrada,exterior_area,172
+Stav_pouze_volné,availability,394
+Terasa/zahrada (m2),exterior_area,172
+Budova [m²],building,26
+Užit. plocha (m2):,floor_area2,532
+Plocha balkónu [m²],balcony_area,306
+Availability (m2),availability,303
+ČÍSLO /KÓD JEDNOTKY,id,379
+Strop (m).,none,370
+KÓD (m2),id,457
+Cena bez DPH (m2),none,324
+Terasy-na-střeše-(?),terrace_area,484
+Cena celkem vč. dph (kč),price,253
+ORIENTACE (m2),orientation,314
+Plocha m2 (m2),floor_area,323
+Final cp [kč],price,180
+B / T m2,exterior_area,593
+Available Flats Count,none,574
+Cena včetně DPH [m²],price,169
+Plán PDF,none,619
+front garden,garden_area,197
+STROP (M),none,370
+Podl. plocha1) m2,floor_area,592
+balkón / terasa (m2),balcony_area,417
+ČÍSLO (m2),id,233
+Kategorie:,category,55
+pdf.,none,479
+Terasa/zahrada m2,exterior_area,172
+"Predzahradka, m²",garden_area,133
+Transakce,none,398
+Lodžie / terasa [m²],balcony_area,427
+Domy.,id,486
+Terasa_1._NP,terrace_area,367
+Cena bytu vč. příslušenství (Kč s DPH)*.,price,262
+blok (m2),building,116
+cena vč. DPH1):,price,506
+floor,floor,135
+poptávka [m²],none,122
+Kód bytu,id,490
+Dostupnost (m2),availability,19
+Balkon/Terasa m² m2,balcony_area,460
+Loggia / balcony:,balcony_area,299
+PDF bytu (m2),none,602
+Oznaceni bytu,id,173
+Sklep/​Sklepní_kóje_(m2),cellar_area,614
+Užit. plocha (m2) [m²],floor_area2,532
+PREMIUM / SMART,none,587
+JEDNOTKA Č.,id,382
+Celková plocha (užitná),floor_area2,383
+balkon m²,balcony_area,35
+Loft no.,id,294
+PODL. PLOCHA1),floor_area,592
+podl. plocha2) m2,floor_area,504
+Pdf,none,123
+Poptávka:,none,359
+cena_celkem,price,399
+Odh._nájem,none,557
+CENA,price,6
+Nadstandardní provedení m2,none,468
+transakce m2,none,398
+Cena vč. dph**,price,231
+Termín nastěhování,none,189
+Zahradka v m2,garden_area,476
+Celkova plocha (bez terasy),floor_area,385
+Layout:,layout,136
+# [m²],availability,381
+Celková-ceny-bytu-s-DPH,price,258
+Terasa_/Balkon,exterior_area,540
+DOSTUPNOST m2,availability,356
+jednotka [m²],id,115
+Rodinný dům [m²],id,594
+Označit k poptání m2,none,403
+Pudorys (PDF),none,31
+B/L/T (m2) [m²],balcony_area,623
+Terasa / Lodzie,exterior_area,565
+m².,floor_area,277
+KARTA BYTU.,none,319
+Garážové stání (ks) m2,none,251
+Etapa.,none,390
+M² terasy,terrace_area,110
+Layout m2,layout,136
+Balkon/Terasa/ Zahrádka (m²) m2,balcony_area,555
+Celková cena (vč. DPH) m2,price,268
+Orientation of windows:,orientation,140
+Karty [m²],none,373
+UŽITNÁ PLOCHA *,floor_area2,217
+PŮDORYS:,none,523
+cena-vč.-DPH1),price,506
+Název,id,214
+Celkova plocha m²,total_area,37
+Dokumentace [m²],none,428
+domy,id,486
+m² pozemku [m²],garden_area,107
+Stav pouze volne,availability,394
+"Area,-m²",floor_area,138
+Celková cena (m2),price,596
+Cena bytu vč. příslušenství (Kč s DPH)*:,price,262
+"CENA_KOMPLET(BYT,_LODŽIE/TERASA,_SKLEP,_GARÁŽOVÉ_STÁNÍ)",price,318
+CENA*,price,560
+Zahrada stresni zahrada (m2),garden_area,580
+c. bytu,id,413
+čistá plocha bytu,floor_area,243
+Rok dokončení.,none,473
+PŮDORYS.,none,523
+LODŽIE / TERASA / PŘEDZAHRÁDKA (m2),exterior_area,598
+Dům_m2,floor_area,418
+Plocha předzahrádky.,garden_area,595
+Užitná / Podlahová plocha (m2),floor_area,627
+Balkón-/-Terasa-[m²],exterior_area,526
+ID (m2),id,42
+Balkon/Terasa/ Zahrádka (m²) [m²],balcony_area,555
+B/L/T (m2) 3) (m2),balcony_area,579
+Podlahová-plocha-brutto-[m²],floor_area,57
+pozemek (m2):,total_area,589
+Terasy_/_Zahrady_(?),exterior_area,483
+Vybavení m2,none,404
+Užitná plocha (m2) m2,floor_area2,23
+Terasa / Lodžie / Zahrada (m²):,terrace_area,175
+označit k poptání,none,403
+"cena komplet(byt, lodžie/terasa, sklep, garážové stání)",price,318
+Výměra celkem (v m2) m2,total_area,464
+Typ bytu (m2),layout,227
+Můj_výběr,none,567
+parking,none,335
+Typ nabídky,category,353
+INVESTIČNÍ POTENCIÁL,none,162
+ČÍSLO J.,id,206
+CENA CELKEM VČ. 12% DPH,price,393
+DO KATALOGU,none,400
+* Cena 12% DPH:,price,333
+užitná plocha m2 [m²],floor_area2,220
+Usazení na pozemku:,none,440
+Zahrádka [m²],garden_area,388
+Zahrádka,garden_area,388
+lodzie,balcony_area,408
+Výnos (m2),none,558
+plocha.,floor_area,397
+Speciální-vybavení,none,64
+DOSTUPNOST [m²],availability,356
+virtuální prohlídka,none,554
+Parkovací stání,none,15
+kód m2,id,448
+Terasa / balkon,terrace_area,342
+terasa/bal.,exterior_area,508
+lodžie.,balcony_area,408
+Velikost pozemku [m²],total_area,320
+poptávka (m2),none,122
+Sklep m2,cellar_area,205
+Orientation of windows (m2),orientation,140
+Cena vč DPH [m²],price,380
+Stav** [m²],availability,626
+příslušenství: zahrada (m2) lodžie (m2) terasa (m2),exterior_area,261
+Interiér [m²],floor_area,583
+Pl. podl. (m2),floor_area,289
+Status (m2),availability,39
+Infolist (m2),none,279
+Celková plocha m²:,total_area,37
+cena s DPH (m2),price,121
+plocha celkem m2:,total_area,372
+druh:,category,545
+title m2,id,605
+Plocha-svislých-konstrukcí,none,384
+Cena s DPH 12 % / 21 % [m²],price,472
+Byt č. m2,id,254
+byt číslo,id,225
+plocha (m2),floor_area,119
+B/L/T (m2) (m2),balcony_area,623
+TERASA-/-LODŽIE-(m2),exterior_area,313
+Plocha.,floor_area,11
+Terasy na střeše (?),terrace_area,484
+Dům číslo (m2),id,436
+sklepní kóje (m2),cellar_area,337
+Projekt [m²],none,281
+PŘEDZAHRADA:,garden_area,529
+cena vč. dph a is,price,563
+Prodejní plocha bytu:,floor_area,374
+VYBAVENÍ 2),none,332
+Předzahrádka (m2):,garden_area,339
+Podlahova plocha* m2,floor_area,228
+BALKON/LODŽIE [m²],balcony_area,528
+typ bytu,layout,227
+Cena bytu vč. sklepa.,price,310
+Zastavěná plocha v m2 m2,none,266
+m² [m²],floor_area,277
+Layout (m2),layout,136
+Balkon / Terasa / Předzahrádka.,exterior_area,358
+ozeleněná terasa,terrace_area,154
+Plocha_balkónu,balcony_area,306
+Cena bytu vč. příslušenství (kč s dph)*,price,262
+cena celkem vč. dph,price,45
+"Předzahrádka,_m²",garden_area,133
+Plocha (m²):,floor_area,167
+Cena_vč._DPH,price,51
+Pudorys,none,247
+Investiční_potenciál,none,162
+Karta jednotky (m2),none,309
+area_size,floor_area,607
+PŘEDZAH. (M²),garden_area,240
+výběr k poptávce:,none,362
+Výměra celkem (v m2),total_area,464
+Celková ceny bytu s DPH:,price,258
+Lodžie / terasa m2,balcony_area,427
+Čistá-plocha-bytu,floor_area,243
+Plocha bytu (m²):,floor_area,465
+Plán PDF [m²],none,619
+DOSTUPNOST.,availability,356
+detail_bytu,none,166
+Příslušenství:-Zahrada-(m2)-Lodžie-(m2)-Terasa-(m2),exterior_area,261
+"Cena komplet(byt, lodžie/terasa, sklep, garážové stání)",price,318
+Price (CZK) m2,price,141
+Příslušenství: Zahrada (m2) Lodžie (m2) Terasa (m2) m2,exterior_area,261
+Aktualni stav domu,none,437
+balkón_/_terasa,balcony_area,417
+Označení bytu:,id,173
+PODLAHOVÁ PLOCHA* M2,floor_area,228
+storage box,none,278
+Pl. zahrady.,garden_area,290
+Plocha bytu v m²,floor_area,256
+PLOCHA POZEMKU,total_area,148
+B/T/Z (m²)* [m²],balcony_area,625
+TERASY NA STŘEŠE (?),terrace_area,484
+Castecne vybaveno,none,308
+Stav:,availability,9
+Sklepni koje (m2),cellar_area,337
+Označení bytu.,id,173
+Balkon/terasa/ zahrádka (m²),balcony_area,555
+Karta domu m2,none,128
+Evidenční číslo:,id,445
+Typ vlastnictví [m²],none,629
+FLOOR (m2),floor,346
+CELKOVÁ PLOCHA *,total_area,391
+Orientation.,orientation,302
+NP. m2,floor,618
+Karta jednotky:,none,309
+lodžie m2,balcony_area,408
+Detail (m2),none,40
+Stav_prodeje***,availability,232
+cena vc. DPH1),price,506
+cena základní (Kč):,price,551
+Stav inzerce m2,availability,556
+Výměra celkem (v m2) [m²],total_area,464
+Plocha celkem,floor_area,202
+Ozeleněná terasa [m²],terrace_area,154
+obytná plocha,floor_area2,426
+Zatravněná terasa/ terasa (m2) m2,terrace_area,402
+Sklep/​Sklepní kóje (m2) (m2),cellar_area,614
+FLAT:,id,345
+Čistá plocha bytu:,floor_area,243
+B/T/Z (m²)* (m2),balcony_area,625
+Flats_Count,none,573
+Plocha příslušenství:,exterior_area,282
+Terasa_/_Lodžie_/_Zahrada_(m²),terrace_area,175
+Balkon m²,balcony_area,35
+výměr,floor_area,203
+terasa/balkon.,balcony_area,431
+Terasa / balkon (m²),exterior_area,249
+Číslo domu m2,id,264
+Podlahová plocha*:,floor_area,209
+Označení [m²],id,29
+Můj výběr [m²],none,567
+Půdorys,none,247
+"Podlahová plocha, m²:",floor_area,131
+Předzahrada,garden_area,435
+"Balkón,-Terasa,-m²",exterior_area,246
+Cena (?).,price,485
+CISLO,id,233
+Nastehovani,none,224
+"Price excluding amenities, inc. vat",none,199
+B/T3) (m2),exterior_area,505
+Výnos m2,none,558
+Balkon/Terasa (m2) m2,balcony_area,533
+Terasy / Zahrady (?) (m2),exterior_area,483
+PŘÍSLUŠENSTVÍ m2,none,530
+Užitná plocha:,floor_area2,25
+m² terasy:,terrace_area,110
+2.NP (m2),none,570
+KONTAKT,none,156
+Plocha m2 [m²],floor_area,323
+označení [m²],id,125
+Atrium,none,492
+Basement storage m2,cellar_area,301
+OZNACENI,id,341
+ORIENTACE,orientation,14
+Dům [m²],id,102
+Číslo jednotky (m2),id,1
+Cena-s-DPH-v-Kč*,price,478
+Lodžie.,balcony_area,50
+Cislo jednotky,id,1
+"Předzahrádka, m² [m²]",garden_area,133
+Plocha balkónu:,balcony_area,306
+Cena garážového stání m2,none,495
+UŽITNÁ PLOCHA*,floor_area2,147
+Plocha bytu m2,floor_area,305
+Balkon / Terasa m2,balcony_area,27
+Lodžie_/_terasa_(m²),balcony_area,158
+BALKÓN,balcony_area,334
+pozemek.,total_area,434
+Terasa/Zahrada (m2),terrace_area,284
+podlahová plocha [m²],floor_area,405
+Cena celkem vč. 12% DPH [m²],price,393
+Orientation:,orientation,302
+Plocha_celkem,floor_area,202
+balcony area size [m²],balcony_area,609
+PLOCHA m2,floor_area,274
+"CENA-KOMPLET(BYT,-LODŽIE/TERASA,-SKLEP,-GARÁŽOVÉ-STÁNÍ)",price,318
+Výnos [m²],none,558
+Označení bytu [m²],id,173
+plocha:,floor_area,397
+GPS:,none,442
+užitná plocha (m2)1),floor_area2,588
+Terasa/Lodžie,exterior_area,280
+PŘEDZAH. (M²) [m²],garden_area,240
+podlahová plocha m2,floor_area,405
+Užitná plocha *.,floor_area2,217
+TYP PROSTORU,category,321
+Typ vlastnictvi,none,629
+B/T/L (M2),exterior_area,293
+Výměra terasy (v m2) m2,terrace_area,463
+Terasa /Balkon (m2),exterior_area,540
+Exteriér [m²],exterior_area,190
+Terasy / Zahrady (?):,exterior_area,483
+Celková ceny bytu s DPH.,price,258
+cena jednotky (kč) *,price,159
+flats count,none,573
+BUDOVA,building,26
+Poptat (m2),none,8
+Plocha celkem m2,floor_area,202
+Cena vč DPH.,price,380
+balkón-/-terasa,balcony_area,417
+Byt *** (m2),id,531
+PARKOVACÍ STÁNÍ,none,15
+Cena_vč._DPH*,price,171
+PREDZAH. (M²),garden_area,240
+Flats Count,none,573
+1.NP m2,none,569
+garážové stání (ks),none,251
+Č. bytu:,id,524
+Cena-bytu-s-DPH,price,360
+stav prodeje [m²],availability,552
+Celkem s terasou (m2),total_area,386
+Můj-výběr,none,567
+Plocha [m²] m2,floor_area,327
+"Předzahrádka, m²",garden_area,133
+Číslo j. m2,id,206
+PŘEDZAHRADA.,garden_area,529
+Status,availability,39
+Cena vč DPH:,price,380
+Dispozice bytu:,layout,255
+Velikost bytu m2,layout,474
+CENA S DPH m2,price,522
+Standard:,none,56
+cena,price,6
+CENA (VČ. DPH),price,67
+Kolekce,none,33
+Cena bez DPH,none,324
+Cena včetně DPH,price,169
+Terasa /Balkon [m²],exterior_area,540
+terasa / balkon (m²),exterior_area,249
+Cena vč. dph1),price,506
+Odkaz_na_dům,none,422
+Zahrádka v m2:,garden_area,476
+Parking,none,335
+Užitná plocha bytu.,floor_area2,482
+typ jednotky,category,270
+Celkova cena (vc. DPH),price,268
+Sklep/​Sklepni koje (m²),cellar_area,271
+Celková_plocha_(m²),none,216
+PŘEDZAH. (M²) m2,garden_area,240
+stav_prodeje,availability,552
+Balkon/Terasa.,balcony_area,363
+číslo jednotky m2,id,283
+standard,none,56
+CENA S DPH (KČ),price,450
+pozemek (m2).,total_area,589
+CELKOVÁ UŽITNÁ PLOCHA:,floor_area2,538
+zahrada s terasou,garden_area,364
+Terasa v m2.,terrace_area,477
+PŘEDZAH. (M²).,garden_area,240
+pocet mistnosti,layout,105
+Koupit online.,none,480
+počet místností:,layout,105
+cena základní (Kč).,price,551
+Plocha předzahrádky m2 (m2),garden_area,230
+Cena-za-bytovou-jednotku-s-DPH,price,378
+Půdorys (PDF) m2,none,31
+Prodejní_cena,price,213
+ZAHRADA:,garden_area,343
+POPIS,layout,509
+"Podlahová plocha, m²",floor_area,131
+POZEMEK [m²],total_area,613
+konečná cena za byt vč. dph,price,113
+Stav prodeje***,availability,232
+Lodžie/balkon terasa/zahrádka (m²),balcony_area,466
+Plocha1,floor_area,443
+BYT V M2,floor_area,475
+gps,none,442
+Cena za m2 (m2),none,493
+Plocha bytu,floor_area,305
+Cena s DPH v Kc*,price,478
+Typ_nabídky,category,353
+Podl.-plocha,floor_area,414
+B/L/T (m²) 1) [m²],terrace_area,331
+do-katalogu,none,400
+p/t/b*,exterior_area,16
+Celková podlahová plocha (m2) (m2),floor_area,260
+Dispozice bytu,layout,255
+typ [m²],category,369
+Byt_***,id,531
+virtuální prohlídka:,none,554
+DETAIL:,none,488
+Cena příslušenství vč. DPH:,none,497
+Terasa-/-Lodžie-/-Zahrada-(m²),terrace_area,175
+"Užitná plocha, m² m2",floor_area2,245
+CENA S DPH (Kč) (m2),price,518
+LOFT NO.:,id,294
+Číslo:,id,177
+Celková plocha bytu (m²).,floor_area,174
+Kupní_cena_s_DPH,price,621
+PLOCHA LODŽIE/ZAHRADY/ BALKÓNU V M²,exterior_area,257
+STANDARD (m2),none,517
+Dispozice-bytu,layout,255
+C. jednotky,id,535
+Balkon/terasa m²,balcony_area,460
+plocha (m²),floor_area,167
+Cislo /Kod jednotky,id,379
+Garážové stání.,parking_place_number,389
+Disp.:,layout,329
+Terasa /Balkon m2,exterior_area,540
+Číslo a označení bytu (m2),id,226
+virtuální prohlídka.,none,554
+TYP NABÍDKY,category,353
+id,id,42
+Budova (m2),building,26
+Bytová jednotka,id,149
+MEDIA m2,none,242
+Cena / Kč.,price,498
+TERASA (m2),terrace_area,458
+jednotka m2,id,115
+aktuálně,availability,259
+STANDARD.,none,517
+počet místností (m2),layout,105
+Stav jednání m2,availability,28
+"Price excluding amenities, inc. VAT [m²]",none,199
+Cena_celkem_vč._12%_DPH,price,393
+Garážové stání (ks),none,251
+nastěhování,none,224
+Galerie pracovna,none,585
+OBLÍBENÉ:,none,519
+m²_balkonu,balcony_area,109
+Celkem,none,566
+cena (vč. DPH) m2,price,590
+Užitná_plocha_(m²),floor_area2,248
+pdf:,none,479
+garáž m2,parking_place_number,549
+velikost pozemku,total_area,320
+AVAILABLE FLATS COUNT,none,574
+Formular,none,187
+Umístění [m²],none,208
+plocha m2,floor_area,323
+ČISTÁ PLOCHA BYTU,floor_area,243
+PŮDORYS (m2),none,523
+BALKON/LODŽIE m2,balcony_area,528
+balkon,balcony_area,44
+ID m2,id,42
+ROOMS RANGE,none,571
+CELKOVÁ CENY BYTU S DPH,price,258
+Sklep.,cellar_area,205
+Zahrada střešní zahrada (m2):,garden_area,580
+výměra (m²):,floor_area,546
+NAME,id,454
+Terasa v m2 [m²],terrace_area,477
+Užitná-plocha,floor_area2,25
+Příslušenství: Zahrada (m2) Lodžie (m2) Terasa (m2) [m²],exterior_area,261
+Celková_cena_s_DPH,price,365
+Plocha_místností,floor_area,510
+Nastěhování (m2),none,224
+Cena s dph 12 %,price,582
+plocha (m2) m2,floor_area,119
+Balkón,balcony_area,334
+Číslo_jednotky,id,1
+DISPOZICE.,layout,237
+BYT ČÍSLO,id,225
+sklep (m²):,cellar_area,548
+Stav jednání,availability,28
+Akční cena [m²],price,512
+Area (m2),floor_area,572
+"price excluding amenities, inc. vat",none,199
+FLAT.,id,345
+"Předzahrádka, m².",garden_area,133
+CENA VČ. DPH A IS,price,563
+LYOUT,layout,296
+Plocha_RD,floor_area,438
+stav prodeje.,availability,552
+Byt v m2,floor_area,475
+Celková plocha vč. příslušenství (m2):,total_area,325
+Balkon/terasa_[m²],exterior_area,58
+Počet-pokojů,layout,322
+Rooms Range [m²],none,571
+Terasa-Předzahrádka,exterior_area,584
+Podlahová-plocha-(m²),floor_area,157
+Plocha místností (m2),floor_area,510
+počet-místností,layout,105
+Stav bytu m2,none,352
+Cena Kč ** m2,price,38
+Podlah. plocha m2,floor_area,330
+PŘÍSLUŠENSTVÍ V CENĚ,none,326
+Cena bytu* (vc. DPH),price,176
+Lodzie,balcony_area,50
+SKLEP.,none,317
+Plocha svislých konstrukcí.,none,384
+Odkaz-na-dům,none,422
+Terasa/lodžie (m2) m2,balcony_area,181
+Balkon/terasa.,exterior_area,415
+2.NP.,none,570
+Garazove stani,parking_place_number,389
+Plocha (m²) (m2),floor_area,167
+Vybavení (m2),none,404
+Plocha_(m²),floor_area,167
+rooms (m2),layout,606
+cena za m2,none,493
+Cena vč DPH m2,price,380
+OZNAČENÍ (m2),id,341
+pdf [m²],none,479
+cena*,price,560
+Typ bytu [m²],layout,227
+kompas,none,591
+Balkon/​lodžie/​terasa/​predzahrádka (m2),balcony_area,615
+Cena celkem vč. DPH (Kč).,price,253
+Parkovací stání m2,none,15
+UNIT NO.,id,134
+poptávka:,none,122
+bytová jednotka [m²],id,576
+Building [m²],building,194
+Oblibene,none,163
+Objekt [m²],building,54
+Cena-s-DPH-(Kč),price,491
+Čistá_plocha_bytu,floor_area,243
+Balkon / Terasa / Předzahrádka:,exterior_area,358
+B/L/T (M²).,balcony_area,239
+FINAL_CP_[Kč],price,180
+"Podlahová_plocha,_m²",floor_area,131
+Dostupnost**.,availability,561
+Sklep / Komora (m2),cellar_area,49
+Lodžie/terasa /předzáhradka.,balcony_area,586
+užitná plocha:,floor_area2,430
+TERASA PŘEDZAHRÁDKA,exterior_area,584
+karta bytu:,none,553
+Balkón/terasa.,terrace_area,543
+Balkón / terasa.,none,489
+terasa (m2),terrace_area,406
+Byt v m2:,floor_area,475
+Dům-m2,floor_area,418
+m² balkonu.,balcony_area,109
+Koupit-online,none,480
+AKTUÁLNÍ STAV,availability,263
+Celková plocha (m2) m2,total_area,340
+cena Kč (*) [m²],price,223
+Zatravněná terasa/ terasa (m2) [m²],terrace_area,402
+Celková cena s DPH,price,365
+Nastěhování:,none,224
+Lodžie / terasa (m²):,balcony_area,158
+celková plocha bytu (m²),floor_area,174
+Cena sklepa [m²],none,494
+Objekt m2,building,54
+Podlahová plocha*.,floor_area,209
+Karta bytu [m²],none,53
+NP.:,floor,618
+Typ bytu.,layout,227
+FINAL CP [Kč]:,price,180
+TERASA/BALKON,balcony_area,431
+číslo-jednotky,id,283
+Sklep / Komora:,cellar_area,375
+Floor space:,floor_area,195
+Oblíbené [m²],none,163
+SKLAD (m2),none,315
+PARKOVACÍ_MÍSTO,parking_place_number,349
+Cena rezervované garáže (Kč) * [m²],none,161
+floor space,floor_area,195
+Jednotka c.,id,382
+Plocha_svislých_konstrukcí,none,384
+LOGGIA / BALCONY,balcony_area,299
+Type,category,137
+karta bytu m2,none,553
+Cena bytu bez příslušenství vč. DPH:,price,496
+celková-plocha,none,111
+Lodžie / terasa (m²),balcony_area,158
+lodžie/terasa /předzáhradka,balcony_area,586
+# m2,availability,381
+TERASA_/_ZAHRADA_m²,exterior_area,348
+Celková_ceny_bytu_s_DPH,price,258
+Užitná plocha*.,floor_area2,147
+Částečně vybaveno,none,308
+Cena jednotky (Kč) *,price,159
+Prodejní plocha bytu m2,floor_area,374
+Cena celkem.,price,421
+TERASA / BALKON (m2),terrace_area,342
+Akcni cena,price,512
+Celkova cena s DPH,price,365
+můj výběr,none,567
+P/T/B*.,exterior_area,16
+Podl. plocha:,floor_area,414
+Cena vč. DPH a IS:,price,563
+Příslušenství v ceně [m²],none,326
+m² terasy m2,terrace_area,110
+CENA KČ (*),price,223
+Lyout [m²],layout,296
+Cena / Kč m2,price,498
+Cena s dph v kč*,price,478
+Celková podlahová pl. [m²],floor_area,43
+price m2,price,610
+Akční cena m2,price,512
+Byt m2:,floor_area,178
+Plocha_(m2)_2),floor_area,578
+Speciální vybavení:,none,64
+KOD,id,457
+Celkem m2,none,566
+Předzahrádka (m2).,garden_area,339
+BALKON / TERASA.,exterior_area,275
+Aktuální_stav_domu,none,437
+nemovitost (m2),id,395
+Počet pater (m2),none,446
+Byt v m2 (m2),floor_area,475
+Cena vč. dph 1):,price,581
+Plocha-lodžie/zahrady/-balkónu-v-m²,exterior_area,257
+Completion.,none,198
+Terasa / Balkon (m2),terrace_area,469
+Ozeleněná-terasa,terrace_area,154
+Příslušenství v ceně.,none,326
+FLOOR.,floor,346
+Lyout:,layout,296
+CENA CELKEM,price,399
+počet místností [m²],layout,105
+FINAL PC [Kč],price,328
+Celkem s terasou,total_area,386
+celková plocha,none,111
+Cena celkem vč. DPH,price,45
+Podlahova plocha vc. garaze,floor_area,366
+Cena za příslušenství s DPH m2,price,192
+poptávka,none,122
+Cena za bytovou jednotku s DPH:,price,378
+Balkon/Terasa m²:,balcony_area,460
+Cena_Kč/m2_(bez_DPH),none,66
+Typ (m2),category,13
+Cena-celkem-vč.-DPH,price,45
+Balkon / Terasa / Předzahrádka,exterior_area,358
+Parkovací místo (m2),none,204
+cena vč. dph (m2),price,624
+koupit online,none,480
+SKLEPNÍ KÓJE (M2),cellar_area,337
+cena (vč. DPH).,price,590
+Garážové-stání-(ks),none,251
+konečná cena za byt vč. DPH,price,113
+Rooftop terrace,terrace_area,300
+CENA OD (m2),price,459
+Zahradka,garden_area,388
+CENA S DPH 12 % / 21 %,price,472
+Pl. podl.:,floor_area,289
+cena * m2,price,501
+Plocha pozemku [m²],total_area,148
+BYT. ZN.,id,452
+Označit-k-poptání,none,403
+typ prostoru,category,321
+price range,none,575
+Výměra předzahrádky (v m2),garden_area,462
+Completion,none,198
+parkování,none,287
+PŘEDZAHRADA,garden_area,435
+LODŽIE/TERASA /PŘEDZÁHRADKA,balcony_area,586
+Plocha teras [m²],terrace_area,210
+zahrada [m²],garden_area,126
+parkovací stání:,parking_place_number,410
+"Podlahová plocha, m² [m²]",floor_area,131
+Balkón / Terasa [m²] (m2),exterior_area,526
+Zahrada m²,garden_area,36
+B/L/T (M²) 1),terrace_area,331
+CENA BYTU S DPH,price,360
+BALKON/LODŽIE (m2),balcony_area,528
+CENA BYTU* (VČ. DPH),price,176
+"Plocha-domu-od,-m²",floor_area,143
+Disp. m2,layout,329
+Parkovaci misto,none,204
+LOFT-NO.,id,294
+dům (m2),id,433
+CENA BYT VČ. DPH,price,376
+Lodžie/terasa /předzáhradka [m²],balcony_area,586
+Zahrada (m²),garden_area,250
+Terasa/Bal..,exterior_area,508
+Plocha bytu m2* (m2),floor_area,616
+sklep,cellar_area,205
+Uzit. plocha (m2),floor_area2,532
+B/T/L (m2).,exterior_area,293
+Celková-cena-(vč.-DPH),price,268
+flat,id,345
+Půdorysy (m2),none,597
+Ev.č. m2,id,357
+Price Range,none,575
+Plocha_lodžie/zahrady/_balkónu_v_m²,exterior_area,257
+zahrada střešní zahrada (m2),garden_area,580
+Balkon/terasa,balcony_area,363
+Celkova cena,price,596
+Lodžie/Balkon Terasa/Zahrádka (m²) [m²],balcony_area,466
+Cena jednotky vč. DPH m2,price,387
+Počet pokojů,layout,322
+B/L/T (m2) 3) m2,balcony_area,579
+VYBAVENÍ,none,404
+Podlahová plocha* m2,floor_area,209
+základní cena,price,487
+podlahová plocha vč. garáže,floor_area,366
+Sklep/​Sklepní kóje (m²),cellar_area,271
+Příslušenství [m²],none,62
+Terasa/ Balkon/ Lodžie/ Zahrádka,exterior_area,188
+sklep_(m²),cellar_area,548
+nadstandardní provedení,none,468
+Celkem s terasou:,total_area,386
+Terasa/Balkon [m²],exterior_area,568
+Č. bytu.,id,524
+Rozloha celkem.,floor_area,425
+Cena (Kc),price,59
+Vybavení 2),none,332
+Kategorie [m²],category,55
+Typ-stání,none,541
+Bytová_jednotka,id,149
+UMÍSTĚNÍ,none,208
+"Plocha_domu_od,_m²",floor_area,143
+C. KN,none,234
+podlahová plocha (m²),floor_area,157
+B/L/T-(m²)-1),terrace_area,331
+TYP,category,13
+cena bez DPH.,none,112
+POZEMEK (m2),total_area,613
+Obytná plocha:,floor_area2,426
+PDF [m²],none,123
+Orientace m2,orientation,14
+Balkón/terasa [m²],terrace_area,543
+PDF_bytu,none,602
+Půdorysy:,none,597
+Cena (vč. DPH) [m²],price,67
+plocha místností,floor_area,510
+budova [m²],building,499
+Zahrádka-v-m2,garden_area,476
+Price_(CZK),price,141
+B/T/L m2,exterior_area,129
+Balkon/Terasa/ Zahrádka (m²) (m2),balcony_area,555
+Číslo jednotky m2,id,1
+CENA VČ. DPH [m²],price,355
+Zahrada s terasou m2,garden_area,364
+PODLAHOVÁ PLOCHA (m2).,floor_area,312
+LOFT NO. m2,id,294
+Lodžie/terasa_/předzáhradka,balcony_area,586
+Počet pater:,none,446
+Velikost parcely,total_area,562
+VÝMĚRA (M²),floor_area,546
+prodejní cena,price,213
+Podlahová_plocha_(m²),floor_area,157
+Cena za bytovou jednotku s DPH,price,378
+Patro.,floor,61
+Plocha RD:,floor_area,438
+pozemek m2,total_area,434
+Zahrádka v m2.,garden_area,476
+zahrada:,garden_area,126
+MEDIA [m²],none,242
+Celková plocha vč. příslušenství (m2) (m2),total_area,325
+Velikost parcely [m²],total_area,562
+Cena jednotky (Kč) * m2,price,159
+"Balcony, terrace, m².",exterior_area,139
+SKLEP m2,none,317
+Čistá plocha (m2),floor_area,513
+EVIDENČNÍ ČÍSLO,id,445
+Projekt,none,281
+Rok dokončení,none,473
+výměra_(m²),floor_area,546
+Velikost bytu.,layout,474
+PARKOVÁNÍ [m²],none,344
+Standard [m²],none,56
+Pl._zahrady,garden_area,290
+Rooms range,none,571
+Cislo a oznaceni bytu,id,226
+Podlahová plocha brutto [m²]:,floor_area,57
+FINAL_PC_[Kč],price,328
+Cena příslušenství vč. DPH.,none,497
+Terasa 2. NP [m²],terrace_area,368
+podlaží.,floor,117
+Cena vč. DPH * m2,price,467
+ZAHRADA (M2),garden_area,182
+loggia / balcony,balcony_area,299
+Uzitna_plocha,floor_area2,18
+POPTAT BYT:,none,351
+plocha teras,terrace_area,210
+Terasa/balkon (m2).,terrace_area,338
+cena vč. dph:,price,624
+terasa /balkon,exterior_area,540
+Podlaží číslo:,floor,447
+Typ_prostoru,category,321
+Cena vč. DPH**,price,231
+Plan,none,60
+cena Kč (*).,price,223
+zahrada (m²),garden_area,250
+Parkovací_stání,none,15
+Celková plocha *.,total_area,391
+Plocha svislých konstrukcí m2,none,384
+Venkovní prostory.,exterior_area,628
+VELIKOST-BYTU-m²,floor_area,347
+Orientation of windows [m²],orientation,140
+Sklep/​Sklepní_kóje_(m²),cellar_area,271
+Pozemek (m2):,total_area,21
+Kontakt:,none,156
+B/l/t (m2) 3),balcony_area,579
+m² zimní zahrady m2,garden_area,108
+PDF BYTU,none,602
+Dokončení m2,none,65
+Kod bytu,id,490
+Kolekce:,none,33
+Cena celkem vč. 12% DPH.,price,393
+AREA SIZE,floor_area,607
+Užitná plocha*:,floor_area2,147
+ORIENTATION,orientation,302
+TYP VLASTNICTVÍ,none,629
+Plocha pozemku m2,total_area,148
+Floor area m2,floor_area,298
+Cena bytu vč. příslušenství (Kč s DPH)* (m2),price,262
+detail bytu.,none,166
+Podlaží,floor,2
+BALKON/TERASA,balcony_area,363
+Užit. plocha (m2) m2,floor_area2,532
+balkón/terasa,terrace_area,543
+cena s DPH [m²],price,121
+Balkon / Terasa / Předzahrádka m2,exterior_area,358
+Cena s DPH v KC*,price,603
+Type [m²],category,137
+Odh. nájem m2,none,557
+Užitná plocha,floor_area2,25
+Cena jednotky vč. DPH [m²],price,387
+LOFT NO. (m2),id,294
+Plán:,none,60
+nemovitost.,id,395
+SKLEPNÍ KÓJE,cellar_area,211
+Celková podlahová pl.*.,floor_area,146
+projekt.,none,396
+CENA S DPH:,price,522
+TYPE,category,137
+Venkovní prostory:,exterior_area,628
+Typ prostoru:,category,321
+Plán_PDF,none,619
+Typ stání:,none,541
+type:,none,608
+Oblíbené m2,none,163
+Plocha předzahrádky (m2),garden_area,595
+Apartment,id,193
+Výměra bytu (v m2) [m²],floor_area,461
+Plocha bytu (m2) (m2),floor_area,622
+Cena vč. dph*,price,171
+Přísl.-m2,exterior_area,617
+Uzitna plocha [m²],floor_area2,18
+Nadstandardní provedení.,none,468
+type,category,137
+USAZENÍ NA POZEMKU,none,440
+Sklep / komora,cellar_area,375
+Balkón.,balcony_area,334
+Plocha RD (m2),floor_area,438
+konečná cena,price,507
+Celkem [m²],none,566
+FLAT m2,id,345
+Cena bytu vč. příslušenství (Kč s DPH)*,price,262
+PLOCHA,floor_area,11
+Basement storage (m2),cellar_area,301
+Strop_(m),none,370
+Stav jednání.,availability,28
+rozloha,floor_area,453
+Užitná plocha bytu (m2),floor_area2,482
+Balkon/Terasa/Lodzie/ Zahrada (predzahradka),balcony_area,186
+Číslo j. [m²],id,206
+orientace [m²],orientation,536
+Terasa /balkon,exterior_area,540
+Výměra bytu (v m2),floor_area,461
+Sklepní kóje.,cellar_area,211
+B/L/T_m2,exterior_area,371
+Čistá plocha:,floor_area,513
+Podlahová plocha (m²).,floor_area,157
+VELIKOST ZAHRADY V M2,garden_area,267
+PLOCHA TERAS,terrace_area,210
+Terasa 2. NP.,terrace_area,368
+Terasa / balkon (m²) [m²],exterior_area,249
+Střešní zahrada.,terrace_area,470
+Plocha-bytu-m2*,floor_area,616
+výběr k poptávce,none,362
+OBLÍBENÉ.,none,519
+cena vč. DPH:,price,432
+Užitná plocha (m²):,floor_area2,248
+Můj výběr:,none,567
+odkaz na dům,none,422
+KUPNÍ CENA S DPH,price,621
+Cena kč/m2 (bez dph),none,66
+označení,id,29
+Zahrádka:,garden_area,388
+Cena vč. dph *,price,467
+celková-plocha-m2,total_area,222
+Mám Zájem.,none,542
+Venkovní-prostory,exterior_area,628
+Plocha_příslušenství,exterior_area,282
+B/l/t (m²),balcony_area,239
+VELIKOST BYTU m²:,floor_area,347
+Termín k nastěhování m2,none,52
+Číslo a označení bytu,id,226
+Sklepní kóje (m²),cellar_area,215
+PŘEDZAHRÁDKA (M2),garden_area,339
+Prodejní plocha bytu (m2),floor_area,374
+Podlahova-plocha,floor_area,17
+MEDIA:,none,242
+BYT M2,floor_area,178
+FINAL PC [Kč] [m²],price,328
+číslo,id,104
+užitná plocha m2:,floor_area2,220
+total area,total_area,297
+Celková-plocha-*,total_area,391
+Cena s DPH (Kč).,price,491
+PODLAHOVÁ PLOCHA (M²),floor_area,157
+Číslo /Kód jednotky (m2),id,379
+DOKONČENÍ,none,65
+Podl. plocha.,floor_area,414
+Č. kn,none,234
+Podlahová plocha (m2) m2,floor_area,22
+OZNAČENÍ:,id,341
+BALKON_/_TERASA,exterior_area,275
+dostupnost *.,availability,502
+jednotka.,id,115
+čistá plocha,floor_area,513
+Terasy_na_střeše_(?),terrace_area,484
+Balkon_/_terasa,exterior_area,377
+UŽITNÁ PLOCHA (M2),floor_area2,23
+Vybavení:,none,404
+Velikost_parcely,total_area,562
+SKLEPNÍ KÓJE (M²),cellar_area,215
+Celková plocha vč. příslušenství (m2) [m²],total_area,325
+Celková plocha** m2,total_area,212
+Lodžie/terasa /předzáhradka (m2),balcony_area,586
+Rodinný dům (m2),id,594
+do katalogu,none,400
+Zahrada,garden_area,126
+MÁM ZÁJEM,none,542
+GS:,none,471
+Celková ceny bytu s DPH,price,258
+m² zimní zahrady (m2),garden_area,108
+cena vc. dph,price,624
+Půdorys bytu,none,350
+Dokumentace.,none,428
+Sklep:,cellar_area,205
+TRANSAKCE,none,398
+Podl. plocha m2,floor_area,414
+Cena vč. DPH*,price,171
+Balkon/Terasa (m2):,balcony_area,533
+Typ bytu m2,layout,227
+B / T (m2),exterior_area,593
+Aktuální stav domu [m²],none,437
+jednotka č.,id,382
+Provedení (m2),none,620
+Předzahrada.,garden_area,435
+projekt (m2),none,396
+Čistá plocha bytu [m²],floor_area,243
+číslo (m2),id,104
+vymera (m²),floor_area,546
+Rooms,layout,606
+Dům číslo.,id,436
+B/t3),exterior_area,505
+Mam Zajem,none,542
+m² balkonu m2,balcony_area,109
+Cena včetně DPH m2,price,169
+"Terasa,-balkon-(m2)",exterior_area,577
+TERASA_/_LODŽIE_(m2),exterior_area,313
+Plocha bytu (m²) (m2),floor_area,465
+Terasa/zahrada [m²],exterior_area,172
+Uzitna plocha v m2,floor_area2,265
+Jednotka č.:,id,382
+půdorys,none,247
+Building.,building,194
+Umístění m2,none,208
+Plocha bytu (m2) [m²],floor_area,622
+cena_vč._dph,price,624
+Termín dokončení:,none,420
+Terasa Předzahrádka.,exterior_area,584
+Odh. najem,none,557
+GARÁŽOVÉ STÁNÍ.,none,316
+Ev.č..,id,357
+Amenities (m2),none,201
+Velikost pozemku,total_area,320
+ČÁSTEČNĚ VYBAVENO,none,308
+Terasa 1. NP (m2),terrace_area,367
+Celková plocha (užitná) (m2),floor_area2,383
+Prodejní-cena,price,213
+Půdorysy m2,none,597
+Užitná plocha*,floor_area2,147
+Byt *** m2,id,531
+Cena_byt_vč._DPH,price,376
+Podlahová plocha* (m2),floor_area,209
+Užitná plocha *:,floor_area2,217
+Blok [m²],building,481
+Cena vc. dph 1),price,581
+plán,none,60
+Příslušenství v ceně:,none,326
+STAV m2,availability,127
+Termín_nastěhování,none,189
+Interiér:,floor_area,583
+užitná plocha (m2),floor_area2,23
+Akční cena.,price,512
+Karta domu [m²],none,128
+Akční_cena,price,512
+Karta bytu,none,53
+Cena_od_(Kč),price,144
+Evidenční číslo [m²],id,445
+garážové stání,none,316
+Price Range (m2),none,575
+Completion (m2),none,198
+Celková-plocha-vč.-příslušenství-(m2),total_area,325
+Velikost-pozemku,total_area,320
+příslušenství.,none,120
+Odkaz na dům (m2),none,422
+pl. zahrady,garden_area,290
+Balkón / Terasa [m²] m2,exterior_area,526
+výběr k poptávce m2,none,362
+Stav inzerce [m²],availability,556
+Podlahová plocha (m2).,floor_area,22
+nastěhování:,none,361
+info,none,269
+podrobnosti (m2),none,412
+Ceníková cena,price,511
+PLOCHA (m²):,floor_area,515
+ID:,id,42
+plocha předzahrádky,garden_area,595
+Exteriér:,exterior_area,190
+GARAZOVE STANI,none,316
+"BALKÓN, TERASA, M²",exterior_area,246
+Rodinný dům.,id,594
+Plán PDF:,none,619
+AVAILABILITY,availability,303
+Detail-bytu,none,7
+TERASA/BALKON PŘEDZAHRÁDKA (M2),exterior_area,449
+Terasa_/_balkon_(m²),exterior_area,249
+Pudorysy,none,597
+Termin k nastehovani,none,52
+Pozemek,total_area,41
+virtuální prohlídka (m2),none,554
+Výměra bytu (v m2) (m2),floor_area,461
+Odh.-nájem,none,557
+BYTOVÁ JEDNOTKA,id,149
+B/T/L,exterior_area,129
+ZAHRADA M²,garden_area,36
+"Plocha domu od, m² m2",floor_area,143
+Cena_včetně_DPH,price,169
+usazení na pozemku,none,440
+číslo bytu (m2),id,520
+Celková plocha (bez terasy) m2,floor_area,385
+Cena*,price,560
+Price (czk),price,141
+CENA (m2),price,241
+Cena za m2,none,493
+Uzitna-plocha,floor_area2,18
+sklep (m²) (m2),cellar_area,548
+Cena za byt s DPH (bez příslušenství) [m²],price,191
+Evidenční-číslo,id,445
+Podl._plocha1),floor_area,592
+PLOCHA SKLEPA,cellar_area,307
+cena-celkem,price,399
+"Plocha domu od, m².",floor_area,143
+BALKON / TERASA / PŘEDZAHRÁDKA,exterior_area,358
+Price inc. VAT:,price,456
+"Price of amenities, inc. VAT m2",price,200
+PLOCHA_(M²),floor_area,238
+Podlahová plocha vč. garáže.,floor_area,366
+Plocha-m²,floor_area,4
+Výměra terasy (v m2).,terrace_area,463
+blok m2,building,116
+Basement-storage,cellar_area,301
+TERMÍN NASTĚHOVÁNÍ,none,189
+Kupní-cena-s-DPH,price,621
+Byt m2 m2,floor_area,178
+Plocha sklepa m2,cellar_area,307
+Podlah. plocha [m²],floor_area,330
+Půdorys [m²],none,247
+Balkon-/-Terasa,balcony_area,27
+Terasa / balkon (m²) (m2),exterior_area,249
+Terasa/Lodžie [m²],exterior_area,280
+Speciální vybavení,none,64
+detail:,none,288
+VILA (m2),id,612
+KÓD,id,336
+Dům.,id,102
+cena s DPH (Kč),price,450
+podrobnosti [m²],none,412
+PLOCHA CELKEM M2,total_area,372
+Apartment (m2),id,193
+balkón / předzahrádka / terasa (m²),garden_area,168
+cena vč. dph**,price,231
+Balkon/Terasa (m2).,balcony_area,533
+PŮDORYS-BYTU,none,350
+Typ prostoru [m²],category,321
+Pozemek (m2),total_area,21
+celková plocha m2 (m2),total_area,222
+"Balcony, terrace, m²:",exterior_area,139
+Počet pokojů.,layout,322
+Užitná plocha (m²) (m2),floor_area2,248
+BASEMENT STORAGE,cellar_area,301
+Bytová jednotka:,id,149
+Cena vč. dph,price,51
+Terasa/balkon (m2) [m²],terrace_area,338
+STAV PRODEJE,availability,552
+Rok dokončení [m²],none,473
+Etapa:,none,390
+číslo bytu m2,id,520
+Cena_rezervovaného_sklepa_(Kč)_*,none,160
+Price_Range,none,575
+č. [m²],id,601
+detail m2,none,288
+číslo jednotky.,id,283
+jednotka:,id,115
+Plocha-teras,terrace_area,210
+Parkovací stání.,none,15
+Celková_plocha_(m2),total_area,340
+Terasa 2. NP m2,terrace_area,368
+projekt m2,none,396
+cena vč. DPH1) m2,price,506
+Cena s DPH v KČ*,price,603
+Lodžie m2,balcony_area,50
+Cena bytu s dph,price,360
+Plocha rd,floor_area,438
+Užitná-plocha-(m2)1),floor_area2,588
+Podl. plocha1).,floor_area,592
+status [m²],availability,611
+STAV [m²],availability,127
