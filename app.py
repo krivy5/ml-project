@@ -1,20 +1,19 @@
 import re
 
 import joblib
+import pandas as pd
 import unicodedata
 
 import streamlit as st
 
-
 def preprocess_slovak_text(text: str) -> str:
-
     if text is None:
         return ""
 
     text = str(text).lower()
-    
+
     text = unicodedata.normalize("NFKD", text)
-    
+
     text = "".join(
         char for char in text
         if not unicodedata.combining(char)
@@ -40,7 +39,6 @@ def load_my_model(file):
 model = load_my_model("model.pkl")
 model_preprocessed = load_my_model("model_preprocessed.pkl")
 
-
 st.title("📊 Column Normalizer")
 st.markdown("Enter a column name to see its standardized mapping.")
 
@@ -56,11 +54,11 @@ if user_input:
     st.progress(float(confidence))
     st.write(f"Confidence: {confidence:.2%}")
 
-
 st.title("📊 Column Normalizer Preprocessed")
 st.markdown("Enter a column name to see its standardized mapping.")
 
-user_input_clear = st.text_input("Column Name (preprocessed model)", placeholder="e.g., cena bytu")
+user_input_clear = st.text_input("Column Name (preprocessed model)",
+                                 placeholder="e.g., cena bytu")
 
 if user_input_clear:
     user_input_preprocessed = preprocess_slovak_text(user_input_clear)
@@ -72,3 +70,28 @@ if user_input_clear:
     st.success(f"Predicted Category: **{prediction}**")
     st.progress(float(confidence))
     st.write(f"Confidence: {confidence:.2%}")
+
+
+st.subheader("Test results")
+
+dummy_data = pd.DataFrame(
+    {
+        "Normal": ["73.16 %", "93.16 %"],
+        "Preprocessed": ["75.66 %", "93.65 %"],
+    },
+    index=["Top-1 accuracy", "Top-3 accuracy"]
+
+)
+
+st.table(dummy_data)
+
+st.subheader("Model description")
+
+model_description = """Model: Použili sme logistickú regresiu kvôli rýchlosti a stabilite. Vstupné dáta sme zmenili pomocou TF-IDF a následne ich zabalili do Pipeline.
+
+Kalibrácia: Použili sme kalibráciu (sigmoid metóda a 3-násobná cross-validácia), aby výsledok lepšie zodpovedal realite pri "noisy" dátach a určení top-k presnosti.
+
+Trénovanie: Trénujeme na čistých aj noisy dátach pre väčšiu robustnosť a testujeme na čistých dátach, aby hodnotenie ostalo férové.
+
+Metriky: Pozeráme na správnosť modelu pri top-1 accuracy a zároveň aj top-3 accuracy."""
+st.write(model_description)
